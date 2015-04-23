@@ -1,0 +1,101 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429828305355">
+  <folder name="css">
+    <file name="site_global.css" crc="323648061"/>
+    <file name="master_main.css" crc="195240385" ref="contact:about:resume:portfolio"/>
+    <file name="contact.css" crc="398660088" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3921100993" ref="contact"/>
+    <file name="about.css" crc="63597448" ref="about"/>
+    <file name="iefonts_about.css" crc="281952950" ref="about"/>
+    <file name="resume.css" crc="517782356" ref="resume"/>
+    <file name="iefonts_resume.css" crc="276488452" ref="resume"/>
+    <file name="index.css" crc="3822642708" ref="index"/>
+    <file name="iefonts_index.css" crc="3847333994" ref="index"/>
+    <file name="portfolio.css" crc="3874116311" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="3935849837" ref="portfolio"/>
+    <file name="master_home.css" crc="358817613" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="carousel1.jpg" crc="4021039027" mt="1427737816000"/>
+    <file name="carousel2.jpg" crc="201076024" mt="1427737820000"/>
+    <file name="carousel3.jpg" crc="265038526" mt="1427737824000"/>
+    <file name="carousel4.jpg" crc="506462349" mt="1427737826000"/>
+    <file name="carousel5.jpg" crc="343519004" mt="1427737826000"/>
+    <file name="caf_resume_web_v007.pdf" crc="3901539520" mt="1429117330000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:portfolio:resume:contact"/>
+    <file name="museutils.js" crc="521960461" ref="index:about:portfolio:resume:contact"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:portfolio:resume:contact"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:about:portfolio:resume:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:about"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:portfolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:resume:contact"/>
+    <file name="webpro.js" crc="220831917" ref="portfolio"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="portfolio"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="portfolio"/>
+    <file name="touchswipe.js" crc="325405309" ref="portfolio"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="223114030" ref="index"/>
+    <file name="caf_logowhite_final.svg" crc="4080858730" ref="index:about"/>
+    <file name="caf_logowhite_final_poster_u2096.png" crc="78742910" ref="index:about"/>
+    <file name="caf_logonavy_final.svg" crc="490246400" ref="index:about"/>
+    <file name="caf_logonavy_final_poster_u2107.png" crc="3961454424" ref="index:about"/>
+    <file name="home_image1.png" crc="90700590" ref="index"/>
+    <file name="caf_namewhite_final.svg" crc="48388523" ref="index"/>
+    <file name="caf_namewhite_final_poster_.png" crc="479636459" ref="index"/>
+    <file name="home_graphic.svg" crc="4003375444" ref="index"/>
+    <file name="home_graphic_poster_.png" crc="409206811" ref="index"/>
+    <file name="home_web.svg" crc="4133410130" ref="index"/>
+    <file name="home_web_poster_.png" crc="3922428537" ref="index"/>
+    <file name="home_photography.svg" crc="4026332962" ref="index"/>
+    <file name="home_photography_poster_.png" crc="353898825" ref="index"/>
+    <file name="email.svg" crc="4112208604" ref="index:about:portfolio:resume:contact"/>
+    <file name="email_poster_.png" crc="151904412" ref="index"/>
+    <file name="linkedin.svg" crc="86007529" ref="index:about:portfolio:resume:contact"/>
+    <file name="linkedin_poster_.png" crc="303793678" ref="index"/>
+    <file name="behance.svg" crc="140281064" ref="index:about:portfolio:resume:contact"/>
+    <file name="behance_poster_.png" crc="154712653" ref="index"/>
+    <file name="pinterest.svg" crc="341970550" ref="index:about:portfolio:resume:contact"/>
+    <file name="pinterest_poster_.png" crc="3908955372" ref="index"/>
+    <file name="about_drawing.svg" crc="4086138002" ref="about"/>
+    <file name="about_drawing_poster_.png" crc="75299116" ref="about"/>
+    <file name="about_photography.svg" crc="3852919972" ref="about"/>
+    <file name="about_photography_poster_.png" crc="4043508782" ref="about"/>
+    <file name="about_socialmedia.svg" crc="4101802674" ref="about"/>
+    <file name="about_socialmedia_poster_.png" crc="3784064747" ref="about"/>
+    <file name="about_advertising2.svg" crc="118693668" ref="about"/>
+    <file name="about_advertising2_poster_.png" crc="4159686333" ref="about"/>
+    <file name="about_typography.svg" crc="463605559" ref="about"/>
+    <file name="about_typography_poster_.png" crc="17937184" ref="about"/>
+    <file name="about_logo.svg" crc="91669199" ref="about"/>
+    <file name="about_logo_poster_.png" crc="96148642" ref="about"/>
+    <file name="about_tech.svg" crc="519759611" ref="about"/>
+    <file name="about_tech_poster_.png" crc="373885283" ref="about"/>
+    <file name="about_sports.svg" crc="454977922" ref="about"/>
+    <file name="about_sports_poster_.png" crc="4211945457" ref="about"/>
+    <file name="about_fitness.svg" crc="3925586637" ref="about"/>
+    <file name="about_fitness_poster_.png" crc="527654524" ref="about"/>
+    <file name="item1.jpg" crc="3818628682" ref="portfolio"/>
+    <file name="item2.jpg" crc="3946336428" ref="portfolio"/>
+    <file name="item3.jpg" crc="359843992" ref="portfolio"/>
+    <file name="item4.jpg" crc="415731305" ref="portfolio"/>
+    <file name="item5.jpg" crc="4244140865" ref="portfolio"/>
+    <file name="item6.jpg" crc="4248758068" ref="portfolio"/>
+    <file name="item7.jpg" crc="3898456337" ref="portfolio"/>
+    <file name="item8.jpg" crc="63896649" ref="portfolio"/>
+    <file name="item9.jpg" crc="119542411" ref="portfolio"/>
+    <file name="item10.jpg" crc="390149306" ref="portfolio"/>
+    <file name="item11.jpg" crc="3977629436" ref="portfolio"/>
+    <file name="item12.jpg" crc="52841104" ref="portfolio"/>
+    <file name="caf_resume_web_v007.svg" crc="3838124091" ref="resume"/>
+    <file name="caf_resume_web_v007_poster_.png" crc="35340241" ref="resume"/>
+    <file name="softwareskills.svg" crc="248525347" ref="resume"/>
+    <file name="softwareskills_poster_.png" crc="4114025885" ref="resume"/>
+  </folder>
+  <file name="index.html" crc="418374500" mt="1429828259546" redirect="true"/>
+  <file name="about.html" crc="77082907" mt="1429828243488" redirect="true"/>
+  <file name="portfolio.html" crc="78592637" mt="1429825651415" redirect="true"/>
+  <file name="resume.html" crc="4077672008" mt="1429825651415" redirect="true"/>
+  <file name="contact.html" crc="4042009967" mt="1429825651415" redirect="true"/>
+</manifest>
