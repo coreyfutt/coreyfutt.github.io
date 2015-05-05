@@ -1,404 +1,1508 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.coreyfutterman.com/assets/carousel1.jpg</loc>
-    <lastmod>2015-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/assets/carousel2.jpg</loc>
-    <lastmod>2015-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/assets/carousel3.jpg</loc>
-    <lastmod>2015-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/assets/carousel4.jpg</loc>
-    <lastmod>2015-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/assets/carousel5.jpg</loc>
-    <lastmod>2015-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.coreyfutterman.com/assets/caf_resume_web_v007.pdf</loc>
     <lastmod>2015-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.coreyfutterman.com/assets/caf_resume_web_v008.pdf</loc>
+    <lastmod>2015-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.coreyfutterman.com/images/favicon.ico</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_logowhite_final.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_logowhite_final_poster_u2096.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_logonavy_final.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_logonavy_final_poster_u2107.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_image1.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/caf_namewhite_final.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/caf_namewhite_final_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_graphic.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_graphic_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_web.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_web_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_photography.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/home_photography_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/email.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/email_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/linkedin.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/linkedin_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/behance.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/behance_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/pinterest.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/pinterest_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_drawing.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_drawing_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_photography.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_photography_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_socialmedia.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_socialmedia_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_advertising2.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_advertising2_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_typography.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_typography_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_logo.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_logo_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_tech.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_tech_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_sports.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_sports_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_fitness.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/about_fitness_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item1.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item2.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item3.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item4.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item5.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item6.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item7.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item8.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item9.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item10.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item11.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/item12.jpg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_resume_web_v007.svg</loc>
-    <lastmod>2015-04-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.coreyfutterman.com/images/caf_resume_web_v007_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/softwareskills.svg</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/images/softwareskills_poster_.png</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_logowhite_off_final.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_logowhite_off_final_poster_u2613.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_logonavy_on_final.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_logonavy_on_final_poster_u2618.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/email_off.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/email_off_poster_u2545.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/email_on.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/email_on_poster_u2551.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/linkedin_off.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/linkedin_off_poster_u2531.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/linkedin_on.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/linkedin_on_poster_u2537.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/behance_off.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/behance_off_poster_u2504.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/behance_on.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/behance_on_poster_u2508.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pinterest_off.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pinterest_off_poster_u2517.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pinterest_on.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pinterest_on_poster_u2523.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/headshot_website.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_resume_web_v008.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/caf_resume_web_v008_poster_.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/arrow_off.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/arrow_off_poster_.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u3652.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u3646.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u3642.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u3650.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u3648.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u3638.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u3654.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u3640.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u3644.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/blank.gif</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/first.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/first_poster_u3760.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/left-arrow.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/left-arrow_poster_u3746.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/right-arrow.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/right-arrow_poster_u3722.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/last.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/last_poster_u3742.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pasted%20svg%2036x36.svg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/pasted%20svg%2036x36_poster_.png</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/loading.gif</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u3921.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u3915.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u3931.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u3923.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u3917.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u3929.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u3919.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u3927.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u3925.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u4081.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u4075.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u4067.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u4079.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u4071.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u4069.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u4065.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u4077.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u4073.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5417.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5411.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5427.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5419.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5413.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5425.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5415.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5423.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5421.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5365.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5359.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5351.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5363.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5355.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5353.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5349.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5361.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5357.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5266.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5268.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5264.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5272.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5274.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5262.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5260.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5270.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5276.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5593.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5587.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5585.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5589.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5581.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5591.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5583.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5595.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5579.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5537.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5527.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5531.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5523.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5533.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5525.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5535.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5521.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5529.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5674.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5684.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5672.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5678.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5688.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5676.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5686.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5680.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5682.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5962.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5958.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5966.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5960.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5970.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5974.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5964.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5968.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5972.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5819.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5813.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5823.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5807.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5821.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5817.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5815.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5809.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5811.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u5912.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u5914.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u5906.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u5902.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u5904.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u5910.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u5908.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u5918.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u5916.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6256.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6260.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6258.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6262.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6264.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6270.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6268.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6266.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6254.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6090.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6096.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6100.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6088.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6086.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6102.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6098.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6092.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6094.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6207.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6205.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6197.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6199.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6201.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6211.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6203.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6209.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6213.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6407.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6397.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6405.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6399.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6409.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6401.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6403.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6395.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6411.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6495.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6503.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6489.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6497.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6499.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6501.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6491.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6487.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6493.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_5656-crop-u6441.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_4683-crop-u6447.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_img_9950-crop-u6443.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9434-crop-u6457.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_9954-crop-u6455.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-2548-crop-u6451.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire_2747-crop-u6449.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8075-crop-u6445.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/images/splitshire-8377-crop-u6453.jpg</loc>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/index.html</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/about.html</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/portfolio.html</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/resume.html</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/contact.html</loc>
-    <lastmod>2015-04-23</lastmod>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/freelance.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/sports.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/typography.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/editorial.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/infographics.html</loc>
+    <lastmod>2015-05-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.coreyfutterman.com/branding.html</loc>
+    <lastmod>2015-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

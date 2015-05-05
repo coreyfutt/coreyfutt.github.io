@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #D8E614;
+	color: #000013;
+	background-color: #F15CF1;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 2114px;
+	min-height: 2112px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,6 +25,12 @@
 #page_position_content
 {
 	width: 0.01px;
+}
+
+#pu2329
+{
+	width: 0.01px;
+	margin-left: -100px;
 }
 
 #u2329
@@ -195,63 +201,27 @@
 	min-height: 83px;
 }
 
-#buttonu2352
+#u2344
 {
-	z-index: 146;
-	width: 192px;
-	border-color: #787878;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 34px;
-	left: 122px;
-	background: transparent url("../images/caf_logowhite_final.svg") no-repeat left top;
-	background-size: contain;
+	z-index: 58;
+	height: 526px;
 }
 
-#buttonu2352:hover
+#u2344-bw
 {
-	width: 192px;
-	min-height: 0px;
-	margin: 34px -10000px 0px 0px;
-	background: transparent url("../images/caf_logonavy_final.svg") no-repeat center center;
-	background-size: cover;
+	z-index: 58;
+	margin-top: 128px;
+	height: 526px;
 }
 
-#buttonu2352.ButtonSelected
+#u6794
 {
-	width: 192px;
-	min-height: 0px;
-	margin: 34px -10000px 0px 0px;
-	background: transparent url("../images/caf_logowhite_final.svg") no-repeat left top;
-	background-size: contain;
+	z-index: 59;
+	min-height: 506px;
+	padding-bottom: 70px;
 }
 
-.nosvg #buttonu2352:hover
-{
-	background-image: url('../images/caf_logonavy_final_poster_u2107.png');
-}
-
-.nosvg #buttonu2352,.nosvg #buttonu2352.ButtonSelected
-{
-	background-image: url('../images/caf_logowhite_final_poster_u2096.png');
-}
-
-#u2355
-{
-	z-index: 147;
-	width: 192px;
-	height: 59px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#pu2329,#pu2344
-{
-	width: 0.01px;
-	margin-left: -100px;
-}
-
-#u2329_align_to_page,#u2344_align_to_page
+#u2329_align_to_page,#u6794_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
@@ -259,31 +229,55 @@
 	left: -100px;
 }
 
-#u2345
-{
-	z-index: 63;
-	width: 1160px;
-	margin-right: -10000px;
-	margin-top: -51px;
-}
-
-#u2344,#u2344-bw
-{
-	z-index: 62;
-	min-height: 526px;
-}
-
 #u2347
 {
-	z-index: 65;
+	z-index: 60;
 	margin-right: -10000px;
-	margin-top: 20px;
+	margin-top: 71px;
 	left: 122px;
+}
+
+#u6794-bw
+{
+	z-index: 59;
+	min-height: 506px;
+	margin-top: 77px;
+}
+
+#buttonu2638
+{
+	z-index: 67;
+	width: 192px;
+	margin-right: -10000px;
+	margin-top: 36px;
+	left: 122px;
+}
+
+#buttonu2638:hover
+{
+	width: 192px;
+	min-height: 0px;
+	margin: 36px -10000px 0px 0px;
+}
+
+#buttonu2638.ButtonSelected
+{
+	width: 192px;
+	min-height: 0px;
+	margin: 36px -10000px 0px 0px;
+}
+
+#u2639
+{
+	z-index: 68;
+	width: 192px;
+	height: 61px;
+	margin-right: -10000px;
 }
 
 #u422-22
 {
-	z-index: 68;
+	z-index: 69;
 	width: 708px;
 	min-height: 118px;
 	background-color: transparent;
@@ -314,7 +308,7 @@
 
 #u425
 {
-	z-index: 132;
+	z-index: 133;
 	width: 916px;
 	height: 10px;
 	border-style: solid;
@@ -343,7 +337,7 @@
 
 #u426-4
 {
-	z-index: 90;
+	z-index: 91;
 	width: 292px;
 	min-height: 33px;
 	background-color: transparent;
@@ -358,7 +352,7 @@
 
 #u428-10
 {
-	z-index: 102;
+	z-index: 103;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
@@ -374,7 +368,7 @@
 
 #u838
 {
-	z-index: 139;
+	z-index: 140;
 	position: relative;
 	margin-right: -10000px;
 	left: 534px;
@@ -389,7 +383,7 @@
 
 #u433-4
 {
-	z-index: 98;
+	z-index: 99;
 	width: 292px;
 	min-height: 33px;
 	background-color: transparent;
@@ -407,7 +401,7 @@
 
 #u434-10
 {
-	z-index: 122;
+	z-index: 123;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
@@ -425,7 +419,7 @@
 
 #u857
 {
-	z-index: 140;
+	z-index: 141;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -447,7 +441,7 @@
 
 #u431-4
 {
-	z-index: 94;
+	z-index: 95;
 	width: 433px;
 	min-height: 33px;
 	background-color: transparent;
@@ -467,7 +461,7 @@
 
 #u432-10
 {
-	z-index: 112;
+	z-index: 113;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
@@ -483,7 +477,7 @@
 
 #u774
 {
-	z-index: 138;
+	z-index: 139;
 	position: relative;
 	margin-right: -10000px;
 	left: 532px;
@@ -498,7 +492,7 @@
 
 #buttonu435
 {
-	z-index: 133;
+	z-index: 134;
 	width: 292px;
 	border-width: 2px;
 	border-style: solid;
@@ -521,7 +515,7 @@
 
 #u436-4
 {
-	z-index: 134;
+	z-index: 135;
 	width: 293px;
 	min-height: 23px;
 	background-color: transparent;
@@ -558,7 +552,7 @@
 
 #buttonu1886
 {
-	z-index: 141;
+	z-index: 142;
 	width: 294px;
 	border-style: none;
 	border-color: transparent;
@@ -581,7 +575,7 @@
 
 #u1887-4
 {
-	z-index: 142;
+	z-index: 143;
 	width: 293px;
 	min-height: 23px;
 	background-color: transparent;
@@ -618,7 +612,8 @@
 #u2327
 {
 	z-index: 3;
-	min-height: 247px;
+	min-height: 246.99999999999977px;
+	padding-bottom: 0px;
 }
 
 #u2327_align_to_page
@@ -631,36 +626,36 @@
 	padding-bottom: 20px;
 }
 
-#buttonu2359
+#buttonu2611
 {
-	z-index: 66;
+	z-index: 65;
 	width: 192px;
 	left: 484px;
 }
 
-#buttonu2359:hover
+#buttonu2611:hover
 {
 	width: 192px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#buttonu2359.ButtonSelected
+#buttonu2611.ButtonSelected
 {
 	width: 192px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u2360
+#u2637
 {
-	z-index: 67;
+	z-index: 66;
 	width: 192px;
-	height: 59px;
+	height: 61px;
 	margin-right: -10000px;
 }
 
-.ie #u2355,.ie #u2360
+.ie #u2639,.ie #u2637
 {
 	background-color: #FFFFFF;
 	opacity: 0.01;
@@ -673,7 +668,7 @@
 	z-index: 29;
 	width: 341px;
 	left: 409px;
-	margin-top: 19px;
+	margin-top: 17px;
 }
 
 #u2311
@@ -838,48 +833,85 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu2325
+#pbuttonu2559
 {
 	width: 0.01px;
-	left: 484px;
+	left: 485px;
 	margin-top: 17px;
 	position: relative;
 }
 
-#u2325
+#buttonu2559
 {
-	z-index: 59;
-	width: 35px;
+	z-index: 63;
+	width: 34px;
+	height: 34px;
 	margin-right: -10000px;
 }
 
-#u2318
+#buttonu2559:hover
 {
-	z-index: 60;
-	width: 35px;
+	width: 34px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu2558
+{
+	z-index: 62;
+	width: 34px;
+	height: 34px;
 	margin-right: -10000px;
 	left: 52px;
 }
 
-#u2323
+#buttonu2559.ButtonSelected,#buttonu2558:hover
 {
-	z-index: 58;
-	width: 35px;
-	margin-right: -10000px;
-	left: 105px;
+	width: 34px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
-#u2320
+#buttonu2557
 {
 	z-index: 61;
-	width: 35px;
+	width: 34px;
+	height: 34px;
+	margin-right: -10000px;
+	left: 104px;
+}
+
+#buttonu2558.ButtonSelected,#buttonu2557:hover
+{
+	width: 34px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu2560
+{
+	z-index: 64;
+	width: 34px;
+	height: 34px;
 	margin-right: -10000px;
 	left: 157px;
 }
 
-#u2325:hover,#u2318:hover,#u2323:hover,#u2320:hover
+#buttonu2557.ButtonSelected,#buttonu2560:hover
 {
-	width: 35px;
+	width: 34px;
+	height: 34px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu2560.ButtonSelected
+{
+	width: 34px;
+	height: 34px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
@@ -890,14 +922,14 @@
 	width: 222px;
 	min-height: 10px;
 	left: 469px;
-	margin-top: 20px;
+	margin-top: 21px;
 }
 
 #u2327-bw
 {
 	z-index: 3;
-	min-height: 247px;
-	margin-top: 91px;
+	min-height: 246.99999999999977px;
+	margin-top: 89px;
 }
 
 body

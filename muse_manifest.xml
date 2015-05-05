@@ -1,47 +1,51 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1429828305355">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430802767915">
   <folder name="css">
     <file name="site_global.css" crc="323648061"/>
-    <file name="master_main.css" crc="195240385" ref="contact:about:resume:portfolio"/>
-    <file name="contact.css" crc="398660088" ref="contact"/>
+    <file name="master_main.css" crc="60527450" ref="contact:about:resume:portfolio:typography:editorial:freelance:infographics:sports:branding"/>
+    <file name="contact.css" crc="3952941951" ref="contact"/>
     <file name="iefonts_contact.css" crc="3921100993" ref="contact"/>
-    <file name="about.css" crc="63597448" ref="about"/>
+    <file name="about.css" crc="413254759" ref="about"/>
     <file name="iefonts_about.css" crc="281952950" ref="about"/>
-    <file name="resume.css" crc="517782356" ref="resume"/>
-    <file name="iefonts_resume.css" crc="276488452" ref="resume"/>
-    <file name="index.css" crc="3822642708" ref="index"/>
+    <file name="resume.css" crc="4203051041" ref="resume"/>
+    <file name="iefonts_resume.css" crc="4198611962" ref="resume"/>
+    <file name="index.css" crc="334585073" ref="index"/>
     <file name="iefonts_index.css" crc="3847333994" ref="index"/>
-    <file name="portfolio.css" crc="3874116311" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="3935849837" ref="portfolio"/>
-    <file name="master_home.css" crc="358817613" ref="index"/>
+    <file name="portfolio.css" crc="3776661283" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="325306103" ref="portfolio"/>
+    <file name="master_home.css" crc="173108759" ref="index"/>
+    <file name="typography.css" crc="4091872562" ref="typography"/>
+    <file name="iefonts_typography.css" crc="3804557806" ref="typography"/>
+    <file name="editorial.css" crc="185603467" ref="editorial"/>
+    <file name="iefonts_editorial.css" crc="153155221" ref="editorial"/>
+    <file name="freelance.css" crc="3854142790" ref="freelance"/>
+    <file name="iefonts_freelance.css" crc="343552736" ref="freelance"/>
+    <file name="infographics.css" crc="4282596463" ref="infographics"/>
+    <file name="iefonts_infographics.css" crc="3893006900" ref="infographics"/>
+    <file name="sports.css" crc="4012549889" ref="sports"/>
+    <file name="iefonts_sports.css" crc="4095827467" ref="sports"/>
+    <file name="branding.css" crc="330944304" ref="branding"/>
+    <file name="iefonts_branding.css" crc="386364802" ref="branding"/>
   </folder>
   <folder name="assets">
-    <file name="carousel1.jpg" crc="4021039027" mt="1427737816000"/>
-    <file name="carousel2.jpg" crc="201076024" mt="1427737820000"/>
-    <file name="carousel3.jpg" crc="265038526" mt="1427737824000"/>
-    <file name="carousel4.jpg" crc="506462349" mt="1427737826000"/>
-    <file name="carousel5.jpg" crc="343519004" mt="1427737826000"/>
     <file name="caf_resume_web_v007.pdf" crc="3901539520" mt="1429117330000"/>
+    <file name="caf_resume_web_v008.pdf" crc="4024225565" mt="1430422012000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:portfolio:resume:contact"/>
-    <file name="museutils.js" crc="521960461" ref="index:about:portfolio:resume:contact"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:portfolio:resume:contact"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:about:portfolio:resume:contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:about"/>
-    <file name="pie.js" crc="3827607177" ref="index:about:portfolio"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:resume:contact"/>
-    <file name="webpro.js" crc="220831917" ref="portfolio"/>
-    <file name="musewpslideshow.js" crc="224651946" ref="portfolio"/>
-    <file name="jquery.museoverlay.js" crc="276313855" ref="portfolio"/>
-    <file name="touchswipe.js" crc="325405309" ref="portfolio"/>
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:portfolio:resume:contact:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="museutils.js" crc="521960461" ref="index:about:portfolio:resume:contact:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:portfolio:resume:contact:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="jquery.watch.js" crc="56779320" ref="index:about:portfolio:resume:contact:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:about:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="pie.js" crc="3827607177" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:resume:contact:freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="webpro.js" crc="220831917" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="touchswipe.js" crc="325405309" ref="freelance:sports:typography:editorial:infographics:branding"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="223114030" ref="index"/>
-    <file name="caf_logowhite_final.svg" crc="4080858730" ref="index:about"/>
-    <file name="caf_logowhite_final_poster_u2096.png" crc="78742910" ref="index:about"/>
-    <file name="caf_logonavy_final.svg" crc="490246400" ref="index:about"/>
-    <file name="caf_logonavy_final_poster_u2107.png" crc="3961454424" ref="index:about"/>
-    <file name="home_image1.png" crc="90700590" ref="index"/>
+    <file name="home_image1.png" crc="238277797" ref="index"/>
     <file name="caf_namewhite_final.svg" crc="48388523" ref="index"/>
     <file name="caf_namewhite_final_poster_.png" crc="479636459" ref="index"/>
     <file name="home_graphic.svg" crc="4003375444" ref="index"/>
@@ -50,14 +54,6 @@
     <file name="home_web_poster_.png" crc="3922428537" ref="index"/>
     <file name="home_photography.svg" crc="4026332962" ref="index"/>
     <file name="home_photography_poster_.png" crc="353898825" ref="index"/>
-    <file name="email.svg" crc="4112208604" ref="index:about:portfolio:resume:contact"/>
-    <file name="email_poster_.png" crc="151904412" ref="index"/>
-    <file name="linkedin.svg" crc="86007529" ref="index:about:portfolio:resume:contact"/>
-    <file name="linkedin_poster_.png" crc="303793678" ref="index"/>
-    <file name="behance.svg" crc="140281064" ref="index:about:portfolio:resume:contact"/>
-    <file name="behance_poster_.png" crc="154712653" ref="index"/>
-    <file name="pinterest.svg" crc="341970550" ref="index:about:portfolio:resume:contact"/>
-    <file name="pinterest_poster_.png" crc="3908955372" ref="index"/>
     <file name="about_drawing.svg" crc="4086138002" ref="about"/>
     <file name="about_drawing_poster_.png" crc="75299116" ref="about"/>
     <file name="about_photography.svg" crc="3852919972" ref="about"/>
@@ -76,26 +72,226 @@
     <file name="about_sports_poster_.png" crc="4211945457" ref="about"/>
     <file name="about_fitness.svg" crc="3925586637" ref="about"/>
     <file name="about_fitness_poster_.png" crc="527654524" ref="about"/>
-    <file name="item1.jpg" crc="3818628682" ref="portfolio"/>
-    <file name="item2.jpg" crc="3946336428" ref="portfolio"/>
-    <file name="item3.jpg" crc="359843992" ref="portfolio"/>
-    <file name="item4.jpg" crc="415731305" ref="portfolio"/>
-    <file name="item5.jpg" crc="4244140865" ref="portfolio"/>
-    <file name="item6.jpg" crc="4248758068" ref="portfolio"/>
-    <file name="item7.jpg" crc="3898456337" ref="portfolio"/>
-    <file name="item8.jpg" crc="63896649" ref="portfolio"/>
-    <file name="item9.jpg" crc="119542411" ref="portfolio"/>
-    <file name="item10.jpg" crc="390149306" ref="portfolio"/>
-    <file name="item11.jpg" crc="3977629436" ref="portfolio"/>
-    <file name="item12.jpg" crc="52841104" ref="portfolio"/>
-    <file name="caf_resume_web_v007.svg" crc="3838124091" ref="resume"/>
-    <file name="caf_resume_web_v007_poster_.png" crc="35340241" ref="resume"/>
     <file name="softwareskills.svg" crc="248525347" ref="resume"/>
     <file name="softwareskills_poster_.png" crc="4114025885" ref="resume"/>
+    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about"/>
+    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about"/>
+    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about"/>
+    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about"/>
+    <file name="email_off.svg" crc="4112208604" ref="index:about"/>
+    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about"/>
+    <file name="email_on.svg" crc="3999865010" ref="index:about"/>
+    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about"/>
+    <file name="linkedin_off.svg" crc="86007529" ref="index:about"/>
+    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about"/>
+    <file name="linkedin_on.svg" crc="307131357" ref="index:about"/>
+    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about"/>
+    <file name="behance_off.svg" crc="140281064" ref="index:about"/>
+    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about"/>
+    <file name="behance_on.svg" crc="147265255" ref="index:about"/>
+    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about"/>
+    <file name="pinterest_off.svg" crc="341970550" ref="index:about"/>
+    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about"/>
+    <file name="pinterest_on.svg" crc="3797888433" ref="index:about"/>
+    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about"/>
+    <file name="headshot_website.jpg" crc="3991573074" ref="about"/>
+    <file name="caf_resume_web_v008.svg" crc="4290875318" ref="resume"/>
+    <file name="caf_resume_web_v008_poster_.png" crc="3804894955" ref="resume"/>
+    <file name="arrow_off.svg" crc="458579613" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="arrow_off_poster_.png" crc="4255836493" ref="freelance"/>
+    <file name="splitshire_img_5656-crop-u3652.jpg" crc="482507777" ref="freelance"/>
+    <file name="splitshire_img_4683-crop-u3646.jpg" crc="470831885" ref="freelance"/>
+    <file name="splitshire_img_9950-crop-u3642.jpg" crc="45319657" ref="freelance"/>
+    <file name="splitshire_9434-crop-u3650.jpg" crc="473724575" ref="freelance"/>
+    <file name="splitshire_9954-crop-u3648.jpg" crc="4004453143" ref="freelance"/>
+    <file name="splitshire-2548-crop-u3638.jpg" crc="422188687" ref="freelance"/>
+    <file name="splitshire_2747-crop-u3654.jpg" crc="4132570583" ref="freelance"/>
+    <file name="splitshire-8075-crop-u3640.jpg" crc="3859337034" ref="freelance"/>
+    <file name="splitshire-8377-crop-u3644.jpg" crc="454376082" ref="freelance"/>
+    <file name="splitshire_img_5656.jpg" crc="284556778" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="blank.gif" crc="4208392903" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_img_4683.jpg" crc="530818371" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_img_9950.jpg" crc="511352126" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_9434.jpg" crc="4080587915" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_9954.jpg" crc="278667589" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire-2548.jpg" crc="4114657748" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_2747.jpg" crc="4158307159" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire-8075.jpg" crc="475466456" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire-8377.jpg" crc="359240868" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="first.svg" crc="4214889106" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="first_poster_u3760.png" crc="154968947" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="left-arrow.svg" crc="3949976111" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="left-arrow_poster_u3746.png" crc="4189366824" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="right-arrow.svg" crc="415473593" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="right-arrow_poster_u3722.png" crc="3934377674" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="last.svg" crc="3807741576" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="last_poster_u3742.png" crc="412417395" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="pasted svg 36x36.svg" crc="3916680880" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="pasted svg 36x36_poster_.png" crc="4121135264" ref="freelance"/>
+    <file name="loading.gif" crc="3815509949" ref="freelance:sports:typography:editorial:infographics:branding"/>
+    <file name="splitshire_img_5656-crop-u3921.jpg" crc="482507777" ref="freelance"/>
+    <file name="splitshire_img_4683-crop-u3915.jpg" crc="470831885" ref="freelance"/>
+    <file name="splitshire_img_9950-crop-u3931.jpg" crc="45319657" ref="freelance"/>
+    <file name="splitshire_9434-crop-u3923.jpg" crc="473724575" ref="freelance"/>
+    <file name="splitshire_9954-crop-u3917.jpg" crc="4004453143" ref="freelance"/>
+    <file name="splitshire-2548-crop-u3929.jpg" crc="422188687" ref="freelance"/>
+    <file name="splitshire_2747-crop-u3919.jpg" crc="4132570583" ref="freelance"/>
+    <file name="splitshire-8075-crop-u3927.jpg" crc="3859337034" ref="freelance"/>
+    <file name="splitshire-8377-crop-u3925.jpg" crc="454376082" ref="freelance"/>
+    <file name="splitshire_img_5656-crop-u4081.jpg" crc="482507777" ref="freelance"/>
+    <file name="splitshire_img_4683-crop-u4075.jpg" crc="470831885" ref="freelance"/>
+    <file name="splitshire_img_9950-crop-u4067.jpg" crc="45319657" ref="freelance"/>
+    <file name="splitshire_9434-crop-u4079.jpg" crc="473724575" ref="freelance"/>
+    <file name="splitshire_9954-crop-u4071.jpg" crc="4004453143" ref="freelance"/>
+    <file name="splitshire-2548-crop-u4069.jpg" crc="422188687" ref="freelance"/>
+    <file name="splitshire_2747-crop-u4065.jpg" crc="4132570583" ref="freelance"/>
+    <file name="splitshire-8075-crop-u4077.jpg" crc="3859337034" ref="freelance"/>
+    <file name="splitshire-8377-crop-u4073.jpg" crc="454376082" ref="freelance"/>
+    <file name="splitshire_img_5656-crop-u5417.jpg" crc="482507777" ref="sports"/>
+    <file name="splitshire_img_4683-crop-u5411.jpg" crc="470831885" ref="sports"/>
+    <file name="splitshire_img_9950-crop-u5427.jpg" crc="45319657" ref="sports"/>
+    <file name="splitshire_9434-crop-u5419.jpg" crc="473724575" ref="sports"/>
+    <file name="splitshire_9954-crop-u5413.jpg" crc="4004453143" ref="sports"/>
+    <file name="splitshire-2548-crop-u5425.jpg" crc="422188687" ref="sports"/>
+    <file name="splitshire_2747-crop-u5415.jpg" crc="4132570583" ref="sports"/>
+    <file name="splitshire-8075-crop-u5423.jpg" crc="3859337034" ref="sports"/>
+    <file name="splitshire-8377-crop-u5421.jpg" crc="454376082" ref="sports"/>
+    <file name="splitshire_img_5656-crop-u5365.jpg" crc="482507777" ref="sports"/>
+    <file name="splitshire_img_4683-crop-u5359.jpg" crc="470831885" ref="sports"/>
+    <file name="splitshire_img_9950-crop-u5351.jpg" crc="45319657" ref="sports"/>
+    <file name="splitshire_9434-crop-u5363.jpg" crc="473724575" ref="sports"/>
+    <file name="splitshire_9954-crop-u5355.jpg" crc="4004453143" ref="sports"/>
+    <file name="splitshire-2548-crop-u5353.jpg" crc="422188687" ref="sports"/>
+    <file name="splitshire_2747-crop-u5349.jpg" crc="4132570583" ref="sports"/>
+    <file name="splitshire-8075-crop-u5361.jpg" crc="3859337034" ref="sports"/>
+    <file name="splitshire-8377-crop-u5357.jpg" crc="454376082" ref="sports"/>
+    <file name="splitshire_img_5656-crop-u5266.jpg" crc="482507777" ref="sports"/>
+    <file name="splitshire_img_4683-crop-u5268.jpg" crc="470831885" ref="sports"/>
+    <file name="splitshire_img_9950-crop-u5264.jpg" crc="45319657" ref="sports"/>
+    <file name="splitshire_9434-crop-u5272.jpg" crc="473724575" ref="sports"/>
+    <file name="splitshire_9954-crop-u5274.jpg" crc="4004453143" ref="sports"/>
+    <file name="splitshire-2548-crop-u5262.jpg" crc="422188687" ref="sports"/>
+    <file name="splitshire_2747-crop-u5260.jpg" crc="4132570583" ref="sports"/>
+    <file name="splitshire-8075-crop-u5270.jpg" crc="3859337034" ref="sports"/>
+    <file name="splitshire-8377-crop-u5276.jpg" crc="454376082" ref="sports"/>
+    <file name="splitshire_img_5656-crop-u5593.jpg" crc="482507777" ref="typography"/>
+    <file name="splitshire_img_4683-crop-u5587.jpg" crc="470831885" ref="typography"/>
+    <file name="splitshire_img_9950-crop-u5585.jpg" crc="45319657" ref="typography"/>
+    <file name="splitshire_9434-crop-u5589.jpg" crc="473724575" ref="typography"/>
+    <file name="splitshire_9954-crop-u5581.jpg" crc="4004453143" ref="typography"/>
+    <file name="splitshire-2548-crop-u5591.jpg" crc="422188687" ref="typography"/>
+    <file name="splitshire_2747-crop-u5583.jpg" crc="4132570583" ref="typography"/>
+    <file name="splitshire-8075-crop-u5595.jpg" crc="3859337034" ref="typography"/>
+    <file name="splitshire-8377-crop-u5579.jpg" crc="454376082" ref="typography"/>
+    <file name="splitshire_img_5656-crop-u5537.jpg" crc="482507777" ref="typography"/>
+    <file name="splitshire_img_4683-crop-u5527.jpg" crc="470831885" ref="typography"/>
+    <file name="splitshire_img_9950-crop-u5531.jpg" crc="45319657" ref="typography"/>
+    <file name="splitshire_9434-crop-u5523.jpg" crc="473724575" ref="typography"/>
+    <file name="splitshire_9954-crop-u5533.jpg" crc="4004453143" ref="typography"/>
+    <file name="splitshire-2548-crop-u5525.jpg" crc="422188687" ref="typography"/>
+    <file name="splitshire_2747-crop-u5535.jpg" crc="4132570583" ref="typography"/>
+    <file name="splitshire-8075-crop-u5521.jpg" crc="3859337034" ref="typography"/>
+    <file name="splitshire-8377-crop-u5529.jpg" crc="454376082" ref="typography"/>
+    <file name="splitshire_img_5656-crop-u5674.jpg" crc="482507777" ref="typography"/>
+    <file name="splitshire_img_4683-crop-u5684.jpg" crc="470831885" ref="typography"/>
+    <file name="splitshire_img_9950-crop-u5672.jpg" crc="45319657" ref="typography"/>
+    <file name="splitshire_9434-crop-u5678.jpg" crc="473724575" ref="typography"/>
+    <file name="splitshire_9954-crop-u5688.jpg" crc="4004453143" ref="typography"/>
+    <file name="splitshire-2548-crop-u5676.jpg" crc="422188687" ref="typography"/>
+    <file name="splitshire_2747-crop-u5686.jpg" crc="4132570583" ref="typography"/>
+    <file name="splitshire-8075-crop-u5680.jpg" crc="3859337034" ref="typography"/>
+    <file name="splitshire-8377-crop-u5682.jpg" crc="454376082" ref="typography"/>
+    <file name="splitshire_img_5656-crop-u5962.jpg" crc="482507777" ref="editorial"/>
+    <file name="splitshire_img_4683-crop-u5958.jpg" crc="470831885" ref="editorial"/>
+    <file name="splitshire_img_9950-crop-u5966.jpg" crc="45319657" ref="editorial"/>
+    <file name="splitshire_9434-crop-u5960.jpg" crc="473724575" ref="editorial"/>
+    <file name="splitshire_9954-crop-u5970.jpg" crc="4004453143" ref="editorial"/>
+    <file name="splitshire-2548-crop-u5974.jpg" crc="422188687" ref="editorial"/>
+    <file name="splitshire_2747-crop-u5964.jpg" crc="4132570583" ref="editorial"/>
+    <file name="splitshire-8075-crop-u5968.jpg" crc="3859337034" ref="editorial"/>
+    <file name="splitshire-8377-crop-u5972.jpg" crc="454376082" ref="editorial"/>
+    <file name="splitshire_img_5656-crop-u5819.jpg" crc="482507777" ref="editorial"/>
+    <file name="splitshire_img_4683-crop-u5813.jpg" crc="470831885" ref="editorial"/>
+    <file name="splitshire_img_9950-crop-u5823.jpg" crc="45319657" ref="editorial"/>
+    <file name="splitshire_9434-crop-u5807.jpg" crc="473724575" ref="editorial"/>
+    <file name="splitshire_9954-crop-u5821.jpg" crc="4004453143" ref="editorial"/>
+    <file name="splitshire-2548-crop-u5817.jpg" crc="422188687" ref="editorial"/>
+    <file name="splitshire_2747-crop-u5815.jpg" crc="4132570583" ref="editorial"/>
+    <file name="splitshire-8075-crop-u5809.jpg" crc="3859337034" ref="editorial"/>
+    <file name="splitshire-8377-crop-u5811.jpg" crc="454376082" ref="editorial"/>
+    <file name="splitshire_img_5656-crop-u5912.jpg" crc="482507777" ref="editorial"/>
+    <file name="splitshire_img_4683-crop-u5914.jpg" crc="470831885" ref="editorial"/>
+    <file name="splitshire_img_9950-crop-u5906.jpg" crc="45319657" ref="editorial"/>
+    <file name="splitshire_9434-crop-u5902.jpg" crc="473724575" ref="editorial"/>
+    <file name="splitshire_9954-crop-u5904.jpg" crc="4004453143" ref="editorial"/>
+    <file name="splitshire-2548-crop-u5910.jpg" crc="422188687" ref="editorial"/>
+    <file name="splitshire_2747-crop-u5908.jpg" crc="4132570583" ref="editorial"/>
+    <file name="splitshire-8075-crop-u5918.jpg" crc="3859337034" ref="editorial"/>
+    <file name="splitshire-8377-crop-u5916.jpg" crc="454376082" ref="editorial"/>
+    <file name="splitshire_img_5656-crop-u6256.jpg" crc="482507777" ref="infographics"/>
+    <file name="splitshire_img_4683-crop-u6260.jpg" crc="470831885" ref="infographics"/>
+    <file name="splitshire_img_9950-crop-u6258.jpg" crc="45319657" ref="infographics"/>
+    <file name="splitshire_9434-crop-u6262.jpg" crc="473724575" ref="infographics"/>
+    <file name="splitshire_9954-crop-u6264.jpg" crc="4004453143" ref="infographics"/>
+    <file name="splitshire-2548-crop-u6270.jpg" crc="422188687" ref="infographics"/>
+    <file name="splitshire_2747-crop-u6268.jpg" crc="4132570583" ref="infographics"/>
+    <file name="splitshire-8075-crop-u6266.jpg" crc="3859337034" ref="infographics"/>
+    <file name="splitshire-8377-crop-u6254.jpg" crc="454376082" ref="infographics"/>
+    <file name="splitshire_img_5656-crop-u6090.jpg" crc="482507777" ref="infographics"/>
+    <file name="splitshire_img_4683-crop-u6096.jpg" crc="470831885" ref="infographics"/>
+    <file name="splitshire_img_9950-crop-u6100.jpg" crc="45319657" ref="infographics"/>
+    <file name="splitshire_9434-crop-u6088.jpg" crc="473724575" ref="infographics"/>
+    <file name="splitshire_9954-crop-u6086.jpg" crc="4004453143" ref="infographics"/>
+    <file name="splitshire-2548-crop-u6102.jpg" crc="422188687" ref="infographics"/>
+    <file name="splitshire_2747-crop-u6098.jpg" crc="4132570583" ref="infographics"/>
+    <file name="splitshire-8075-crop-u6092.jpg" crc="3859337034" ref="infographics"/>
+    <file name="splitshire-8377-crop-u6094.jpg" crc="454376082" ref="infographics"/>
+    <file name="splitshire_img_5656-crop-u6207.jpg" crc="482507777" ref="infographics"/>
+    <file name="splitshire_img_4683-crop-u6205.jpg" crc="470831885" ref="infographics"/>
+    <file name="splitshire_img_9950-crop-u6197.jpg" crc="45319657" ref="infographics"/>
+    <file name="splitshire_9434-crop-u6199.jpg" crc="473724575" ref="infographics"/>
+    <file name="splitshire_9954-crop-u6201.jpg" crc="4004453143" ref="infographics"/>
+    <file name="splitshire-2548-crop-u6211.jpg" crc="422188687" ref="infographics"/>
+    <file name="splitshire_2747-crop-u6203.jpg" crc="4132570583" ref="infographics"/>
+    <file name="splitshire-8075-crop-u6209.jpg" crc="3859337034" ref="infographics"/>
+    <file name="splitshire-8377-crop-u6213.jpg" crc="454376082" ref="infographics"/>
+    <file name="splitshire_img_5656-crop-u6407.jpg" crc="482507777" ref="branding"/>
+    <file name="splitshire_img_4683-crop-u6397.jpg" crc="470831885" ref="branding"/>
+    <file name="splitshire_img_9950-crop-u6405.jpg" crc="45319657" ref="branding"/>
+    <file name="splitshire_9434-crop-u6399.jpg" crc="473724575" ref="branding"/>
+    <file name="splitshire_9954-crop-u6409.jpg" crc="4004453143" ref="branding"/>
+    <file name="splitshire-2548-crop-u6401.jpg" crc="422188687" ref="branding"/>
+    <file name="splitshire_2747-crop-u6403.jpg" crc="4132570583" ref="branding"/>
+    <file name="splitshire-8075-crop-u6395.jpg" crc="3859337034" ref="branding"/>
+    <file name="splitshire-8377-crop-u6411.jpg" crc="454376082" ref="branding"/>
+    <file name="splitshire_img_5656-crop-u6495.jpg" crc="482507777" ref="branding"/>
+    <file name="splitshire_img_4683-crop-u6503.jpg" crc="470831885" ref="branding"/>
+    <file name="splitshire_img_9950-crop-u6489.jpg" crc="45319657" ref="branding"/>
+    <file name="splitshire_9434-crop-u6497.jpg" crc="473724575" ref="branding"/>
+    <file name="splitshire_9954-crop-u6499.jpg" crc="4004453143" ref="branding"/>
+    <file name="splitshire-2548-crop-u6501.jpg" crc="422188687" ref="branding"/>
+    <file name="splitshire_2747-crop-u6491.jpg" crc="4132570583" ref="branding"/>
+    <file name="splitshire-8075-crop-u6487.jpg" crc="3859337034" ref="branding"/>
+    <file name="splitshire-8377-crop-u6493.jpg" crc="454376082" ref="branding"/>
+    <file name="splitshire_img_5656-crop-u6441.jpg" crc="482507777" ref="branding"/>
+    <file name="splitshire_img_4683-crop-u6447.jpg" crc="470831885" ref="branding"/>
+    <file name="splitshire_img_9950-crop-u6443.jpg" crc="45319657" ref="branding"/>
+    <file name="splitshire_9434-crop-u6457.jpg" crc="473724575" ref="branding"/>
+    <file name="splitshire_9954-crop-u6455.jpg" crc="4004453143" ref="branding"/>
+    <file name="splitshire-2548-crop-u6451.jpg" crc="422188687" ref="branding"/>
+    <file name="splitshire_2747-crop-u6449.jpg" crc="4132570583" ref="branding"/>
+    <file name="splitshire-8075-crop-u6445.jpg" crc="3859337034" ref="branding"/>
+    <file name="splitshire-8377-crop-u6453.jpg" crc="454376082" ref="branding"/>
   </folder>
-  <file name="index.html" crc="418374500" mt="1429828259546" redirect="true"/>
-  <file name="about.html" crc="77082907" mt="1429828243488" redirect="true"/>
-  <file name="portfolio.html" crc="78592637" mt="1429825651415" redirect="true"/>
-  <file name="resume.html" crc="4077672008" mt="1429825651415" redirect="true"/>
-  <file name="contact.html" crc="4042009967" mt="1429825651415" redirect="true"/>
+  <file name="index.html" crc="197851857" mt="1430802629359" redirect="true"/>
+  <file name="about.html" crc="3988443186" mt="1430794348487" redirect="true"/>
+  <file name="portfolio.html" crc="271908797" mt="1430799322421" redirect="true"/>
+  <file name="resume.html" crc="252527695" mt="1430793194621" redirect="true"/>
+  <file name="contact.html" crc="4184994620" mt="1430793194621" redirect="true"/>
+  <file name="freelance.html" crc="63329644" mt="1430796327410" redirect="true"/>
+  <file name="sports.html" crc="4538019" mt="1430796392128" redirect="true"/>
+  <file name="typography.html" crc="231201826" mt="1430796455233" redirect="true"/>
+  <file name="editorial.html" crc="80682157" mt="1430796490807" redirect="true"/>
+  <file name="infographics.html" crc="51921024" mt="1430796543102" redirect="true"/>
+  <file name="branding.html" crc="123447124" mt="1430796588540" redirect="true"/>
 </manifest>

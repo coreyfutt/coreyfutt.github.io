@@ -1,15 +1,15 @@
-#buttonu2093
+#buttonu2633
 {
 	border-color: #787878;
 	position: relative;
-	background: transparent url("../images/caf_logowhite_final.svg") no-repeat left top;
+	background: transparent url("../images/caf_logowhite_off_final.svg") no-repeat left top;
 	background-size: contain;
 }
 
-#buttonu2093:hover
+#buttonu2633:hover
 {
-	background: transparent url("../images/caf_logonavy_final.svg") no-repeat center center;
-	background-size: cover;
+	background: transparent url("../images/caf_logonavy_on_final.svg") no-repeat left top;
+	background-size: contain;
 }
 
 #menuu474,#u485
@@ -133,34 +133,34 @@
 	position: relative;
 }
 
-#buttonu2113
+#buttonu2634
 {
 	border-color: #787878;
 	position: relative;
-	background: transparent url("../images/caf_logowhite_final.svg") no-repeat left top;
+	background: transparent url("../images/caf_logowhite_off_final.svg") no-repeat left top;
 	background-size: contain;
 }
 
-#buttonu2113:hover
+#buttonu2634:hover
 {
-	background: transparent url("../images/caf_logonavy_final.svg") no-repeat center center;
-	background-size: cover;
-}
-
-#buttonu2093.ButtonSelected,#buttonu2113.ButtonSelected
-{
-	background: transparent url("../images/caf_logowhite_final.svg") no-repeat left top;
+	background: transparent url("../images/caf_logonavy_on_final.svg") no-repeat left top;
 	background-size: contain;
 }
 
-.nosvg #buttonu2093:hover,.nosvg #buttonu2113:hover
+#buttonu2633.ButtonSelected,#buttonu2634.ButtonSelected
 {
-	background-image: url('../images/caf_logonavy_final_poster_u2107.png');
+	background: transparent url("../images/caf_logowhite_off_final.svg") no-repeat left top;
+	background-size: contain;
 }
 
-.nosvg #buttonu2093,.nosvg #buttonu2093.ButtonSelected,.nosvg #buttonu2113,.nosvg #buttonu2113.ButtonSelected
+.nosvg #buttonu2633:hover,.nosvg #buttonu2634:hover
 {
-	background-image: url('../images/caf_logowhite_final_poster_u2096.png');
+	background-image: url('../images/caf_logonavy_on_final_poster_u2618.png');
+}
+
+.nosvg #buttonu2633,.nosvg #buttonu2633.ButtonSelected,.nosvg #buttonu2634,.nosvg #buttonu2634.ButtonSelected
+{
+	background-image: url('../images/caf_logowhite_off_final_poster_u2613.png');
 }
 
 #menuu1113,#u1117
@@ -279,49 +279,124 @@
 	visibility: inherit;
 }
 
-#u978
+#buttonu2544
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 20px;
-	overflow: hidden;
+	border-color: #787878;
 	position: relative;
+	background: transparent url("../images/email_off.svg") no-repeat left top;
+	background-size: cover;
 }
 
-#u981
+#buttonu2544:hover
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 20px;
-	overflow: hidden;
-	position: relative;
+	background: transparent url("../images/email_on.svg") no-repeat left top;
+	background-size: cover;
 }
 
-#u975
+#buttonu2544.ButtonSelected
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 20px;
-	overflow: hidden;
-	position: relative;
+	background: transparent url("../images/email_off.svg") no-repeat left top;
+	background-size: cover;
 }
 
-#u984
+.nosvg #buttonu2544:hover
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	border-radius: 20px;
-	overflow: hidden;
-	position: relative;
+	background-image: url('../images/email_on_poster_u2551.png');
 }
 
-#u978:hover,#u981:hover,#u975:hover,#u984:hover
+.nosvg #buttonu2544,.nosvg #buttonu2544.ButtonSelected
 {
-	background-color: #003C73;
+	background-image: url('../images/email_off_poster_u2545.png');
+}
+
+#buttonu2530
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/linkedin_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2530:hover
+{
+	background: transparent url("../images/linkedin_on.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2530.ButtonSelected
+{
+	background: transparent url("../images/linkedin_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+.nosvg #buttonu2530:hover
+{
+	background-image: url('../images/linkedin_on_poster_u2537.png');
+}
+
+.nosvg #buttonu2530,.nosvg #buttonu2530.ButtonSelected
+{
+	background-image: url('../images/linkedin_off_poster_u2531.png');
+}
+
+#buttonu2500
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/behance_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2500:hover
+{
+	background: transparent url("../images/behance_on.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2500.ButtonSelected
+{
+	background: transparent url("../images/behance_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+.nosvg #buttonu2500:hover
+{
+	background-image: url('../images/behance_on_poster_u2508.png');
+}
+
+.nosvg #buttonu2500,.nosvg #buttonu2500.ButtonSelected
+{
+	background-image: url('../images/behance_off_poster_u2504.png');
+}
+
+#buttonu2516
+{
+	border-color: #787878;
+	position: relative;
+	background: transparent url("../images/pinterest_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2516:hover
+{
+	background: transparent url("../images/pinterest_on.svg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu2516.ButtonSelected
+{
+	background: transparent url("../images/pinterest_off.svg") no-repeat left top;
+	background-size: cover;
+}
+
+.nosvg #buttonu2516:hover
+{
+	background-image: url('../images/pinterest_on_poster_u2523.png');
+}
+
+.nosvg #buttonu2516,.nosvg #buttonu2516.ButtonSelected
+{
+	background-image: url('../images/pinterest_off_poster_u2517.png');
 }
 
 #u722-4
