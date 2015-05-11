@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #0000E1;
-	background-color: #1B4723;
+	color: #0000E8;
+	background-color: #6FE26C;
 }
 
 .html
@@ -243,11 +243,6 @@
 	margin-left: 22px;
 	margin-top: 40px;
 	position: relative;
-}
-
-#u633,#u633-3,#u633-5,#u633-7
-{
-	letter-spacing: -1px;
 }
 
 #u1934-4
@@ -513,7 +508,7 @@
 
 #u3443
 {
-	z-index: 203;
+	z-index: 207;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -524,16 +519,17 @@
 
 #u3351
 {
-	z-index: 204;
+	z-index: 208;
 	width: 292px;
 	height: 292px;
-	background-color: #0072BC;
 	position: relative;
+	background: transparent url("../images/freelance_thumbnail.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u3356-4
 {
-	z-index: 205;
+	z-index: 209;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -549,7 +545,7 @@
 
 #u3420
 {
-	z-index: 209;
+	z-index: 213;
 	width: 292px;
 	height: 5px;
 	background-color: #0072BC;
@@ -559,7 +555,7 @@
 
 #u3444
 {
-	z-index: 217;
+	z-index: 221;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -571,16 +567,17 @@
 
 #u3353
 {
-	z-index: 218;
+	z-index: 222;
 	width: 292px;
 	height: 292px;
-	background-color: #0664A2;
 	position: relative;
+	background: transparent url("../images/bufootball_thumbnail.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #u3369-4
 {
-	z-index: 219;
+	z-index: 223;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -596,7 +593,7 @@
 
 #u3426
 {
-	z-index: 223;
+	z-index: 227;
 	width: 292px;
 	height: 5px;
 	background-color: #0664A2;
@@ -606,7 +603,7 @@
 
 #u3445
 {
-	z-index: 231;
+	z-index: 235;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -618,16 +615,17 @@
 
 #u3355
 {
-	z-index: 232;
+	z-index: 236;
 	width: 292px;
 	height: 292px;
-	background-color: #0D517E;
 	position: relative;
+	background: transparent url("../images/pipedream_thumbnail.jpg") no-repeat left top;
+	background-size: contain;
 }
 
 #u3378-4
 {
-	z-index: 233;
+	z-index: 237;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -643,7 +641,7 @@
 
 #u3428
 {
-	z-index: 237;
+	z-index: 241;
 	width: 292px;
 	height: 5px;
 	background-color: #0D517E;
@@ -651,7 +649,7 @@
 	position: relative;
 }
 
-#u3357-4
+#u3357-6
 {
 	z-index: 115;
 	width: 292px;
@@ -667,9 +665,14 @@
 	margin-right: -10000px;
 }
 
+#u633,#u633-3,#u633-5,#u633-7,#u3357-2
+{
+	letter-spacing: -1px;
+}
+
 #u3370-4
 {
-	z-index: 123;
+	z-index: 125;
 	width: 292px;
 	min-height: 90px;
 	background-color: transparent;
@@ -686,7 +689,7 @@
 
 #u3380-4
 {
-	z-index: 131;
+	z-index: 133;
 	width: 292px;
 	min-height: 90px;
 	background-color: transparent;
@@ -701,9 +704,16 @@
 	left: 624px;
 }
 
+#pu3358-4
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 30px;
+}
+
 #u3358-4
 {
-	z-index: 179;
+	z-index: 183;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -719,7 +729,7 @@
 
 #u3371-4
 {
-	z-index: 187;
+	z-index: 191;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -736,7 +746,7 @@
 
 #u3381-4
 {
-	z-index: 195;
+	z-index: 199;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -753,7 +763,7 @@
 
 #u3361-8
 {
-	z-index: 139;
+	z-index: 141;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -769,7 +779,7 @@
 
 #u3372-8
 {
-	z-index: 153;
+	z-index: 155;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -784,9 +794,9 @@
 	left: 312px;
 }
 
-#u3382-6
+#u3382-8
 {
-	z-index: 167;
+	z-index: 169;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -816,7 +826,7 @@
 
 #u3446
 {
-	z-index: 210;
+	z-index: 214;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -828,16 +838,17 @@
 
 #u3401
 {
-	z-index: 211;
+	z-index: 215;
 	width: 292px;
 	height: 292px;
-	background-color: #0C5395;
 	position: relative;
+	background: transparent url("../images/walterwhite_thumbnail.jpg") no-repeat center center;
+	background-size: contain;
 }
 
 #u3404-4
 {
-	z-index: 212;
+	z-index: 216;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -853,7 +864,7 @@
 
 #u3434
 {
-	z-index: 216;
+	z-index: 220;
 	width: 292px;
 	height: 5px;
 	background-color: #0C5395;
@@ -863,7 +874,7 @@
 
 #u3447
 {
-	z-index: 224;
+	z-index: 228;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -876,16 +887,17 @@
 
 #u3402
 {
-	z-index: 225;
+	z-index: 229;
 	width: 292px;
 	height: 292px;
-	background-color: #034684;
 	position: relative;
+	background: transparent url("../images/creative_thumbnail.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u3403-4
 {
-	z-index: 226;
+	z-index: 230;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -901,7 +913,7 @@
 
 #u3433
 {
-	z-index: 230;
+	z-index: 234;
 	width: 292px;
 	height: 5px;
 	background-color: #034684;
@@ -911,7 +923,7 @@
 
 #u3448
 {
-	z-index: 238;
+	z-index: 242;
 	width: 292px;
 	border-style: none;
 	border-color: transparent;
@@ -924,16 +936,17 @@
 
 #u3408
 {
-	z-index: 239;
+	z-index: 243;
 	width: 292px;
 	height: 292px;
-	background-color: #003C73;
 	position: relative;
+	background: transparent url("../images/branding_thumbnail.jpg") no-repeat center center;
+	background-size: cover;
 }
 
 #u3409-4
 {
-	z-index: 240;
+	z-index: 244;
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
@@ -949,7 +962,7 @@
 
 #u3432
 {
-	z-index: 244;
+	z-index: 248;
 	width: 292px;
 	height: 5px;
 	background-color: #003C73;
@@ -957,7 +970,7 @@
 	position: relative;
 }
 
-#pu3357-4,#pu3410-4
+#pu3357-6,#pu3410-4
 {
 	width: 0.01px;
 	margin-left: 22px;
@@ -966,7 +979,7 @@
 
 #u3410-4
 {
-	z-index: 119;
+	z-index: 121;
 	width: 292px;
 	min-height: 90px;
 	background-color: transparent;
@@ -982,7 +995,7 @@
 
 #u3407-4
 {
-	z-index: 127;
+	z-index: 129;
 	width: 292px;
 	min-height: 90px;
 	background-color: transparent;
@@ -999,7 +1012,7 @@
 
 #u3412-4
 {
-	z-index: 135;
+	z-index: 137;
 	width: 292px;
 	min-height: 90px;
 	background-color: transparent;
@@ -1014,7 +1027,7 @@
 	left: 624px;
 }
 
-#pu3358-4,#pu3414-4
+#pu3414-4
 {
 	width: 0.01px;
 	margin-left: 22px;
@@ -1023,7 +1036,7 @@
 
 #u3414-4
 {
-	z-index: 183;
+	z-index: 187;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -1039,7 +1052,7 @@
 
 #u3415-4
 {
-	z-index: 191;
+	z-index: 195;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -1056,7 +1069,7 @@
 
 #u3413-4
 {
-	z-index: 199;
+	z-index: 203;
 	width: 292px;
 	min-height: 19px;
 	background-color: transparent;
@@ -1080,7 +1093,7 @@
 
 #u3416-6
 {
-	z-index: 147;
+	z-index: 149;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -1096,7 +1109,7 @@
 
 #u3417-6
 {
-	z-index: 161;
+	z-index: 163;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -1113,7 +1126,7 @@
 
 #u3418-6
 {
-	z-index: 173;
+	z-index: 177;
 	width: 292px;
 	min-height: 58px;
 	background-color: transparent;
@@ -1434,7 +1447,7 @@
 {
 	z-index: 3;
 	min-height: 247px;
-	margin-top: 84px;
+	margin-top: 64px;
 }
 
 body
