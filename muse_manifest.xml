@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1431374940776">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1431377758517">
   <folder name="css">
     <file name="site_global.css" crc="323648061"/>
     <file name="master_main.css" crc="60527450" ref="contact:about:resume:portfolio:typography:freelance:sports:branding:pipe-dream:creative"/>
@@ -8,13 +8,13 @@
     <file name="iefonts_about.css" crc="4199048951" ref="about"/>
     <file name="resume.css" crc="4203051041" ref="resume"/>
     <file name="iefonts_resume.css" crc="4198611962" ref="resume"/>
-    <file name="index.css" crc="334585073" ref="index"/>
+    <file name="index.css" crc="291159035" ref="index"/>
     <file name="iefonts_index.css" crc="3847333994" ref="index"/>
     <file name="portfolio.css" crc="3899646572" ref="portfolio"/>
     <file name="iefonts_portfolio.css" crc="177542481" ref="portfolio"/>
     <file name="master_home.css" crc="173108759" ref="index"/>
-    <file name="typography.css" crc="3919277745" ref="typography"/>
-    <file name="iefonts_typography.css" crc="4033437942" ref="typography"/>
+    <file name="typography.css" crc="129403408" ref="typography"/>
+    <file name="iefonts_typography.css" crc="454112383" ref="typography"/>
     <file name="freelance.css" crc="192634383" ref="freelance"/>
     <file name="iefonts_freelance.css" crc="392872910" ref="freelance"/>
     <file name="sports.css" crc="3798759330" ref="sports"/>
@@ -74,31 +74,31 @@
     <file name="about_fitness_poster_.png" crc="527654524" ref="about"/>
     <file name="softwareskills.svg" crc="248525347" ref="resume"/>
     <file name="softwareskills_poster_.png" crc="4114025885" ref="resume"/>
-    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about"/>
-    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about"/>
-    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about"/>
-    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about"/>
-    <file name="email_off.svg" crc="4112208604" ref="index:about"/>
-    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about"/>
-    <file name="email_on.svg" crc="3999865010" ref="index:about"/>
-    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about"/>
-    <file name="linkedin_off.svg" crc="86007529" ref="index:about"/>
-    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about"/>
-    <file name="linkedin_on.svg" crc="307131357" ref="index:about"/>
-    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about"/>
-    <file name="behance_off.svg" crc="140281064" ref="index:about"/>
-    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about"/>
-    <file name="behance_on.svg" crc="147265255" ref="index:about"/>
-    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about"/>
-    <file name="pinterest_off.svg" crc="341970550" ref="index:about"/>
-    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about"/>
-    <file name="pinterest_on.svg" crc="3797888433" ref="index:about"/>
-    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about"/>
+    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about:typography"/>
+    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about:typography"/>
+    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about:typography"/>
+    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about:typography"/>
+    <file name="email_off.svg" crc="4112208604" ref="index:about:typography"/>
+    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about:typography"/>
+    <file name="email_on.svg" crc="3999865010" ref="index:about:typography"/>
+    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about:typography"/>
+    <file name="linkedin_off.svg" crc="86007529" ref="index:about:typography"/>
+    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about:typography"/>
+    <file name="linkedin_on.svg" crc="307131357" ref="index:about:typography"/>
+    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about:typography"/>
+    <file name="behance_off.svg" crc="140281064" ref="index:about:typography"/>
+    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about:typography"/>
+    <file name="behance_on.svg" crc="147265255" ref="index:about:typography"/>
+    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about:typography"/>
+    <file name="pinterest_off.svg" crc="341970550" ref="index:about:typography"/>
+    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about:typography"/>
+    <file name="pinterest_on.svg" crc="3797888433" ref="index:about:typography"/>
+    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about:typography"/>
     <file name="headshot_website.jpg" crc="3806057295" ref="about"/>
     <file name="caf_resume_web_v008.svg" crc="4290875318" ref="resume"/>
     <file name="caf_resume_web_v008_poster_.png" crc="3804894955" ref="resume"/>
     <file name="arrow_off.svg" crc="458579613" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
-    <file name="arrow_off_poster_.png" crc="4255836493" ref="freelance"/>
+    <file name="arrow_off_poster_.png" crc="4255836493" ref="freelance:typography"/>
     <file name="blank.gif" crc="4208392903" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
     <file name="first.svg" crc="4214889106" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
     <file name="first_poster_u3760.png" crc="154968947" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
@@ -109,7 +109,7 @@
     <file name="last.svg" crc="3807741576" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
     <file name="last_poster_u3742.png" crc="412417395" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
     <file name="pasted svg 36x36.svg" crc="3916680880" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
-    <file name="pasted svg 36x36_poster_.png" crc="4121135264" ref="freelance"/>
+    <file name="pasted svg 36x36_poster_.png" crc="4121135264" ref="freelance:typography"/>
     <file name="loading.gif" crc="3815509949" ref="freelance:sports:typography:branding:pipe-dream:creative"/>
     <file name="freelance_thumbnail.jpg" crc="3983570680" ref="portfolio"/>
     <file name="bufootball_thumbnail.jpg" crc="163730609" ref="portfolio"/>
@@ -328,14 +328,14 @@
     <file name="resume.jpg" crc="463833171" ref="branding"/>
     <file name="cards2.jpg" crc="294546298" ref="branding"/>
   </folder>
-  <file name="index.html" crc="197851857" mt="1431124708233" redirect="true"/>
+  <file name="index.html" crc="222956466" mt="1431377655185" redirect="true"/>
   <file name="about.html" crc="3995800878" mt="1431225614274" redirect="true"/>
   <file name="portfolio.html" crc="406323492" mt="1431094638898" redirect="true"/>
   <file name="resume.html" crc="252527695" mt="1430793194621" redirect="true"/>
   <file name="contact.html" crc="4184994620" mt="1430793194621" redirect="true"/>
   <file name="freelance.html" crc="16248142" mt="1431227364894" redirect="true"/>
   <file name="sports.html" crc="34545901" mt="1431228744708" redirect="true"/>
-  <file name="typography.html" crc="4302436" mt="1431240002311" redirect="true"/>
+  <file name="typography.html" crc="165148038" mt="1431377336341" redirect="true"/>
   <file name="branding.html" crc="4242885072" mt="1431225100478" redirect="true"/>
   <file name="pipe-dream.html" crc="242312551" mt="1431228415383" redirect="true"/>
   <file name="creative.html" crc="3770428677" mt="1431224864016" redirect="true"/>
