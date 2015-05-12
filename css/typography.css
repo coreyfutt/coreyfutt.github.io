@@ -1,7 +1,7 @@
 .version.typography /* version checker */
 {
-	color: #000007;
-	background-color: #B68A10;
+	color: #000005;
+	background-color: #66D2ED;
 }
 
 .html
@@ -621,10 +621,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -639,10 +639,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -657,10 +657,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1045,10 +1045,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1063,10 +1063,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1081,10 +1081,10 @@
 	min-height: 17px;
 	background-color: transparent;
 	padding: 12px;
-	text-align: right;
+	line-height: 17px;
 	font-size: 12px;
 	letter-spacing: 1px;
-	line-height: 17px;
+	text-align: right;
 	color: #FFFFFF;
 	font-family: lato, sans-serif;
 	font-weight: 400;
