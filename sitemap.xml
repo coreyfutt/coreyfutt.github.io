@@ -1722,59 +1722,69 @@
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/about.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/portfolio.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/portfolio.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/resume.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/resume.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/contact.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/contact.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/freelance.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/freelance.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/sports.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/sports.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/typography.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/typography.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/branding.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/branding.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/pipe-dream.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/pipe-dream.html"/>
   </url>
   <url>
     <loc>http://www.coreyfutterman.com/creative.html</loc>
     <lastmod>2015-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://www.coreyfutterman.com/tablet/creative.html"/>
   </url>
 </urlset>
