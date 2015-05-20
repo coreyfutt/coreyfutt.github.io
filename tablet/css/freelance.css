@@ -1,7 +1,7 @@
 .version.freelance /* version checker */
 {
-	color: #0000E1;
-	background-color: #5A64F3;
+	color: #000018;
+	background-color: #6DB19E;
 }
 
 @-ms-viewport
@@ -322,7 +322,7 @@
 #u11472
 {
 	z-index: 109;
-	width: 234px;
+	width: 250px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -346,7 +346,7 @@
 #u11473-4
 {
 	z-index: 110;
-	width: 194px;
+	width: 210px;
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
