@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000E0;
-	background-color: #27C1A1;
+	color: #0000E7;
+	background-color: #5F55F3;
 }
 
 @-ms-viewport
@@ -38,7 +38,7 @@
 {
 	z-index: 1;
 	width: 768px;
-	min-height: 2419px;
+	min-height: 2446px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -244,7 +244,74 @@
 	min-height: 94px;
 }
 
-#u11203-14
+#u16049-4
+{
+	z-index: 75;
+	width: 688px;
+	min-height: 49px;
+	background-color: transparent;
+	line-height: 48px;
+	text-align: center;
+	font-size: 40px;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	margin-left: 40px;
+	margin-top: 53px;
+	position: relative;
+}
+
+#u16050-5
+{
+	z-index: 88;
+	width: 641px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 26px;
+	text-align: center;
+	font-size: 22px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-left: 64px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u16051-4
+{
+	z-index: 117;
+	width: 457px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 26px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-left: 156px;
+	position: relative;
+}
+
+#u16052-4
+{
+	z-index: 141;
+	width: 457px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	margin-left: 156px;
+	top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+}
+
+#u11204-8
 {
 	z-index: 67;
 	width: 688px;
@@ -260,71 +327,16 @@
 	position: relative;
 }
 
-#u11205-7
-{
-	z-index: 93;
-	width: 688px;
-	min-height: 28px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 26px;
-	text-align: center;
-	font-size: 22px;
-	font-family: lato, sans-serif;
-	font-weight: 300;
-	margin-left: 40px;
-	top: -3px;
-	margin-bottom: -3px;
-	position: relative;
-}
-
-#u11205-3
-{
-	letter-spacing: -3px;
-}
-
-#u11216-4
-{
-	z-index: 145;
-	width: 687px;
-	min-height: 19px;
-	background-color: transparent;
-	color: #0072BC;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	margin-left: 41px;
-	position: relative;
-}
-
-#u11204-8
-{
-	z-index: 81;
-	width: 688px;
-	min-height: 49px;
-	background-color: transparent;
-	line-height: 48px;
-	text-align: center;
-	font-size: 40px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	margin-left: 40px;
-	margin-top: 37px;
-	position: relative;
-}
-
 #u11206-5
 {
-	z-index: 100;
+	z-index: 83;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 700;
 	margin-left: 156px;
@@ -334,50 +346,48 @@
 
 #u11211-4
 {
-	z-index: 125;
+	z-index: 113;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
+	margin-left: 156px;
+	position: relative;
+}
+
+#u11217-4
+{
+	z-index: 137;
+	width: 457px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 400;
 	margin-left: 156px;
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
 }
 
-#u11217-4
-{
-	z-index: 149;
-	width: 457px;
-	min-height: 19px;
-	background-color: transparent;
-	color: #0072BC;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	margin-left: 156px;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
-}
-
 #u11207-5
 {
-	z-index: 105;
+	z-index: 93;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 700;
 	margin-left: 156px;
@@ -387,50 +397,48 @@
 
 #u11212-4
 {
-	z-index: 129;
+	z-index: 121;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
+	margin-left: 156px;
+	position: relative;
+}
+
+#u11218-4
+{
+	z-index: 145;
+	width: 457px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 18px;
+	text-align: center;
+	font-size: 15px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 400;
 	margin-left: 156px;
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
 }
 
-#u11218-4
-{
-	z-index: 153;
-	width: 457px;
-	min-height: 19px;
-	background-color: transparent;
-	color: #0072BC;
-	line-height: 18px;
-	text-align: center;
-	font-size: 15px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	margin-left: 156px;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
-}
-
 #u11208-5
 {
-	z-index: 110;
+	z-index: 98;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 700;
 	margin-left: 156px;
@@ -440,111 +448,107 @@
 
 #u11213-4
 {
-	z-index: 133;
+	z-index: 125;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 156px;
-	top: -1px;
-	margin-bottom: -1px;
 	position: relative;
 }
 
 #u11219-4
 {
-	z-index: 157;
+	z-index: 149;
 	width: 457px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
-	margin-left: 156px;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
-}
-
-#u11209-5
-{
-	z-index: 115;
-	width: 457px;
-	min-height: 26px;
-	background-color: transparent;
-	color: #0072BC;
-	line-height: 26px;
-	text-align: center;
-	font-size: 22px;
-	font-family: lato, sans-serif;
-	font-weight: 700;
-	margin-left: 156px;
-	margin-top: 10px;
-	position: relative;
-}
-
-#u11214-4
-{
-	z-index: 137;
-	width: 457px;
-	min-height: 26px;
-	background-color: transparent;
-	color: #000000;
-	line-height: 26px;
-	text-align: center;
-	font-size: 22px;
-	font-family: lato, sans-serif;
-	font-weight: 300;
 	margin-left: 156px;
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
 }
 
+#u11209-5
+{
+	z-index: 103;
+	width: 457px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 26px;
+	text-align: center;
+	font-size: 22px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	margin-left: 156px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u11214-4
+{
+	z-index: 129;
+	width: 457px;
+	min-height: 26px;
+	background-color: transparent;
+	line-height: 26px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-left: 156px;
+	position: relative;
+}
+
 #u11220-4
 {
-	z-index: 161;
+	z-index: 153;
 	width: 457px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 156px;
-	top: -2px;
-	margin-bottom: -2px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
 #u11210-5
 {
-	z-index: 120;
+	z-index: 108;
 	width: 507px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 700;
 	margin-left: 130px;
-	margin-top: 10px;
+	margin-top: 12px;
 	position: relative;
 }
 
-#u11206-2,#u11207-2,#u11208-2,#u11209-2,#u11210-2
+#u16050-2,#u11206-2,#u11207-2,#u11208-2,#u11209-2,#u11210-2
 {
 	font-family: lato, sans-serif;
 	font-weight: 300;
@@ -552,43 +556,41 @@
 
 #u11215-4
 {
-	z-index: 141;
+	z-index: 133;
 	width: 457px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 26px;
 	text-align: center;
 	font-size: 22px;
+	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
+	margin-left: 156px;
+	position: relative;
+}
+
+#u11221-4
+{
+	z-index: 157;
+	width: 457px;
+	min-height: 19px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #0072BC;
+	font-family: lato, sans-serif;
+	font-weight: 400;
 	margin-left: 156px;
 	top: -1px;
 	margin-bottom: -1px;
 	position: relative;
 }
 
-#u11221-4
-{
-	z-index: 165;
-	width: 457px;
-	min-height: 19px;
-	background-color: transparent;
-	color: #0072BC;
-	line-height: 22px;
-	text-align: center;
-	font-size: 18px;
-	font-family: lato, sans-serif;
-	font-weight: 400;
-	margin-left: 156px;
-	top: -2px;
-	margin-bottom: -2px;
-	position: relative;
-}
-
 #u11223-4
 {
-	z-index: 89;
+	z-index: 79;
 	width: 688px;
 	min-height: 49px;
 	background-color: transparent;
@@ -598,7 +600,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 40px;
-	margin-top: 65px;
+	margin-top: 43px;
 	position: relative;
 }
 
@@ -617,14 +619,14 @@
 
 #u11224-4
 {
-	z-index: 169;
+	z-index: 161;
 	width: 293px;
 	min-height: 19px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 700;
 	margin-left: 238px;
@@ -634,22 +636,22 @@
 
 #u11225-4
 {
-	z-index: 173;
+	z-index: 165;
 	width: 688px;
 	min-height: 33px;
 	background-color: transparent;
-	color: #000000;
 	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
+	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 40px;
-	margin-top: 70px;
+	margin-top: 48px;
 	position: relative;
 }
 
-#u11203-2,#u11203-4,#u11203-6,#u11203-8,#u11203-10,#u11205-2,#u11204-2,#u11204-4,#u11225
+#u11204-2,#u11204-4,#u11225
 {
 	letter-spacing: -1px;
 }
@@ -663,7 +665,7 @@
 
 #u11247
 {
-	z-index: 177;
+	z-index: 169;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1px;
@@ -671,14 +673,14 @@
 
 #u11252-4
 {
-	z-index: 178;
+	z-index: 170;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -688,14 +690,14 @@
 
 #u11300-4
 {
-	z-index: 182;
+	z-index: 174;
 	width: 230px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -705,14 +707,14 @@
 
 #u11271-4
 {
-	z-index: 186;
+	z-index: 178;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -723,14 +725,14 @@
 
 #u11298-4
 {
-	z-index: 190;
+	z-index: 182;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -741,14 +743,14 @@
 
 #u11273-4
 {
-	z-index: 194;
+	z-index: 186;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -759,14 +761,14 @@
 
 #u11297-4
 {
-	z-index: 198;
+	z-index: 190;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -777,14 +779,14 @@
 
 #u11278-4
 {
-	z-index: 202;
+	z-index: 194;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -795,14 +797,14 @@
 
 #u11293-4
 {
-	z-index: 206;
+	z-index: 198;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -813,14 +815,14 @@
 
 #u11282-4
 {
-	z-index: 210;
+	z-index: 202;
 	width: 245px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -831,14 +833,14 @@
 
 #u11294-4
 {
-	z-index: 214;
+	z-index: 206;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -849,14 +851,14 @@
 
 #u11261-4
 {
-	z-index: 218;
+	z-index: 210;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -867,14 +869,14 @@
 
 #u11301-4
 {
-	z-index: 222;
+	z-index: 214;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -885,14 +887,14 @@
 
 #u11270-4
 {
-	z-index: 226;
+	z-index: 218;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -903,14 +905,14 @@
 
 #u11299-4
 {
-	z-index: 230;
+	z-index: 222;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -921,14 +923,14 @@
 
 #u11272-4
 {
-	z-index: 234;
+	z-index: 226;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -939,14 +941,14 @@
 
 #u11296-4
 {
-	z-index: 238;
+	z-index: 230;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -957,14 +959,14 @@
 
 #u11279-4
 {
-	z-index: 242;
+	z-index: 234;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -975,14 +977,14 @@
 
 #u11303-4
 {
-	z-index: 246;
+	z-index: 238;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -993,14 +995,14 @@
 
 #u11283-4
 {
-	z-index: 250;
+	z-index: 242;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1011,14 +1013,14 @@
 
 #u11295-4
 {
-	z-index: 254;
+	z-index: 246;
 	width: 210px;
 	min-height: 26px;
 	background-color: transparent;
-	color: #0072BC;
 	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
+	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1341,7 +1343,7 @@
 {
 	z-index: 30;
 	min-height: 193.9999999999991px;
-	margin-top: 59px;
+	margin-top: 56px;
 }
 
 body
