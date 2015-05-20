@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000002;
-	background-color: #1AFB2E;
+	color: #0000EF;
+	background-color: #BCE022;
 }
 
 .html
@@ -277,7 +277,7 @@
 
 #u10890
 {
-	z-index: 147;
+	z-index: 143;
 	width: 210px;
 	min-height: 98px;
 	border-style: none;
@@ -322,7 +322,7 @@
 
 #u425
 {
-	z-index: 133;
+	z-index: 129;
 	width: 916px;
 	height: 10px;
 	border-style: solid;
@@ -355,25 +355,25 @@
 	width: 292px;
 	min-height: 33px;
 	background-color: transparent;
+	color: #0072BC;
 	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
 }
 
-#u428-10
+#u428-6
 {
 	z-index: 103;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
+	color: #000000;
 	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-top: 7px;
@@ -382,7 +382,7 @@
 
 #u838
 {
-	z-index: 140;
+	z-index: 136;
 	position: relative;
 	margin-right: -10000px;
 	left: 534px;
@@ -401,10 +401,10 @@
 	width: 292px;
 	min-height: 33px;
 	background-color: transparent;
+	color: #0072BC;
 	line-height: 36px;
 	text-align: right;
 	font-size: 30px;
-	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -415,14 +415,14 @@
 
 #u434-10
 {
-	z-index: 123;
+	z-index: 119;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
+	color: #000000;
 	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
-	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -433,7 +433,7 @@
 
 #u857
 {
-	z-index: 141;
+	z-index: 137;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -459,10 +459,10 @@
 	width: 433px;
 	min-height: 33px;
 	background-color: transparent;
+	color: #0072BC;
 	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	color: #0072BC;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -475,14 +475,14 @@
 
 #u432-10
 {
-	z-index: 113;
+	z-index: 109;
 	width: 458px;
 	min-height: 100px;
 	background-color: transparent;
+	color: #000000;
 	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	color: #000000;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-top: 7px;
@@ -491,7 +491,7 @@
 
 #u774
 {
-	z-index: 139;
+	z-index: 135;
 	position: relative;
 	margin-right: -10000px;
 	left: 532px;
@@ -501,12 +501,12 @@
 {
 	width: 0.01px;
 	margin-left: 333px;
-	margin-top: 69px;
+	margin-top: 77px;
 }
 
 #buttonu435
 {
-	z-index: 134;
+	z-index: 130;
 	width: 292px;
 	border-width: 2px;
 	border-style: solid;
@@ -529,15 +529,15 @@
 
 #u436-4
 {
-	z-index: 135;
+	z-index: 131;
 	width: 293px;
 	min-height: 23px;
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
-	letter-spacing: 1px;
 	text-align: center;
+	letter-spacing: 1px;
 	color: #0072BC;
+	font-size: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -566,7 +566,7 @@
 
 #buttonu1886
 {
-	z-index: 142;
+	z-index: 138;
 	width: 294px;
 	border-style: none;
 	border-color: transparent;
@@ -589,15 +589,15 @@
 
 #u1887-4
 {
-	z-index: 143;
+	z-index: 139;
 	width: 293px;
 	min-height: 23px;
 	background-color: transparent;
 	line-height: 22px;
-	font-size: 18px;
-	letter-spacing: 1px;
 	text-align: center;
+	letter-spacing: 1px;
 	color: #0072BC;
+	font-size: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -943,7 +943,7 @@
 {
 	z-index: 3;
 	min-height: 246.99999999999977px;
-	margin-top: 89px;
+	margin-top: 81px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000003;
-	background-color: #A7E1D4;
+	color: #0000F8;
+	background-color: #3179CD;
 }
 
 @-ms-viewport
@@ -250,9 +250,9 @@
 	width: 688px;
 	min-height: 195px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	margin-left: 40px;
 	margin-top: 60px;
 	position: relative;
@@ -277,9 +277,9 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 40px;
@@ -294,12 +294,13 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 242px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -310,13 +311,13 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 40px;
-	margin-top: 31px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -327,12 +328,13 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 242px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -343,13 +345,13 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 40px;
-	margin-top: 30px;
+	margin-top: 28px;
 	position: relative;
 }
 
@@ -360,12 +362,13 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 242px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -376,19 +379,26 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 40px;
-	margin-top: 30px;
+	margin-top: 28px;
 	position: relative;
+}
+
+#u11311-3,#u11312-3,#u11313-3,#u11314-3
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
 #u11311,#u11312,#u11313,#u11314
 {
+	font-size: 22px;
 	text-decoration: none;
+	line-height: 26px;
 }
 
 #u11310-4
@@ -398,13 +408,13 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 242px;
-	margin-top: 1px;
+	margin-top: 2px;
 	position: relative;
 }
 
@@ -717,7 +727,7 @@
 {
 	z-index: 30;
 	min-height: 193.9999999999991px;
-	margin-top: 76px;
+	margin-top: 74px;
 }
 
 body
