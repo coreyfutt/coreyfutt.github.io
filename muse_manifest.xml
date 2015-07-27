@@ -1,98 +1,99 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432139059500">
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1437958505578" domain="www.coreyfutterman.com">
   <folder name="tablet">
     <folder name="css">
-      <file name="master_home.css" crc="4251980603" ref="tablet>index"/>
-      <file name="freelance.css" crc="39857930" ref="tablet>freelance"/>
-      <file name="typography.css" crc="505964525" ref="tablet>typography"/>
-      <file name="pipe-dream.css" crc="307809416" ref="tablet>pipe-dream"/>
-      <file name="portfolio.css" crc="31149934" ref="tablet>portfolio"/>
-      <file name="sports.css" crc="236638335" ref="tablet>sports"/>
-      <file name="creative.css" crc="4166683037" ref="tablet>creative"/>
-      <file name="branding.css" crc="352155843" ref="tablet>branding"/>
-      <file name="index.css" crc="4023860692" ref="tablet>index"/>
+      <file name="master_home.css" crc="3933737402" ref="tablet>index"/>
+      <file name="freelance.css" crc="89810718" ref="tablet>freelance"/>
+      <file name="typography.css" crc="144066673" ref="tablet>typography"/>
+      <file name="pipe-dream.css" crc="470471781" ref="tablet>pipe-dream"/>
+      <file name="portfolio.css" crc="338281492" ref="tablet>portfolio"/>
+      <file name="sports.css" crc="3938912372" ref="tablet>sports"/>
+      <file name="creative.css" crc="4198245737" ref="tablet>creative"/>
+      <file name="branding.css" crc="146691547" ref="tablet>branding"/>
+      <file name="index.css" crc="213531318" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="427468245" ref="tablet>index"/>
-      <file name="contact.css" crc="4163992013" ref="tablet>contact"/>
-      <file name="resume.css" crc="3881784819" ref="tablet>resume"/>
-      <file name="about.css" crc="4237317075" ref="tablet>about"/>
-      <file name="master_main.css" crc="103119461" ref="tablet>freelance:tablet>typography:tablet>pipe-dream:tablet>portfolio:tablet>sports:tablet>creative:tablet>branding:tablet>contact:tablet>resume:tablet>about"/>
-      <file name="iefonts_freelance.css" crc="234215957" ref="tablet>freelance"/>
-      <file name="iefonts_typography.css" crc="393872472" ref="tablet>typography"/>
-      <file name="iefonts_pipe-dream.css" crc="4134276756" ref="tablet>pipe-dream"/>
-      <file name="iefonts_portfolio.css" crc="4181982362" ref="tablet>portfolio"/>
-      <file name="iefonts_sports.css" crc="268372916" ref="tablet>sports"/>
-      <file name="iefonts_creative.css" crc="3869552209" ref="tablet>creative"/>
-      <file name="iefonts_branding.css" crc="331701432" ref="tablet>branding"/>
+      <file name="contact.css" crc="514106633" ref="tablet>contact"/>
+      <file name="resume.css" crc="4273600714" ref="tablet>resume"/>
+      <file name="about.css" crc="3773063341" ref="tablet>about"/>
+      <file name="master_main.css" crc="4188771094" ref="tablet>freelance:tablet>typography:tablet>pipe-dream:tablet>portfolio:tablet>sports:tablet>creative:tablet>branding:tablet>contact:tablet>resume:tablet>about"/>
+      <file name="iefonts_freelance.css" crc="4192217821" ref="tablet>freelance"/>
+      <file name="iefonts_typography.css" crc="95099115" ref="tablet>typography"/>
+      <file name="iefonts_pipe-dream.css" crc="178384387" ref="tablet>pipe-dream"/>
+      <file name="iefonts_portfolio.css" crc="515608395" ref="tablet>portfolio"/>
+      <file name="iefonts_sports.css" crc="4218749228" ref="tablet>sports"/>
+      <file name="iefonts_creative.css" crc="3930424991" ref="tablet>creative"/>
+      <file name="iefonts_branding.css" crc="3950091148" ref="tablet>branding"/>
       <file name="iefonts_contact.css" crc="392375996" ref="tablet>contact"/>
-      <file name="iefonts_resume.css" crc="3889782064" ref="tablet>resume"/>
-      <file name="iefonts_about.css" crc="3918218079" ref="tablet>about"/>
+      <file name="iefonts_resume.css" crc="4150960090" ref="tablet>resume"/>
+      <file name="iefonts_about.css" crc="4198602089" ref="tablet>about"/>
     </folder>
-    <file name="index.html" crc="418087631" mt="1432106859214" redirect="true"/>
-    <file name="about.html" crc="3800225924" mt="1432137335837" redirect="true"/>
-    <file name="portfolio.html" crc="459962390" mt="1432102923812" redirect="true"/>
-    <file name="freelance.html" crc="386078608" mt="1432137512184" redirect="true"/>
-    <file name="sports.html" crc="3930991440" mt="1432106804263" redirect="true"/>
-    <file name="pipe-dream.html" crc="4241841359" mt="1432138032655" redirect="true"/>
-    <file name="typography.html" crc="128557309" mt="1432138323769" redirect="true"/>
-    <file name="creative.html" crc="193770642" mt="1432138588153" redirect="true"/>
-    <file name="branding.html" crc="4172306288" mt="1432138937342" redirect="true"/>
-    <file name="resume.html" crc="4142302531" mt="1432137291793" redirect="true"/>
-    <file name="contact.html" crc="4011517155" mt="1432106366399" redirect="true"/>
+    <file name="index.html" crc="399028519" mt="1437957685010" redirect="true" seo="true"/>
+    <file name="about.html" crc="4094460596" mt="1437951984110" redirect="true" seo="true"/>
+    <file name="portfolio.html" crc="4115139609" mt="1437958460982" redirect="true" seo="true"/>
+    <file name="freelance.html" crc="194451234" mt="1437957690322" redirect="true" seo="true"/>
+    <file name="sports.html" crc="3934913118" mt="1437957526070" redirect="true" seo="true"/>
+    <file name="pipe-dream.html" crc="4171002961" mt="1437957661854" redirect="true" seo="true"/>
+    <file name="typography.html" crc="3955700783" mt="1437957636628" redirect="true" seo="true"/>
+    <file name="creative.html" crc="16002904" mt="1437957620670" redirect="true" seo="true"/>
+    <file name="branding.html" crc="4146986468" mt="1437957594877" redirect="true" seo="true"/>
+    <file name="resume.html" crc="99180241" mt="1437958460981" redirect="true" seo="true"/>
+    <file name="contact.html" crc="408091190" mt="1432106366399" redirect="true" seo="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="276361798"/>
-    <file name="master_main.css" crc="60527450" ref="contact:about:resume:portfolio:typography:freelance:sports:branding:pipe-dream:creative"/>
-    <file name="contact.css" crc="3952941951" ref="contact"/>
+    <file name="site_global.css" crc="4013602569"/>
+    <file name="master_main.css" crc="3935182133" ref="contact:about:resume:portfolio:typography:freelance:sports:branding:pipe-dream:creative"/>
+    <file name="contact.css" crc="526209522" ref="contact"/>
     <file name="iefonts_contact.css" crc="3921100993" ref="contact"/>
-    <file name="about.css" crc="3900741248" ref="about"/>
-    <file name="iefonts_about.css" crc="4199048951" ref="about"/>
-    <file name="resume.css" crc="4203051041" ref="resume"/>
-    <file name="iefonts_resume.css" crc="4198611962" ref="resume"/>
-    <file name="index.css" crc="4022132770" ref="index"/>
+    <file name="about.css" crc="4154218348" ref="about"/>
+    <file name="iefonts_about.css" crc="75169736" ref="about"/>
+    <file name="resume.css" crc="496165107" ref="resume"/>
+    <file name="iefonts_resume.css" crc="34853107" ref="resume"/>
+    <file name="index.css" crc="54917965" ref="index"/>
     <file name="iefonts_index.css" crc="3932437572" ref="index"/>
-    <file name="portfolio.css" crc="4058559401" ref="portfolio"/>
-    <file name="iefonts_portfolio.css" crc="4021456172" ref="portfolio"/>
-    <file name="master_home.css" crc="56354180" ref="index"/>
-    <file name="typography.css" crc="3919277745" ref="typography"/>
-    <file name="iefonts_typography.css" crc="4033437942" ref="typography"/>
-    <file name="freelance.css" crc="430160403" ref="freelance"/>
-    <file name="iefonts_freelance.css" crc="392872910" ref="freelance"/>
-    <file name="sports.css" crc="282951188" ref="sports"/>
-    <file name="iefonts_sports.css" crc="3845726407" ref="sports"/>
-    <file name="branding.css" crc="28915917" ref="branding"/>
-    <file name="iefonts_branding.css" crc="324425430" ref="branding"/>
-    <file name="pipe-dream.css" crc="413815699" ref="pipe-dream"/>
-    <file name="iefonts_pipe-dream.css" crc="3795330748" ref="pipe-dream"/>
-    <file name="creative.css" crc="3860314304" ref="creative"/>
-    <file name="iefonts_creative.css" crc="3783275128" ref="creative"/>
+    <file name="portfolio.css" crc="498378104" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="4238899441" ref="portfolio"/>
+    <file name="master_home.css" crc="341042949" ref="index"/>
+    <file name="typography.css" crc="508522240" ref="typography"/>
+    <file name="iefonts_typography.css" crc="296637788" ref="typography"/>
+    <file name="freelance.css" crc="329291338" ref="freelance"/>
+    <file name="iefonts_freelance.css" crc="137254501" ref="freelance"/>
+    <file name="sports.css" crc="4038320002" ref="sports"/>
+    <file name="iefonts_sports.css" crc="4103047749" ref="sports"/>
+    <file name="branding.css" crc="4073313818" ref="branding"/>
+    <file name="iefonts_branding.css" crc="4202638360" ref="branding"/>
+    <file name="pipe-dream.css" crc="67677008" ref="pipe-dream"/>
+    <file name="iefonts_pipe-dream.css" crc="388386113" ref="pipe-dream"/>
+    <file name="creative.css" crc="422428223" ref="creative"/>
+    <file name="iefonts_creative.css" crc="4148913975" ref="creative"/>
   </folder>
   <folder name="assets">
     <file name="caf_resume_web_v007.pdf" crc="3901539520" mt="1429117330000"/>
     <file name="caf_resume_web_v008.pdf" crc="4024225565" mt="1430422012000"/>
+    <file name="caf_resume.pdf" crc="155607619" seo="true" mt="1437565814000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="museutils.js" crc="521960461" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:about:freelance:sports:typography:branding:portfolio:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
+    <file name="museutils.js" crc="334180058" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index:about:freelance:sports:typography:branding:portfolio:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume"/>
     <file name="pie.js" crc="3827607177" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="webpro.js" crc="220831917" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
-    <file name="musewpslideshow.js" crc="224651946" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
-    <file name="jquery.museoverlay.js" crc="276313855" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
-    <file name="touchswipe.js" crc="325405309" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
-    <file name="museredirect.js" crc="4117159434" ref="tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact:index:about:portfolio:resume:contact:freelance:sports:typography:pipe-dream:creative:branding"/>
+    <file name="webpro.js" crc="7309900" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
+    <file name="touchswipe.js" crc="526709374" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
+    <file name="museredirect.js" crc="390470276" ref="tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact:index:about:portfolio:resume:contact:freelance:sports:typography:pipe-dream:creative:branding"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4084214979" ref="tablet>index:index:tablet>about"/>
+    <file name="favicon.ico" crc="3933608522" ref="tablet>index"/>
     <file name="caf_namewhite_final.svg" crc="48388523" ref="index:tablet>index"/>
-    <file name="caf_namewhite_final_poster_.png" crc="3798683886" ref="tablet>index:index"/>
+    <file name="caf_namewhite_final_poster_.png" crc="3798683886" ref="tablet>index"/>
     <file name="home_graphic.svg" crc="4003375444" ref="index:tablet>index"/>
-    <file name="home_graphic_poster_.png" crc="409206811" ref="tablet>index:index"/>
+    <file name="home_graphic_poster_.png" crc="409206811" ref="tablet>index"/>
     <file name="home_web.svg" crc="4133410130" ref="index:tablet>index"/>
-    <file name="home_web_poster_.png" crc="3922428537" ref="tablet>index:index"/>
+    <file name="home_web_poster_.png" crc="3922428537" ref="tablet>index"/>
     <file name="home_photography.svg" crc="4026332962" ref="index:tablet>index"/>
-    <file name="home_photography_poster_.png" crc="353898825" ref="tablet>index:index"/>
+    <file name="home_photography_poster_.png" crc="353898825" ref="tablet>index"/>
     <file name="about_drawing.svg" crc="4086138002" ref="about:tablet>about"/>
     <file name="about_drawing_poster_.png" crc="4228924990" ref="tablet>about"/>
     <file name="about_photography.svg" crc="3852919972" ref="about:tablet>about"/>
@@ -113,29 +114,27 @@
     <file name="about_fitness_poster_.png" crc="246890051" ref="tablet>about"/>
     <file name="softwareskills.svg" crc="248525347" ref="resume"/>
     <file name="softwareskills_poster_.png" crc="4114025885" ref="resume"/>
-    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="email_off.svg" crc="4112208604" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="email_on.svg" crc="3999865010" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="linkedin_off.svg" crc="86007529" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="linkedin_on.svg" crc="307131357" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="behance_off.svg" crc="140281064" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="behance_on.svg" crc="147265255" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="pinterest_off.svg" crc="341970550" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="pinterest_on.svg" crc="3797888433" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about:tablet>index:tablet>about:portfolio"/>
-    <file name="headshot_website.jpg" crc="3934662183" ref="about"/>
-    <file name="caf_resume_web_v008.svg" crc="4290875318" ref="resume:tablet>resume"/>
-    <file name="caf_resume_web_v008_poster_.png" crc="103988954" ref="tablet>resume"/>
+    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about:tablet>index:tablet>about"/>
+    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about:tablet>index:tablet>about"/>
+    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about:tablet>index:tablet>about"/>
+    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about:tablet>index:tablet>about"/>
+    <file name="email_off.svg" crc="4112208604" ref="index:about:tablet>index:tablet>about"/>
+    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about:tablet>index:tablet>about"/>
+    <file name="email_on.svg" crc="3999865010" ref="index:about:tablet>index:tablet>about"/>
+    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about:tablet>index:tablet>about"/>
+    <file name="linkedin_off.svg" crc="86007529" ref="index:about:tablet>index:tablet>about"/>
+    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about:tablet>index:tablet>about"/>
+    <file name="linkedin_on.svg" crc="307131357" ref="index:about:tablet>index:tablet>about"/>
+    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about:tablet>index:tablet>about"/>
+    <file name="behance_off.svg" crc="140281064" ref="index:about:tablet>index:tablet>about"/>
+    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about:tablet>index:tablet>about"/>
+    <file name="behance_on.svg" crc="147265255" ref="index:about:tablet>index:tablet>about"/>
+    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about:tablet>index:tablet>about"/>
+    <file name="pinterest_off.svg" crc="341970550" ref="index:about:tablet>index:tablet>about"/>
+    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about:tablet>index:tablet>about"/>
+    <file name="pinterest_on.svg" crc="3797888433" ref="index:about:tablet>index:tablet>about"/>
+    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about:tablet>index:tablet>about"/>
+    <file name="headshot_website.jpg" crc="489956656" ref="about"/>
     <file name="arrow_off.svg" crc="458579613" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
     <file name="arrow_off_poster_.png" crc="4255836493" ref="tablet>freelance"/>
     <file name="blank.gif" crc="4208392903" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
@@ -150,405 +149,453 @@
     <file name="pasted svg 36x36.svg" crc="3916680880" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
     <file name="pasted svg 36x36_poster_.png" crc="4121135264" ref="tablet>freelance"/>
     <file name="loading.gif" crc="3815509949" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
-    <file name="freelance_thumbnail.jpg" crc="86107770" ref="portfolio:tablet>portfolio"/>
+    <file name="freelance_thumbnail.jpg" crc="3842000555" ref="portfolio:tablet>portfolio:tablet>resume"/>
     <file name="bufootball_thumbnail.jpg" crc="3989762995" ref="portfolio:tablet>portfolio"/>
     <file name="pipedream_thumbnail.jpg" crc="211660637" ref="portfolio:tablet>portfolio"/>
     <file name="walterwhite_thumbnail.jpg" crc="3823099116" ref="portfolio:tablet>portfolio"/>
     <file name="creative_thumbnail.jpg" crc="492001091" ref="portfolio:tablet>portfolio"/>
     <file name="branding_thumbnail.jpg" crc="290842011" ref="portfolio:tablet>portfolio"/>
-    <file name="g3_c4d-crop-u7398.jpg" crc="4225762611" ref="freelance"/>
-    <file name="g3_verizon-crop-u7412.jpg" crc="3861678121" ref="freelance"/>
-    <file name="g3_seagate-crop-u7426.jpg" crc="484234873" ref="freelance"/>
-    <file name="g3_ricpostcard304x304.jpg" crc="3891814382" ref="tablet>freelance"/>
-    <file name="g3_rtpcover-crop-u7454.jpg" crc="3795340773" ref="freelance"/>
-    <file name="g3_rtpp7-crop-u7480.jpg" crc="4181902344" ref="freelance"/>
-    <file name="g3_c4d.jpg" crc="3943524255" ref="tablet>freelance"/>
-    <file name="g3_verizon379x490.jpg" crc="4012941770" ref="freelance"/>
-    <file name="g3_seagate202x490.jpg" crc="424576262" ref="freelance"/>
-    <file name="g3_ricpostcard.jpg" crc="3955076681" ref="freelance:tablet>freelance"/>
-    <file name="g3_rtpcover.jpg" crc="415385664" ref="tablet>freelance"/>
-    <file name="g3_rtpp7.jpg" crc="170906546" ref="tablet>freelance"/>
-    <file name="rc_implementation-crop-u7000.jpg" crc="4286231230" ref="freelance"/>
-    <file name="rc_proposal-crop-u7513.jpg" crc="4050850780" ref="freelance"/>
-    <file name="rc_analyticsp1-crop-u7527.jpg" crc="4259711383" ref="freelance"/>
-    <file name="rc_analyticsp4-crop-u7541.jpg" crc="5330453" ref="freelance"/>
-    <file name="rc_printsmo-crop-u9634.jpg" crc="2972055" ref="freelance"/>
-    <file name="rc_cardsmo-crop-u9625.jpg" crc="451319474" ref="freelance"/>
-    <file name="rc_implementation.jpg" crc="269058378" ref="freelance"/>
-    <file name="rc_proposal413x490.jpg" crc="3986321819" ref="freelance"/>
-    <file name="rc_analyticsp1.jpg" crc="4196599638" ref="freelance:tablet>freelance"/>
-    <file name="rc_analyticsp4.jpg" crc="297785102" ref="freelance:tablet>freelance"/>
-    <file name="rc_printsmo.jpg" crc="511203842" ref="freelance"/>
-    <file name="rc_cardsmo.jpg" crc="344920293" ref="freelance"/>
-    <file name="bartle1373x288.jpg" crc="4130833856" ref="tablet>freelance"/>
-    <file name="bartle2-crop-u7593.jpg" crc="3809215655" ref="freelance"/>
-    <file name="bartle3373x288.jpg" crc="454988287" ref="tablet>freelance"/>
-    <file name="bartle4373x288.jpg" crc="476256640" ref="tablet>freelance"/>
-    <file name="bartle5373x288.jpg" crc="6493998" ref="tablet>freelance"/>
-    <file name="bartle6373x288.jpg" crc="3865638287" ref="tablet>freelance"/>
-    <file name="science1-crop-u7667.jpg" crc="4187361546" ref="freelance"/>
-    <file name="science2-crop-u7676.jpg" crc="460019632" ref="freelance"/>
-    <file name="science3-crop-u7685.jpg" crc="4114067502" ref="freelance"/>
-    <file name="downtown373x288.jpg" crc="4164277211" ref="tablet>freelance"/>
-    <file name="iceberg-crop-u9666.jpg" crc="3801031605" ref="freelance"/>
-    <file name="books-crop-u9657.jpg" crc="109205290" ref="freelance"/>
-    <file name="bartle1.jpg" crc="3897152209" ref="freelance:tablet>freelance"/>
-    <file name="bartle2.jpg" crc="3778597515" ref="tablet>freelance"/>
-    <file name="bartle3.jpg" crc="4160179895" ref="freelance:tablet>freelance"/>
-    <file name="bartle4.jpg" crc="494034083" ref="freelance:tablet>freelance"/>
-    <file name="bartle5.jpg" crc="293741815" ref="freelance:tablet>freelance"/>
-    <file name="bartle6.jpg" crc="188892992" ref="freelance:tablet>freelance"/>
-    <file name="science1.jpg" crc="163109440" ref="tablet>freelance"/>
-    <file name="science2.jpg" crc="318424254" ref="tablet>freelance"/>
-    <file name="science3.jpg" crc="4134442519" ref="tablet>freelance"/>
-    <file name="downtown.jpg" crc="484362547" ref="freelance:tablet>freelance"/>
-    <file name="iceberg.jpg" crc="155963556" ref="tablet>freelance"/>
-    <file name="books.jpg" crc="10606473" ref="tablet>freelance"/>
-    <file name="espn_cover1-crop-u8694.jpg" crc="172286223" ref="sports"/>
-    <file name="espn_spread1-crop-u8703.jpg" crc="138665361" ref="sports"/>
-    <file name="espn_spread2-crop-u8712.jpg" crc="153152598" ref="sports"/>
-    <file name="espn_spread3-crop-u8721.jpg" crc="4215633148" ref="sports"/>
-    <file name="espn_mo1-crop-u10359.jpg" crc="267133510" ref="sports"/>
-    <file name="espn_mo2-crop-u10368.jpg" crc="158558929" ref="sports"/>
-    <file name="espn_cover1370x490.jpg" crc="3792739450" ref="sports"/>
-    <file name="espn_spread1.jpg" crc="85430095" ref="sports:tablet>sports"/>
-    <file name="espn_spread2.jpg" crc="48533791" ref="sports:tablet>sports"/>
-    <file name="espn_spread3.jpg" crc="259768291" ref="sports:tablet>sports"/>
-    <file name="espn_mo1.jpg" crc="3790810311" ref="sports"/>
-    <file name="espn_mo2.jpg" crc="3765574801" ref="sports"/>
-    <file name="bufootball_display-crop-u8742.jpg" crc="146961323" ref="sports"/>
-    <file name="bufootball_main-crop-u8751.jpg" crc="238287334" ref="sports"/>
-    <file name="bufootball_square1-crop-u8760.jpg" crc="4228359201" ref="sports"/>
-    <file name="bufootball_square2-crop-u8769.jpg" crc="4120977339" ref="sports"/>
-    <file name="bufootball_mo1-crop-u10419.jpg" crc="398602497" ref="sports"/>
-    <file name="bufootball_display.jpg" crc="514398100" ref="sports:tablet>sports"/>
-    <file name="bufootball_main317x490.jpg" crc="436587390" ref="sports"/>
-    <file name="bufootball_square1.jpg" crc="3763871772" ref="sports:tablet>sports"/>
-    <file name="bufootball_square2490x490.jpg" crc="3826425496" ref="sports"/>
-    <file name="bufootball_mo1.jpg" crc="4086794489" ref="sports"/>
-    <file name="bufootball_mo2.jpg" crc="3839943212" ref="sports:tablet>sports"/>
-    <file name="calendar_cover-crop-u8898.png" crc="497961112" ref="sports"/>
-    <file name="calendar_jan-crop-u8826.png" crc="87191787" ref="sports"/>
-    <file name="calendar_feb-crop-u8817.png" crc="4028935226" ref="sports"/>
-    <file name="calendar_mar-crop-u8844.png" crc="456570157" ref="sports"/>
-    <file name="calendar_april-crop-u8880.png" crc="4138346656" ref="sports"/>
-    <file name="calendar_may-crop-u8925.png" crc="310604765" ref="sports"/>
-    <file name="calendar_june-crop-u8916.png" crc="4251568993" ref="sports"/>
-    <file name="calendar_july-crop-u8835.png" crc="297107816" ref="sports"/>
-    <file name="calendar_aug-crop-u8889.png" crc="155526877" ref="sports"/>
-    <file name="calendar_sept-crop-u8871.png" crc="163130886" ref="sports"/>
-    <file name="calendar_oct-crop-u8862.png" crc="525411408" ref="sports"/>
-    <file name="calendar_nov-crop-u8853.png" crc="431375421" ref="sports"/>
-    <file name="calendar_dec-crop-u8907.png" crc="308619154" ref="sports"/>
-    <file name="calendar_mo1-crop-u10450.jpg" crc="78592367" ref="sports"/>
-    <file name="calendar_mo2-crop-u10516.jpg" crc="4184609948" ref="sports"/>
-    <file name="calendar_cover.png" crc="4256577230" ref="tablet>sports"/>
-    <file name="calendar_jan.png" crc="4044027088" ref="tablet>sports"/>
-    <file name="calendar_feb.png" crc="164766042" ref="tablet>sports"/>
-    <file name="calendar_mar.png" crc="4075396133" ref="tablet>sports"/>
-    <file name="calendar_april.png" crc="4014760799" ref="tablet>sports"/>
-    <file name="calendar_may.png" crc="196408691" ref="tablet>sports"/>
-    <file name="calendar_june.png" crc="4109450557" ref="tablet>sports"/>
-    <file name="calendar_july.png" crc="4246042762" ref="tablet>sports"/>
-    <file name="calendar_aug.png" crc="3818996386" ref="tablet>sports"/>
-    <file name="calendar_sept.png" crc="135208132" ref="tablet>sports"/>
-    <file name="calendar_oct.png" crc="4294821988" ref="tablet>sports"/>
-    <file name="calendar_nov.png" crc="4255270962" ref="tablet>sports"/>
-    <file name="calendar_dec.png" crc="4046177365" ref="tablet>sports"/>
-    <file name="calendar_mo1.jpg" crc="408023151" ref="sports"/>
-    <file name="calendar_mo2.jpg" crc="3956652043" ref="sports"/>
-    <file name="walterwhite1-crop-u9139.jpg" crc="445097322" ref="typography"/>
-    <file name="walterwhite2-crop-u9130.jpg" crc="3960028140" ref="typography"/>
-    <file name="walterwhitemo-crop-u10260.jpg" crc="9123058" ref="typography"/>
-    <file name="walterwhite1.jpg" crc="213116965" ref="tablet>typography"/>
-    <file name="walterwhite2.jpg" crc="290091414" ref="typography"/>
-    <file name="walterwhitemo.jpg" crc="3780005219" ref="typography"/>
-    <file name="centurygothic1-crop-u9166.jpg" crc="3779833140" ref="typography"/>
-    <file name="centurygothic2-crop-u9175.jpg" crc="4014259139" ref="typography"/>
-    <file name="centurygothicmo-crop-u10274.jpg" crc="4065483962" ref="typography"/>
-    <file name="centurygothic1.jpg" crc="4059595331" ref="tablet>typography"/>
-    <file name="centurygothic2871x490.jpg" crc="90129490" ref="typography"/>
-    <file name="centurygothicmo.jpg" crc="4249019327" ref="typography"/>
-    <file name="sports_page1-crop-u9390.jpg" crc="4243831783" ref="pipe-dream"/>
-    <file name="sports_page2-crop-u9399.jpg" crc="479086827" ref="pipe-dream"/>
-    <file name="sports_page3-crop-u9408.jpg" crc="315375815" ref="pipe-dream"/>
-    <file name="sports_page4-crop-u9417.jpg" crc="273081441" ref="pipe-dream"/>
-    <file name="sports_page5-crop-u9426.jpg" crc="92322042" ref="pipe-dream"/>
-    <file name="sports_page6-crop-u9435.jpg" crc="137953474" ref="pipe-dream"/>
-    <file name="sports_page7-crop-u9842.jpg" crc="4099511775" ref="pipe-dream"/>
-    <file name="sports_wbb1-crop-u9864.jpg" crc="127361509" ref="pipe-dream"/>
-    <file name="sports_mbb1-crop-u9878.jpg" crc="3919565903" ref="pipe-dream"/>
-    <file name="sports_mbb2326x288.jpg" crc="104511150" ref="pipe-dream"/>
-    <file name="sports_mbb3-crop-u9921.jpg" crc="3923110831" ref="pipe-dream"/>
-    <file name="sports_mbb4-crop-u9930.jpg" crc="4165493986" ref="pipe-dream"/>
-    <file name="sports_page1277x490.jpg" crc="3934817537" ref="pipe-dream"/>
-    <file name="sports_page2277x490.jpg" crc="228412577" ref="pipe-dream"/>
-    <file name="sports_page3277x490.jpg" crc="358123457" ref="pipe-dream"/>
-    <file name="sports_page4277x490.jpg" crc="4011623186" ref="pipe-dream"/>
-    <file name="sports_page5.jpg" crc="46132792" ref="tablet>pipe-dream"/>
-    <file name="sports_page6.jpg" crc="3945145361" ref="tablet>pipe-dream"/>
-    <file name="sports_page7.jpg" crc="3891710172" ref="tablet>pipe-dream"/>
-    <file name="sports_wbb1.jpg" crc="494731325" ref="pipe-dream:tablet>pipe-dream"/>
-    <file name="sports_mbb1.jpg" crc="4189888408" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb3.jpg" crc="3954530061" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb4.jpg" crc="3891171262" ref="pipe-dream:tablet>pipe-dream"/>
-    <file name="pd_ig1-crop-u9028.jpg" crc="359491369" ref="pipe-dream"/>
-    <file name="pd_ig2-crop-u9994.jpg" crc="4120540620" ref="pipe-dream"/>
-    <file name="pd_ig3-crop-u10013.jpg" crc="525315585" ref="pipe-dream"/>
-    <file name="pd_ig4-crop-u10022.jpg" crc="147471300" ref="pipe-dream"/>
-    <file name="pd_igmo1-crop-u10541.jpg" crc="4132060276" ref="pipe-dream"/>
-    <file name="pd_igmo2-crop-u10550.jpg" crc="303281895" ref="pipe-dream"/>
-    <file name="pd_ig1.jpg" crc="411632920" ref="pipe-dream"/>
-    <file name="pd_ig2.jpg" crc="3840506504" ref="pipe-dream:tablet>pipe-dream"/>
-    <file name="pd_ig3.jpg" crc="3948977328" ref="pipe-dream"/>
-    <file name="pd_ig4.jpg" crc="480468328" ref="pipe-dream:tablet>pipe-dream"/>
-    <file name="pd_igmo1.jpg" crc="397280601" ref="pipe-dream"/>
-    <file name="pd_igmo2.jpg" crc="3802400651" ref="pipe-dream"/>
-    <file name="pd_frontpage-crop-u9699.jpg" crc="71824868" ref="pipe-dream"/>
-    <file name="pd_opinion-crop-u9969.jpg" crc="97226939" ref="pipe-dream"/>
-    <file name="pd_layout-crop-u9960.jpg" crc="4164952545" ref="pipe-dream"/>
-    <file name="pd_frontpage.jpg" crc="4084929391" ref="tablet>pipe-dream"/>
-    <file name="pd_opinion.jpg" crc="4259160581" ref="tablet>pipe-dream"/>
-    <file name="pd_layout.jpg" crc="3919879461" ref="tablet>pipe-dream"/>
-    <file name="tacobell1-crop-u9335.jpg" crc="4129943378" ref="creative"/>
-    <file name="tacobell2-crop-u9344.jpg" crc="3848230448" ref="creative"/>
-    <file name="tacobell_mo304x304.jpg" crc="264434395" ref="tablet>creative"/>
-    <file name="tacobell1.jpg" crc="4216484448" ref="tablet>creative"/>
-    <file name="tacobell2871x490.jpg" crc="370415272" ref="creative"/>
-    <file name="tacobell_mo.jpg" crc="6853978" ref="creative:tablet>creative"/>
-    <file name="linkinpark1304x304.jpg" crc="3834680563" ref="tablet>creative"/>
-    <file name="linkinpark2304x304.jpg" crc="527760113" ref="tablet>creative"/>
-    <file name="linkinpark3304x304.jpg" crc="3949184574" ref="tablet>creative"/>
-    <file name="linkinpark4304x304.jpg" crc="78611876" ref="tablet>creative"/>
-    <file name="linkinparkmo1-crop-u10295.jpg" crc="355939926" ref="creative"/>
-    <file name="linkinparkmo2-crop-u10313.jpg" crc="233248684" ref="creative"/>
-    <file name="linkinpark1.jpg" crc="164507873" ref="creative:tablet>creative"/>
-    <file name="linkinpark2.jpg" crc="3905504440" ref="creative:tablet>creative"/>
-    <file name="linkinpark3.jpg" crc="3888380156" ref="creative:tablet>creative"/>
-    <file name="linkinpark4.jpg" crc="302319004" ref="creative:tablet>creative"/>
-    <file name="linkinparkmo1.jpg" crc="3871089728" ref="creative"/>
-    <file name="linkinparkmo2.jpg" crc="4016970932" ref="creative:tablet>creative"/>
-    <file name="consumerreportscover-crop-u9249.jpg" crc="153574845" ref="creative"/>
-    <file name="consumerreportsspread-crop-u9274.jpg" crc="4277730800" ref="creative"/>
-    <file name="consumerreportsmo-crop-u10327.jpg" crc="3991114332" ref="creative"/>
-    <file name="consumerreportscover.jpg" crc="363735084" ref="tablet>creative"/>
-    <file name="consumerreportsspread.jpg" crc="195334436" ref="creative:tablet>creative"/>
-    <file name="consumerreportsmo.jpg" crc="3836121747" ref="creative"/>
-    <file name="cooks_logo-crop-u9515.jpg" crc="3957985650" ref="branding"/>
-    <file name="cooks_idcoverback-crop-u10116.jpg" crc="4282522500" ref="branding"/>
-    <file name="cooks_id1-crop-u10063.jpg" crc="3854701847" ref="branding"/>
-    <file name="cooks_id2-crop-u10072.jpg" crc="137480356" ref="branding"/>
-    <file name="cooks_id3-crop-u10081.jpg" crc="3976859904" ref="branding"/>
-    <file name="cooks_id4-crop-u10090.jpg" crc="4258426139" ref="branding"/>
-    <file name="cooks_brochurecoverback-crop-u10188.jpg" crc="4073736283" ref="branding"/>
-    <file name="cooks_brochure1-crop-u10144.jpg" crc="435965227" ref="branding"/>
-    <file name="cooks_brochure2-crop-u10153.jpg" crc="282578325" ref="branding"/>
-    <file name="cooks_brochure3-crop-u10162.jpg" crc="3844307686" ref="branding"/>
-    <file name="cooks_billboard-crop-u10217.jpg" crc="311596957" ref="branding"/>
-    <file name="cooks_webpagemo-crop-u10244.jpg" crc="272918982" ref="branding"/>
-    <file name="cooks_logo.jpg" crc="530205981" ref="branding"/>
-    <file name="cooks_idcoverback.jpg" crc="3762146311" ref="branding"/>
-    <file name="cooks_id1.jpg" crc="4000776703" ref="branding"/>
-    <file name="cooks_id2.jpg" crc="3989309773" ref="branding"/>
-    <file name="cooks_id3.jpg" crc="4218566450" ref="branding"/>
-    <file name="cooks_id4.jpg" crc="4092608414" ref="branding"/>
-    <file name="cooks_brochurecoverback.jpg" crc="407363551" ref="branding"/>
-    <file name="cooks_brochure1.jpg" crc="445568192" ref="branding"/>
-    <file name="cooks_brochure2.jpg" crc="481303370" ref="branding"/>
-    <file name="cooks_brochure3.jpg" crc="4155563564" ref="branding"/>
-    <file name="cooks_billboard.jpg" crc="314972506" ref="branding"/>
-    <file name="cooks_webpagemo.jpg" crc="488010630" ref="branding:tablet>branding"/>
-    <file name="cards1-crop-u9535.jpg" crc="4221111638" ref="branding"/>
-    <file name="resume-crop-u9567.jpg" crc="476110169" ref="branding"/>
-    <file name="cards2-crop-u9558.jpg" crc="4236308506" ref="branding"/>
-    <file name="cards1.jpg" crc="501905622" ref="branding"/>
-    <file name="resume.jpg" crc="463833171" ref="branding"/>
-    <file name="cards2.jpg" crc="294546298" ref="branding"/>
+    <file name="g3_c4d-crop-u7398.jpg" crc="3833625513" ref="freelance"/>
+    <file name="g3_verizon-crop-u7412.jpg" crc="92934122" ref="freelance"/>
+    <file name="g3_seagate-crop-u7426.jpg" crc="4000308203" ref="freelance"/>
+    <file name="g3_ricpostcard304x304.jpg" crc="4099321550" ref="tablet>freelance" seo="true"/>
+    <file name="g3_rtpcover-crop-u7454.jpg" crc="395177250" ref="freelance"/>
+    <file name="g3_rtpp7-crop-u7480.jpg" crc="3915397639" ref="freelance"/>
+    <file name="g3_c4d.jpg" crc="3943524255" ref="tablet>freelance" seo="true"/>
+    <file name="g3_verizon379x490.jpg" crc="30431733" ref="freelance" seo="true"/>
+    <file name="g3_seagate202x490.jpg" crc="430248106" ref="freelance" seo="true"/>
+    <file name="g3_ricpostcard.jpg" crc="3955076681" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="g3_rtpcover.jpg" crc="415385664" ref="tablet>freelance" seo="true"/>
+    <file name="g3_rtpp7.jpg" crc="170906546" ref="tablet>freelance" seo="true"/>
+    <file name="rc_implementation-crop-u7000.jpg" crc="4275112421" ref="freelance"/>
+    <file name="rc_proposal-crop-u7513.jpg" crc="428627972" ref="freelance"/>
+    <file name="rc_analyticsp1-crop-u7527.jpg" crc="175471500" ref="freelance"/>
+    <file name="rc_analyticsp4-crop-u7541.jpg" crc="4178737606" ref="freelance"/>
+    <file name="rc_printsmo-crop-u9634.jpg" crc="34277789" ref="freelance"/>
+    <file name="rc_cardsmo-crop-u9625.jpg" crc="4195026191" ref="freelance"/>
+    <file name="rc_implementation.jpg" crc="269058378" ref="freelance" seo="true"/>
+    <file name="rc_proposal413x490.jpg" crc="280967666" ref="freelance" seo="true"/>
+    <file name="rc_analyticsp1.jpg" crc="4196599638" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="rc_analyticsp4.jpg" crc="297785102" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="rc_printsmo.jpg" crc="511203842" ref="freelance" seo="true"/>
+    <file name="rc_cardsmo.jpg" crc="344920293" ref="freelance" seo="true"/>
+    <file name="bartle1373x288.jpg" crc="4146875842" ref="tablet>freelance" seo="true"/>
+    <file name="bartle2-crop-u7593.jpg" crc="339991808" ref="freelance"/>
+    <file name="bartle3373x288.jpg" crc="465205712" ref="tablet>freelance" seo="true"/>
+    <file name="bartle4373x288.jpg" crc="245198010" ref="tablet>freelance" seo="true"/>
+    <file name="bartle5373x288.jpg" crc="407000475" ref="tablet>freelance" seo="true"/>
+    <file name="bartle6373x288.jpg" crc="178224323" ref="tablet>freelance" seo="true"/>
+    <file name="science1-crop-u7667.jpg" crc="110678102" ref="freelance"/>
+    <file name="science2-crop-u7676.jpg" crc="529069150" ref="freelance"/>
+    <file name="science3-crop-u7685.jpg" crc="439529015" ref="freelance"/>
+    <file name="downtown373x288.jpg" crc="3890866221" ref="tablet>freelance" seo="true"/>
+    <file name="iceberg-crop-u9666.jpg" crc="112139002" ref="freelance"/>
+    <file name="books-crop-u9657.jpg" crc="4047266667" ref="freelance"/>
+    <file name="bartle1.jpg" crc="3897152209" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="bartle2.jpg" crc="3778597515" ref="tablet>freelance" seo="true"/>
+    <file name="bartle3.jpg" crc="4160179895" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="bartle4.jpg" crc="494034083" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="bartle5.jpg" crc="293741815" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="bartle6.jpg" crc="188892992" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="science1.jpg" crc="163109440" ref="tablet>freelance" seo="true"/>
+    <file name="science2.jpg" crc="318424254" ref="tablet>freelance" seo="true"/>
+    <file name="science3.jpg" crc="4134442519" ref="tablet>freelance" seo="true"/>
+    <file name="downtown.jpg" crc="484362547" ref="freelance:tablet>freelance" seo="true"/>
+    <file name="iceberg.jpg" crc="155963556" ref="tablet>freelance" seo="true"/>
+    <file name="books.jpg" crc="10606473" ref="tablet>freelance" seo="true"/>
+    <file name="espn_cover1-crop-u8694.jpg" crc="3803994568" ref="sports"/>
+    <file name="espn_spread1-crop-u8703.jpg" crc="3935945923" ref="sports"/>
+    <file name="espn_spread2-crop-u8712.jpg" crc="4270489816" ref="sports"/>
+    <file name="espn_spread3-crop-u8721.jpg" crc="168752115" ref="sports"/>
+    <file name="espn_mo1-crop-u10359.jpg" crc="4242041393" ref="sports"/>
+    <file name="espn_mo2-crop-u10368.jpg" crc="23396054" ref="sports"/>
+    <file name="espn_cover1370x490.jpg" crc="316384877" ref="sports" seo="true"/>
+    <file name="espn_spread1.jpg" crc="85430095" ref="sports:tablet>sports" seo="true"/>
+    <file name="espn_spread2.jpg" crc="48533791" ref="sports:tablet>sports" seo="true"/>
+    <file name="espn_spread3.jpg" crc="259768291" ref="sports:tablet>sports" seo="true"/>
+    <file name="espn_mo1.jpg" crc="3790810311" ref="sports" seo="true"/>
+    <file name="espn_mo2.jpg" crc="3765574801" ref="sports" seo="true"/>
+    <file name="bufootball_display-crop-u8742.jpg" crc="460738522" ref="sports"/>
+    <file name="bufootball_main-crop-u8751.jpg" crc="469325494" ref="sports"/>
+    <file name="bufootball_square1-crop-u8760.jpg" crc="536473840" ref="sports"/>
+    <file name="bufootball_square2-crop-u8769.jpg" crc="4110971824" ref="sports"/>
+    <file name="bufootball_mo1-crop-u10419.jpg" crc="433213721" ref="sports"/>
+    <file name="bufootball_display.jpg" crc="514398100" ref="sports:tablet>sports" seo="true"/>
+    <file name="bufootball_main317x490.jpg" crc="797402" ref="sports" seo="true"/>
+    <file name="bufootball_square1.jpg" crc="3763871772" ref="sports:tablet>sports" seo="true"/>
+    <file name="bufootball_square2490x490.jpg" crc="4268843486" ref="sports" seo="true"/>
+    <file name="bufootball_mo1.jpg" crc="4086794489" ref="sports" seo="true"/>
+    <file name="bufootball_mo2.jpg" crc="3839943212" ref="sports:tablet>sports" seo="true"/>
+    <file name="calendar_cover-crop-u8898.png" crc="57729093" ref="sports"/>
+    <file name="calendar_jan-crop-u8826.png" crc="350200358" ref="sports"/>
+    <file name="calendar_feb-crop-u8817.png" crc="237283295" ref="sports"/>
+    <file name="calendar_mar-crop-u8844.png" crc="110745194" ref="sports"/>
+    <file name="calendar_april-crop-u8880.png" crc="3762915060" ref="sports"/>
+    <file name="calendar_may-crop-u8925.png" crc="4184430675" ref="sports"/>
+    <file name="calendar_june-crop-u8916.png" crc="3924294046" ref="sports"/>
+    <file name="calendar_july-crop-u8835.png" crc="4158545778" ref="sports"/>
+    <file name="calendar_aug-crop-u8889.png" crc="295584988" ref="sports"/>
+    <file name="calendar_sept-crop-u8871.png" crc="4265855784" ref="sports"/>
+    <file name="calendar_oct-crop-u8862.png" crc="3944687401" ref="sports"/>
+    <file name="calendar_nov-crop-u8853.png" crc="4160322372" ref="sports"/>
+    <file name="calendar_dec-crop-u8907.png" crc="302638066" ref="sports"/>
+    <file name="calendar_mo1-crop-u10450.jpg" crc="4150009332" ref="sports"/>
+    <file name="calendar_mo2-crop-u10516.jpg" crc="4224635032" ref="sports"/>
+    <file name="calendar_cover.png" crc="4256577230" ref="tablet>sports" seo="true"/>
+    <file name="calendar_jan.png" crc="4044027088" ref="tablet>sports" seo="true"/>
+    <file name="calendar_feb.png" crc="164766042" ref="tablet>sports" seo="true"/>
+    <file name="calendar_mar.png" crc="4075396133" ref="tablet>sports" seo="true"/>
+    <file name="calendar_april.png" crc="4014760799" ref="tablet>sports" seo="true"/>
+    <file name="calendar_may.png" crc="196408691" ref="tablet>sports" seo="true"/>
+    <file name="calendar_june.png" crc="4109450557" ref="tablet>sports" seo="true"/>
+    <file name="calendar_july.png" crc="4246042762" ref="tablet>sports" seo="true"/>
+    <file name="calendar_aug.png" crc="3818996386" ref="tablet>sports" seo="true"/>
+    <file name="calendar_sept.png" crc="135208132" ref="tablet>sports" seo="true"/>
+    <file name="calendar_oct.png" crc="4294821988" ref="tablet>sports" seo="true"/>
+    <file name="calendar_nov.png" crc="4255270962" ref="tablet>sports" seo="true"/>
+    <file name="calendar_dec.png" crc="4046177365" ref="tablet>sports" seo="true"/>
+    <file name="calendar_mo1.jpg" crc="408023151" ref="sports" seo="true"/>
+    <file name="calendar_mo2.jpg" crc="3956652043" ref="sports" seo="true"/>
+    <file name="walterwhite1-crop-u9139.jpg" crc="4026137611" ref="typography"/>
+    <file name="walterwhite2-crop-u9130.jpg" crc="3889215384" ref="typography"/>
+    <file name="walterwhitemo-crop-u10260.jpg" crc="232519154" ref="typography"/>
+    <file name="walterwhite1.jpg" crc="213116965" ref="tablet>typography" seo="true"/>
+    <file name="walterwhite2.jpg" crc="222133922" ref="tablet>typography" seo="true"/>
+    <file name="walterwhitemo.jpg" crc="3780005219" ref="typography" seo="true"/>
+    <file name="centurygothic1-crop-u9166.jpg" crc="4086070928" ref="typography"/>
+    <file name="centurygothic2-crop-u9175.jpg" crc="3930758014" ref="typography"/>
+    <file name="centurygothicmo-crop-u10274.jpg" crc="4013760156" ref="typography"/>
+    <file name="centurygothic1.jpg" crc="4059595331" ref="tablet>typography" seo="true"/>
+    <file name="centurygothic2871x490.jpg" crc="3968172538" ref="typography" seo="true"/>
+    <file name="centurygothicmo.jpg" crc="4249019327" ref="typography" seo="true"/>
+    <file name="sports_page1-crop-u9390.jpg" crc="3898218855" ref="pipe-dream"/>
+    <file name="sports_page2-crop-u9399.jpg" crc="4246267559" ref="pipe-dream"/>
+    <file name="sports_page3-crop-u9408.jpg" crc="4074657475" ref="pipe-dream"/>
+    <file name="sports_page4-crop-u9417.jpg" crc="3884527969" ref="pipe-dream"/>
+    <file name="sports_page5-crop-u9426.jpg" crc="24653793" ref="pipe-dream"/>
+    <file name="sports_page6-crop-u9435.jpg" crc="4086443888" ref="pipe-dream"/>
+    <file name="sports_page7-crop-u9842.jpg" crc="4292307923" ref="pipe-dream"/>
+    <file name="sports_wbb1-crop-u9864.jpg" crc="4255501065" ref="pipe-dream"/>
+    <file name="sports_mbb1-crop-u9878.jpg" crc="3990627777" ref="pipe-dream"/>
+    <file name="sports_mbb2326x288.jpg" crc="97527732" ref="pipe-dream" seo="true"/>
+    <file name="sports_mbb3-crop-u9921.jpg" crc="3984140263" ref="pipe-dream"/>
+    <file name="sports_mbb4-crop-u9930.jpg" crc="467634983" ref="pipe-dream"/>
+    <file name="sports_page1277x490.jpg" crc="3802052899" ref="pipe-dream" seo="true"/>
+    <file name="sports_page2277x490.jpg" crc="241414939" ref="pipe-dream" seo="true"/>
+    <file name="sports_page3277x490.jpg" crc="4097377727" ref="pipe-dream" seo="true"/>
+    <file name="sports_page4277x490.jpg" crc="4029260349" ref="pipe-dream" seo="true"/>
+    <file name="sports_page5.jpg" crc="46132792" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_page6.jpg" crc="3945145361" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_page7.jpg" crc="3891710172" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_wbb1.jpg" crc="494731325" ref="pipe-dream:tablet>pipe-dream" seo="true"/>
+    <file name="sports_mbb1.jpg" crc="4189888408" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_mbb3.jpg" crc="3954530061" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_mbb4.jpg" crc="3891171262" ref="pipe-dream:tablet>pipe-dream" seo="true"/>
+    <file name="pd_ig1-crop-u9028.jpg" crc="4040731895" ref="pipe-dream"/>
+    <file name="pd_ig2-crop-u9994.jpg" crc="13953064" ref="pipe-dream"/>
+    <file name="pd_ig3-crop-u10013.jpg" crc="4224890567" ref="pipe-dream"/>
+    <file name="pd_ig4-crop-u10022.jpg" crc="3834342113" ref="pipe-dream"/>
+    <file name="pd_igmo1-crop-u10541.jpg" crc="375175841" ref="pipe-dream"/>
+    <file name="pd_igmo2-crop-u10550.jpg" crc="311984212" ref="pipe-dream"/>
+    <file name="pd_ig1.jpg" crc="411632920" ref="pipe-dream" seo="true"/>
+    <file name="pd_ig2.jpg" crc="3840506504" ref="pipe-dream:tablet>pipe-dream" seo="true"/>
+    <file name="pd_ig3.jpg" crc="3948977328" ref="pipe-dream" seo="true"/>
+    <file name="pd_ig4.jpg" crc="480468328" ref="pipe-dream:tablet>pipe-dream" seo="true"/>
+    <file name="pd_igmo1.jpg" crc="397280601" ref="pipe-dream" seo="true"/>
+    <file name="pd_igmo2.jpg" crc="3802400651" ref="pipe-dream" seo="true"/>
+    <file name="pd_frontpage-crop-u9699.jpg" crc="3991550169" ref="pipe-dream"/>
+    <file name="pd_opinion-crop-u9969.jpg" crc="3955816334" ref="pipe-dream"/>
+    <file name="pd_layout-crop-u9960.jpg" crc="76257578" ref="pipe-dream"/>
+    <file name="pd_frontpage.jpg" crc="4084929391" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_opinion.jpg" crc="4259160581" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_layout.jpg" crc="3919879461" ref="tablet>pipe-dream" seo="true"/>
+    <file name="tacobell1-crop-u9335.jpg" crc="499723288" ref="creative"/>
+    <file name="tacobell2-crop-u9344.jpg" crc="71001030" ref="creative"/>
+    <file name="tacobell_mo304x304.jpg" crc="88635461" ref="tablet>creative" seo="true"/>
+    <file name="tacobell1.jpg" crc="4216484448" ref="tablet>creative" seo="true"/>
+    <file name="tacobell2871x490.jpg" crc="3998501824" ref="creative" seo="true"/>
+    <file name="tacobell_mo.jpg" crc="6853978" ref="creative:tablet>creative" seo="true"/>
+    <file name="linkinpark1304x304.jpg" crc="290047575" ref="tablet>creative" seo="true"/>
+    <file name="linkinpark2304x304.jpg" crc="3859047766" ref="tablet>creative" seo="true"/>
+    <file name="linkinpark3304x304.jpg" crc="390141504" ref="tablet>creative" seo="true"/>
+    <file name="linkinpark4304x304.jpg" crc="138084769" ref="tablet>creative" seo="true"/>
+    <file name="linkinparkmo1-crop-u10295.jpg" crc="4126431504" ref="creative"/>
+    <file name="linkinparkmo2-crop-u10313.jpg" crc="4018735918" ref="creative"/>
+    <file name="linkinpark1.jpg" crc="164507873" ref="creative:tablet>creative" seo="true"/>
+    <file name="linkinpark2.jpg" crc="3905504440" ref="creative:tablet>creative" seo="true"/>
+    <file name="linkinpark3.jpg" crc="3888380156" ref="creative:tablet>creative" seo="true"/>
+    <file name="linkinpark4.jpg" crc="302319004" ref="creative:tablet>creative" seo="true"/>
+    <file name="linkinparkmo1.jpg" crc="3871089728" ref="creative" seo="true"/>
+    <file name="linkinparkmo2.jpg" crc="4016970932" ref="creative:tablet>creative" seo="true"/>
+    <file name="consumerreportscover-crop-u9249.jpg" crc="58765853" ref="creative"/>
+    <file name="consumerreportsspread-crop-u9274.jpg" crc="4018462029" ref="creative"/>
+    <file name="consumerreportsmo-crop-u10327.jpg" crc="4280750441" ref="creative"/>
+    <file name="consumerreportscover.jpg" crc="363735084" ref="tablet>creative" seo="true"/>
+    <file name="consumerreportsspread.jpg" crc="195334436" ref="creative:tablet>creative" seo="true"/>
+    <file name="consumerreportsmo.jpg" crc="3836121747" ref="creative" seo="true"/>
+    <file name="cooks_logo-crop-u9515.jpg" crc="4197349113" ref="branding"/>
+    <file name="cooks_idcoverback-crop-u10116.jpg" crc="385961834" ref="branding"/>
+    <file name="cooks_id1-crop-u10063.jpg" crc="45404444" ref="branding"/>
+    <file name="cooks_id2-crop-u10072.jpg" crc="383774320" ref="branding"/>
+    <file name="cooks_id3-crop-u10081.jpg" crc="316003680" ref="branding"/>
+    <file name="cooks_id4-crop-u10090.jpg" crc="3879966201" ref="branding"/>
+    <file name="cooks_brochurecoverback-crop-u10188.jpg" crc="3878348618" ref="branding"/>
+    <file name="cooks_brochure1-crop-u10144.jpg" crc="3933343083" ref="branding"/>
+    <file name="cooks_brochure2-crop-u10153.jpg" crc="409373906" ref="branding"/>
+    <file name="cooks_brochure3-crop-u10162.jpg" crc="436718551" ref="branding"/>
+    <file name="cooks_billboard-crop-u10217.jpg" crc="4219355459" ref="branding"/>
+    <file name="cooks_webpagemo-crop-u10244.jpg" crc="410509830" ref="branding"/>
+    <file name="cooks_logo.jpg" crc="530205981" ref="branding" seo="true"/>
+    <file name="cooks_idcoverback.jpg" crc="3762146311" ref="branding" seo="true"/>
+    <file name="cooks_id1.jpg" crc="4000776703" ref="branding" seo="true"/>
+    <file name="cooks_id2.jpg" crc="3989309773" ref="branding" seo="true"/>
+    <file name="cooks_id3.jpg" crc="4218566450" ref="branding" seo="true"/>
+    <file name="cooks_id4.jpg" crc="4092608414" ref="branding" seo="true"/>
+    <file name="cooks_brochurecoverback.jpg" crc="407363551" ref="branding" seo="true"/>
+    <file name="cooks_brochure1.jpg" crc="445568192" ref="branding" seo="true"/>
+    <file name="cooks_brochure2.jpg" crc="481303370" ref="branding" seo="true"/>
+    <file name="cooks_brochure3.jpg" crc="4155563564" ref="branding" seo="true"/>
+    <file name="cooks_billboard.jpg" crc="314972506" ref="branding" seo="true"/>
+    <file name="cooks_webpagemo.jpg" crc="488010630" ref="branding:tablet>branding" seo="true"/>
+    <file name="cards1-crop-u9535.jpg" crc="3907331479" ref="branding"/>
+    <file name="resume-crop-u9567.jpg" crc="4234618030" ref="branding"/>
+    <file name="cards2-crop-u9558.jpg" crc="4222258645" ref="branding"/>
+    <file name="cards1.jpg" crc="501905622" ref="branding" seo="true"/>
+    <file name="resume.jpg" crc="463833171" ref="branding" seo="true"/>
+    <file name="cards2.jpg" crc="294546298" ref="branding" seo="true"/>
     <file name="home_image2.png" crc="3808073351" ref="tablet>index:index"/>
-    <file name="g3_c4d-crop-u12748.jpg" crc="55044618" ref="tablet>freelance"/>
-    <file name="g3_verizon-crop-u12793.jpg" crc="4250787729" ref="tablet>freelance"/>
-    <file name="g3_seagate-crop-u12784.jpg" crc="4294418405" ref="tablet>freelance"/>
-    <file name="g3_rtpcover-crop-u12766.jpg" crc="193757560" ref="tablet>freelance"/>
-    <file name="g3_rtpp7-crop-u12775.jpg" crc="215737883" ref="tablet>freelance"/>
-    <file name="g3_verizon.jpg" crc="4292126338" ref="tablet>freelance"/>
-    <file name="g3_seagate.jpg" crc="188972696" ref="tablet>freelance"/>
-    <file name="rc_implementation-crop-u12076.jpg" crc="4088540027" ref="tablet>freelance"/>
-    <file name="rc_proposal-crop-u12094.jpg" crc="379497283" ref="tablet>freelance"/>
-    <file name="rc_analyticsp1-crop-u12049.jpg" crc="4259711383" ref="tablet>freelance"/>
-    <file name="rc_analyticsp4-crop-u12058.jpg" crc="465683898" ref="tablet>freelance"/>
-    <file name="rc_printsmo-crop-u12085.jpg" crc="2972055" ref="tablet>freelance"/>
-    <file name="rc_cardsmo-crop-u12067.jpg" crc="3791334801" ref="tablet>freelance"/>
-    <file name="rc_implementation644x382.jpg" crc="4235584231" ref="tablet>freelance"/>
-    <file name="rc_proposal.jpg" crc="4168705357" ref="tablet>freelance"/>
-    <file name="rc_printsmo644x363.jpg" crc="484160888" ref="tablet>freelance"/>
-    <file name="rc_cardsmo644x363.jpg" crc="4178358153" ref="tablet>freelance"/>
-    <file name="bartle2-crop-u13020.jpg" crc="361762431" ref="tablet>freelance"/>
-    <file name="science1-crop-u13092.jpg" crc="420773668" ref="tablet>freelance"/>
-    <file name="science2-crop-u13101.jpg" crc="118960637" ref="tablet>freelance"/>
-    <file name="science3-crop-u13110.jpg" crc="364424350" ref="tablet>freelance"/>
-    <file name="iceberg-crop-u13083.jpg" crc="319991740" ref="tablet>freelance"/>
-    <file name="books-crop-u13065.jpg" crc="524891713" ref="tablet>freelance"/>
+    <file name="g3_c4d-crop-u12748.jpg" crc="459761848" ref="tablet>freelance"/>
+    <file name="g3_verizon-crop-u12793.jpg" crc="3933080001" ref="tablet>freelance"/>
+    <file name="g3_seagate-crop-u12784.jpg" crc="3784009306" ref="tablet>freelance"/>
+    <file name="g3_rtpcover-crop-u12766.jpg" crc="3943244753" ref="tablet>freelance"/>
+    <file name="g3_rtpp7-crop-u12775.jpg" crc="52795253" ref="tablet>freelance"/>
+    <file name="g3_verizon.jpg" crc="4292126338" ref="tablet>freelance" seo="true"/>
+    <file name="g3_seagate.jpg" crc="188972696" ref="tablet>freelance" seo="true"/>
+    <file name="rc_implementation-crop-u12076.jpg" crc="4149592717" ref="tablet>freelance"/>
+    <file name="rc_proposal-crop-u12094.jpg" crc="246235238" ref="tablet>freelance"/>
+    <file name="rc_analyticsp1-crop-u12049.jpg" crc="175471500" ref="tablet>freelance"/>
+    <file name="rc_analyticsp4-crop-u12058.jpg" crc="3875782963" ref="tablet>freelance"/>
+    <file name="rc_printsmo-crop-u12085.jpg" crc="34277789" ref="tablet>freelance"/>
+    <file name="rc_cardsmo-crop-u12067.jpg" crc="4237300409" ref="tablet>freelance"/>
+    <file name="rc_implementation644x382.jpg" crc="425300506" ref="tablet>freelance" seo="true"/>
+    <file name="rc_proposal.jpg" crc="4168705357" ref="tablet>freelance" seo="true"/>
+    <file name="rc_printsmo644x363.jpg" crc="359117095" ref="tablet>freelance" seo="true"/>
+    <file name="rc_cardsmo644x363.jpg" crc="311265200" ref="tablet>freelance" seo="true"/>
+    <file name="bartle2-crop-u13020.jpg" crc="318445983" ref="tablet>freelance"/>
+    <file name="science1-crop-u13092.jpg" crc="3943392524" ref="tablet>freelance"/>
+    <file name="science2-crop-u13101.jpg" crc="260887774" ref="tablet>freelance"/>
+    <file name="science3-crop-u13110.jpg" crc="4014678124" ref="tablet>freelance"/>
+    <file name="iceberg-crop-u13083.jpg" crc="4121530257" ref="tablet>freelance"/>
+    <file name="books-crop-u13065.jpg" crc="3861697864" ref="tablet>freelance"/>
     <file name="softwareskills_tab.svg" crc="4041148126" ref="tablet>resume"/>
     <file name="softwareskills_tab_poster_.png" crc="246596976" ref="tablet>resume"/>
-    <file name="g3_c4d379x490.jpg" crc="4053343684" ref="freelance"/>
-    <file name="g3_rtpcover379x490.jpg" crc="115323513" ref="freelance"/>
-    <file name="g3_rtpp7379x490.jpg" crc="3846683293" ref="freelance"/>
-    <file name="bartle2379x490.jpg" crc="4227064859" ref="freelance"/>
-    <file name="science1379x490.jpg" crc="330872944" ref="freelance"/>
-    <file name="science2379x490.jpg" crc="4114035321" ref="freelance"/>
-    <file name="science3379x490.jpg" crc="3917412053" ref="freelance"/>
-    <file name="iceberg391x490.jpg" crc="4120136224" ref="freelance"/>
-    <file name="books383x490.jpg" crc="4199855708" ref="freelance"/>
-    <file name="headshot_website-u11146-fr.jpg" crc="4146514605" ref="tablet>about"/>
-    <file name="espn_cover1-crop-u13433.jpg" crc="4114132261" ref="tablet>sports"/>
-    <file name="espn_spread1-crop-u13460.jpg" crc="367126000" ref="tablet>sports"/>
-    <file name="espn_spread2-crop-u13469.jpg" crc="3939698484" ref="tablet>sports"/>
-    <file name="espn_spread3-crop-u13478.jpg" crc="4230535410" ref="tablet>sports"/>
-    <file name="espn_mo1-crop-u13442.jpg" crc="21728938" ref="tablet>sports"/>
-    <file name="espn_mo2-crop-u13451.jpg" crc="4110089598" ref="tablet>sports"/>
-    <file name="espn_cover1.jpg" crc="4227821522" ref="tablet>sports"/>
-    <file name="espn_mo1644x363.jpg" crc="313833314" ref="tablet>sports"/>
-    <file name="espn_mo2644x363.jpg" crc="3997146955" ref="tablet>sports"/>
-    <file name="bufootball_display-crop-u13523.jpg" crc="161927377" ref="tablet>sports"/>
-    <file name="bufootball_main-crop-u13532.jpg" crc="3840437311" ref="tablet>sports"/>
-    <file name="bufootball_square1-crop-u13585.jpg" crc="118838026" ref="tablet>sports"/>
-    <file name="bufootball_square2-crop-u13594.jpg" crc="133510238" ref="tablet>sports"/>
-    <file name="bufootball_mo1-crop-u13567.jpg" crc="150439286" ref="tablet>sports"/>
-    <file name="bufootball_mo2-crop-u13558.jpg" crc="304717559" ref="tablet>sports"/>
-    <file name="bufootball_main.jpg" crc="519502723" ref="tablet>sports"/>
-    <file name="bufootball_square2.jpg" crc="4146786023" ref="tablet>sports"/>
-    <file name="bufootball_mo1644x363.jpg" crc="89332631" ref="tablet>sports"/>
-    <file name="calendar_cover-crop-u13682.png" crc="3878196268" ref="tablet>sports"/>
-    <file name="calendar_jan-crop-u13709.png" crc="3868636203" ref="tablet>sports"/>
-    <file name="calendar_feb-crop-u13700.png" crc="489675295" ref="tablet>sports"/>
-    <file name="calendar_mar-crop-u13736.png" crc="4025329097" ref="tablet>sports"/>
-    <file name="calendar_april-crop-u13664.png" crc="4129596887" ref="tablet>sports"/>
-    <file name="calendar_may-crop-u13745.png" crc="4272616492" ref="tablet>sports"/>
-    <file name="calendar_june-crop-u13727.png" crc="4253665788" ref="tablet>sports"/>
-    <file name="calendar_july-crop-u13718.png" crc="4023808480" ref="tablet>sports"/>
-    <file name="calendar_aug-crop-u13673.png" crc="64128612" ref="tablet>sports"/>
-    <file name="calendar_sept-crop-u13790.png" crc="268659363" ref="tablet>sports"/>
-    <file name="calendar_oct-crop-u13781.png" crc="196908203" ref="tablet>sports"/>
-    <file name="calendar_nov-crop-u13772.png" crc="41001891" ref="tablet>sports"/>
-    <file name="calendar_dec-crop-u13691.png" crc="264259786" ref="tablet>sports"/>
-    <file name="calendar_mo2-crop-u13763.jpg" crc="4021525553" ref="tablet>sports"/>
-    <file name="calendar_mo2644x363.jpg" crc="431510731" ref="tablet>sports"/>
-    <file name="sports_page1-crop-u14187.jpg" crc="4294721142" ref="tablet>pipe-dream"/>
-    <file name="sports_page2-crop-u14196.jpg" crc="37866277" ref="tablet>pipe-dream"/>
-    <file name="sports_page3-crop-u14205.jpg" crc="271194193" ref="tablet>pipe-dream"/>
-    <file name="sports_page4-crop-u14214.jpg" crc="334662604" ref="tablet>pipe-dream"/>
-    <file name="sports_page5-crop-u14223.jpg" crc="218016493" ref="tablet>pipe-dream"/>
-    <file name="sports_page6-crop-u14232.jpg" crc="4211751541" ref="tablet>pipe-dream"/>
-    <file name="sports_page7-crop-u14241.jpg" crc="4131347227" ref="tablet>pipe-dream"/>
-    <file name="sports_wbb1-crop-u14250.jpg" crc="126599267" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb1-crop-u14151.jpg" crc="420028251" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb2-crop-u14160.jpg" crc="471316676" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb3-crop-u14169.jpg" crc="112630356" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb4-crop-u14178.jpg" crc="3793989441" ref="tablet>pipe-dream"/>
-    <file name="sports_page1.jpg" crc="991241" ref="tablet>pipe-dream"/>
-    <file name="sports_page2.jpg" crc="3886434768" ref="tablet>pipe-dream"/>
-    <file name="sports_page3.jpg" crc="166436008" ref="tablet>pipe-dream"/>
-    <file name="sports_page4408x720.jpg" crc="3850119892" ref="tablet>pipe-dream"/>
-    <file name="sports_mbb2644x570.jpg" crc="298835201" ref="tablet>pipe-dream"/>
-    <file name="pd_ig1-crop-u13893.jpg" crc="4163731766" ref="tablet>pipe-dream"/>
-    <file name="pd_ig2-crop-u14367.jpg" crc="271128217" ref="tablet>pipe-dream"/>
-    <file name="pd_ig3-crop-u14376.jpg" crc="4129902066" ref="tablet>pipe-dream"/>
-    <file name="pd_ig4-crop-u14385.jpg" crc="4041231840" ref="tablet>pipe-dream"/>
-    <file name="pd_igmo1-crop-u14394.jpg" crc="4004711263" ref="tablet>pipe-dream"/>
-    <file name="pd_igmo2-crop-u14403.jpg" crc="303281895" ref="tablet>pipe-dream"/>
-    <file name="pd_ig1644x355.jpg" crc="4029567879" ref="tablet>pipe-dream"/>
-    <file name="pd_ig3644x306.jpg" crc="3826565496" ref="tablet>pipe-dream"/>
-    <file name="pd_igmo1644x363.jpg" crc="422874872" ref="tablet>pipe-dream"/>
-    <file name="pd_igmo2644x363.jpg" crc="4203046624" ref="tablet>pipe-dream"/>
-    <file name="pd_frontpage-crop-u14421.jpg" crc="356526337" ref="tablet>pipe-dream"/>
-    <file name="pd_opinion-crop-u14439.jpg" crc="3842291328" ref="tablet>pipe-dream"/>
-    <file name="pd_layout-crop-u14430.jpg" crc="3855032601" ref="tablet>pipe-dream"/>
-    <file name="walterwhite1-crop-u15021.jpg" crc="298398430" ref="tablet>typography"/>
-    <file name="walterwhite2-crop-u15012.jpg" crc="4009788888" ref="tablet>typography"/>
-    <file name="walterwhitemo-crop-u15030.jpg" crc="4021003910" ref="tablet>typography"/>
-    <file name="walterwhite2644x363.jpg" crc="3922669213" ref="tablet>typography"/>
-    <file name="walterwhitemo644x363.jpg" crc="4135467274" ref="tablet>typography"/>
-    <file name="centurygothic1-crop-u15056.jpg" crc="3862749647" ref="tablet>typography"/>
-    <file name="centurygothic2-crop-u15065.jpg" crc="3919558181" ref="tablet>typography"/>
-    <file name="centurygothicmo-crop-u15074.jpg" crc="4090970498" ref="tablet>typography"/>
-    <file name="centurygothic2644x363.jpg" crc="318576671" ref="tablet>typography"/>
-    <file name="centurygothicmo644x363.jpg" crc="3962900670" ref="tablet>typography"/>
-    <file name="tacobell1-crop-u15362.jpg" crc="4129943378" ref="tablet>creative"/>
-    <file name="tacobell2-crop-u15371.jpg" crc="4196382017" ref="tablet>creative"/>
-    <file name="tacobell2644x363.jpg" crc="132781554" ref="tablet>creative"/>
-    <file name="linkinparkmo1-crop-u15442.jpg" crc="355939926" ref="tablet>creative"/>
-    <file name="linkinparkmo2-crop-u15451.jpg" crc="333600096" ref="tablet>creative"/>
-    <file name="linkinparkmo1644x363.jpg" crc="266879601" ref="tablet>creative"/>
-    <file name="consumerreportscover-crop-u15469.jpg" crc="4255179912" ref="tablet>creative"/>
-    <file name="consumerreportsspread-crop-u15487.jpg" crc="4005647676" ref="tablet>creative"/>
-    <file name="consumerreportsmo-crop-u15478.jpg" crc="81020544" ref="tablet>creative"/>
-    <file name="consumerreportsmo644x362.jpg" crc="4141483033" ref="tablet>creative"/>
-    <file name="cooks_logo-crop-u15856.jpg" crc="3957985650" ref="tablet>branding"/>
-    <file name="cooks_idcoverback-crop-u15847.jpg" crc="66936655" ref="tablet>branding"/>
-    <file name="cooks_id1-crop-u15793.jpg" crc="3854701847" ref="tablet>branding"/>
-    <file name="cooks_id2-crop-u15802.jpg" crc="137480356" ref="tablet>branding"/>
-    <file name="cooks_id3-crop-u15811.jpg" crc="3908393255" ref="tablet>branding"/>
-    <file name="cooks_id4-crop-u15820.jpg" crc="4258426139" ref="tablet>branding"/>
-    <file name="cooks_brochurecoverback-crop-u15784.jpg" crc="277316904" ref="tablet>branding"/>
-    <file name="cooks_brochure1-crop-u15739.jpg" crc="4068887587" ref="tablet>branding"/>
-    <file name="cooks_brochure2-crop-u15748.jpg" crc="3819611689" ref="tablet>branding"/>
-    <file name="cooks_brochure3-crop-u15757.jpg" crc="106792994" ref="tablet>branding"/>
-    <file name="cooks_billboard-crop-u15730.jpg" crc="3936695530" ref="tablet>branding"/>
-    <file name="cooks_webpagemo-crop-u15874.jpg" crc="272918982" ref="tablet>branding"/>
-    <file name="cooks_logo644x363.jpg" crc="497530425" ref="tablet>branding"/>
-    <file name="cooks_idcoverback644x363.jpg" crc="4012097203" ref="tablet>branding"/>
-    <file name="cooks_id1644x258.jpg" crc="114911312" ref="tablet>branding"/>
-    <file name="cooks_id2644x258.jpg" crc="240565531" ref="tablet>branding"/>
-    <file name="cooks_id3644x258.jpg" crc="4217769179" ref="tablet>branding"/>
-    <file name="cooks_id4644x258.jpg" crc="148337649" ref="tablet>branding"/>
-    <file name="cooks_brochurecoverback644x363.jpg" crc="4272462310" ref="tablet>branding"/>
-    <file name="cooks_brochure1644x237.jpg" crc="23925241" ref="tablet>branding"/>
-    <file name="cooks_brochure2644x237.jpg" crc="3810917269" ref="tablet>branding"/>
-    <file name="cooks_brochure3644x237.jpg" crc="154910312" ref="tablet>branding"/>
-    <file name="cooks_billboard644x363.jpg" crc="3779077557" ref="tablet>branding"/>
-    <file name="cards1-crop-u15944.jpg" crc="201188860" ref="tablet>branding"/>
-    <file name="resume-crop-u15962.jpg" crc="93267602" ref="tablet>branding"/>
-    <file name="cards2-crop-u15953.jpg" crc="138928774" ref="tablet>branding"/>
-    <file name="cards1644x363.jpg" crc="3820541264" ref="tablet>branding"/>
-    <file name="resume644x363.jpg" crc="162386057" ref="tablet>branding"/>
-    <file name="cards2644x363.jpg" crc="307994795" ref="tablet>branding"/>
-    <file name="bufootball_mo2-crop-u10428.jpg" crc="3784269395" ref="sports"/>
-    <file name="calendar_cover300x490.png" crc="203595043" ref="sports"/>
-    <file name="calendar_jan300x490.png" crc="4125272584" ref="sports"/>
-    <file name="calendar_feb300x490.png" crc="4267696552" ref="sports"/>
-    <file name="calendar_mar300x490.png" crc="326641400" ref="sports"/>
-    <file name="calendar_april300x490.png" crc="424124636" ref="sports"/>
-    <file name="calendar_may300x490.png" crc="4057346134" ref="sports"/>
-    <file name="calendar_june300x490.png" crc="3819534476" ref="sports"/>
-    <file name="calendar_july300x490.png" crc="159796726" ref="sports"/>
-    <file name="calendar_aug300x490.png" crc="446246517" ref="sports"/>
-    <file name="calendar_sept300x490.png" crc="109251526" ref="sports"/>
-    <file name="calendar_oct300x490.png" crc="4260633972" ref="sports"/>
-    <file name="calendar_nov300x490.png" crc="4044093013" ref="sports"/>
-    <file name="calendar_dec300x490.png" crc="6870748" ref="sports"/>
-    <file name="walterwhite1317x490.jpg" crc="4159814832" ref="typography"/>
-    <file name="centurygothic1306x490.jpg" crc="4187221349" ref="typography"/>
-    <file name="sports_page5277x490.jpg" crc="4049524874" ref="pipe-dream"/>
-    <file name="sports_page6277x490.jpg" crc="3875248431" ref="pipe-dream"/>
-    <file name="sports_page7277x490.jpg" crc="466058295" ref="pipe-dream"/>
-    <file name="sports_mbb1277x490.jpg" crc="4240538696" ref="pipe-dream"/>
-    <file name="sports_mbb2555x490.jpg" crc="399362375" ref="pipe-dream"/>
-    <file name="sports_mbb3277x490.jpg" crc="3778403162" ref="pipe-dream"/>
-    <file name="pd_frontpage277x490.jpg" crc="344139651" ref="pipe-dream"/>
-    <file name="pd_opinion277x490.jpg" crc="4283013617" ref="pipe-dream"/>
-    <file name="pd_layout277x490.jpg" crc="4124077834" ref="pipe-dream"/>
-    <file name="tacobell1343x490.jpg" crc="470913494" ref="creative"/>
-    <file name="consumerreportscover383x490.jpg" crc="3880489132" ref="creative"/>
+    <file name="g3_c4d379x490.jpg" crc="211241044" ref="freelance" seo="true"/>
+    <file name="g3_rtpcover379x490.jpg" crc="4254347354" ref="freelance" seo="true"/>
+    <file name="g3_rtpp7379x490.jpg" crc="4264359518" ref="freelance" seo="true"/>
+    <file name="bartle2379x490.jpg" crc="121253862" ref="freelance" seo="true"/>
+    <file name="science1379x490.jpg" crc="203437590" ref="freelance" seo="true"/>
+    <file name="science2379x490.jpg" crc="3988271424" ref="freelance" seo="true"/>
+    <file name="science3379x490.jpg" crc="3884904444" ref="freelance" seo="true"/>
+    <file name="iceberg391x490.jpg" crc="365137817" ref="freelance" seo="true"/>
+    <file name="books383x490.jpg" crc="4194918680" ref="freelance" seo="true"/>
+    <file name="espn_cover1-crop-u13433.jpg" crc="3882573396" ref="tablet>sports"/>
+    <file name="espn_spread1-crop-u13460.jpg" crc="123277003" ref="tablet>sports"/>
+    <file name="espn_spread2-crop-u13469.jpg" crc="3772008421" ref="tablet>sports"/>
+    <file name="espn_spread3-crop-u13478.jpg" crc="4181862089" ref="tablet>sports"/>
+    <file name="espn_mo1-crop-u13442.jpg" crc="3828111282" ref="tablet>sports"/>
+    <file name="espn_mo2-crop-u13451.jpg" crc="4064031264" ref="tablet>sports"/>
+    <file name="espn_cover1.jpg" crc="4227821522" ref="tablet>sports" seo="true"/>
+    <file name="espn_mo1644x363.jpg" crc="535680415" ref="tablet>sports" seo="true"/>
+    <file name="espn_mo2644x363.jpg" crc="3904022547" ref="tablet>sports" seo="true"/>
+    <file name="bufootball_display-crop-u13523.jpg" crc="212953993" ref="tablet>sports"/>
+    <file name="bufootball_main-crop-u13532.jpg" crc="149129411" ref="tablet>sports"/>
+    <file name="bufootball_square1-crop-u13585.jpg" crc="317559167" ref="tablet>sports"/>
+    <file name="bufootball_square2-crop-u13594.jpg" crc="4159226559" ref="tablet>sports"/>
+    <file name="bufootball_mo1-crop-u13567.jpg" crc="496960052" ref="tablet>sports"/>
+    <file name="bufootball_mo2-crop-u13558.jpg" crc="4157762365" ref="tablet>sports"/>
+    <file name="bufootball_main.jpg" crc="519502723" ref="tablet>sports" seo="true"/>
+    <file name="bufootball_square2.jpg" crc="4146786023" ref="tablet>sports" seo="true"/>
+    <file name="bufootball_mo1644x363.jpg" crc="3900252230" ref="tablet>sports" seo="true"/>
+    <file name="calendar_cover-crop-u13682.png" crc="4210140975" ref="tablet>sports"/>
+    <file name="calendar_jan-crop-u13709.png" crc="201883773" ref="tablet>sports"/>
+    <file name="calendar_feb-crop-u13700.png" crc="3833896799" ref="tablet>sports"/>
+    <file name="calendar_mar-crop-u13736.png" crc="4028904637" ref="tablet>sports"/>
+    <file name="calendar_april-crop-u13664.png" crc="4007296" ref="tablet>sports"/>
+    <file name="calendar_may-crop-u13745.png" crc="4198176427" ref="tablet>sports"/>
+    <file name="calendar_june-crop-u13727.png" crc="3934562736" ref="tablet>sports"/>
+    <file name="calendar_july-crop-u13718.png" crc="212479769" ref="tablet>sports"/>
+    <file name="calendar_aug-crop-u13673.png" crc="4258437471" ref="tablet>sports"/>
+    <file name="calendar_sept-crop-u13790.png" crc="120475222" ref="tablet>sports"/>
+    <file name="calendar_oct-crop-u13781.png" crc="3921670504" ref="tablet>sports"/>
+    <file name="calendar_nov-crop-u13772.png" crc="97064821" ref="tablet>sports"/>
+    <file name="calendar_dec-crop-u13691.png" crc="4058564317" ref="tablet>sports"/>
+    <file name="calendar_mo2-crop-u13763.jpg" crc="3869193134" ref="tablet>sports"/>
+    <file name="calendar_mo2644x363.jpg" crc="4176759701" ref="tablet>sports" seo="true"/>
+    <file name="sports_page1-crop-u14187.jpg" crc="4040815746" ref="tablet>pipe-dream"/>
+    <file name="sports_page2-crop-u14196.jpg" crc="102448537" ref="tablet>pipe-dream"/>
+    <file name="sports_page3-crop-u14205.jpg" crc="10913093" ref="tablet>pipe-dream"/>
+    <file name="sports_page4-crop-u14214.jpg" crc="485283267" ref="tablet>pipe-dream"/>
+    <file name="sports_page5-crop-u14223.jpg" crc="3915625255" ref="tablet>pipe-dream"/>
+    <file name="sports_page6-crop-u14232.jpg" crc="293380608" ref="tablet>pipe-dream"/>
+    <file name="sports_page7-crop-u14241.jpg" crc="3849393714" ref="tablet>pipe-dream"/>
+    <file name="sports_wbb1-crop-u14250.jpg" crc="100418360" ref="tablet>pipe-dream"/>
+    <file name="sports_mbb1-crop-u14151.jpg" crc="4006383027" ref="tablet>pipe-dream"/>
+    <file name="sports_mbb2-crop-u14160.jpg" crc="3948789191" ref="tablet>pipe-dream"/>
+    <file name="sports_mbb3-crop-u14169.jpg" crc="3860810381" ref="tablet>pipe-dream"/>
+    <file name="sports_mbb4-crop-u14178.jpg" crc="47002232" ref="tablet>pipe-dream"/>
+    <file name="sports_page1.jpg" crc="991241" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_page2.jpg" crc="3886434768" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_page3.jpg" crc="166436008" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_page4408x720.jpg" crc="4261027442" ref="tablet>pipe-dream" seo="true"/>
+    <file name="sports_mbb2644x570.jpg" crc="4151751848" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_ig1-crop-u13893.jpg" crc="404340123" ref="tablet>pipe-dream"/>
+    <file name="pd_ig2-crop-u14367.jpg" crc="4208451727" ref="tablet>pipe-dream"/>
+    <file name="pd_ig3-crop-u14376.jpg" crc="4116177611" ref="tablet>pipe-dream"/>
+    <file name="pd_ig4-crop-u14385.jpg" crc="99190480" ref="tablet>pipe-dream"/>
+    <file name="pd_igmo1-crop-u14394.jpg" crc="497428786" ref="tablet>pipe-dream"/>
+    <file name="pd_igmo2-crop-u14403.jpg" crc="311984212" ref="tablet>pipe-dream"/>
+    <file name="pd_ig1644x355.jpg" crc="377560503" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_ig3644x306.jpg" crc="55314409" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_igmo1644x363.jpg" crc="4179659587" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_igmo2644x363.jpg" crc="191946046" ref="tablet>pipe-dream" seo="true"/>
+    <file name="pd_frontpage-crop-u14421.jpg" crc="3936413171" ref="tablet>pipe-dream"/>
+    <file name="pd_opinion-crop-u14439.jpg" crc="395986175" ref="tablet>pipe-dream"/>
+    <file name="pd_layout-crop-u14430.jpg" crc="3819417584" ref="tablet>pipe-dream"/>
+    <file name="walterwhite1-crop-u15021.jpg" crc="412977982" ref="tablet>typography"/>
+    <file name="walterwhite2-crop-u15012.jpg" crc="3884309707" ref="tablet>typography"/>
+    <file name="walterwhitemo-crop-u15030.jpg" crc="4051416047" ref="tablet>typography"/>
+    <file name="walterwhitemo644x363.jpg" crc="53623454" ref="tablet>typography" seo="true"/>
+    <file name="centurygothic1-crop-u15056.jpg" crc="4046485228" ref="tablet>typography"/>
+    <file name="centurygothic2-crop-u15065.jpg" crc="528114726" ref="tablet>typography"/>
+    <file name="centurygothicmo-crop-u15074.jpg" crc="446692447" ref="tablet>typography"/>
+    <file name="centurygothic2644x363.jpg" crc="185167067" ref="tablet>typography" seo="true"/>
+    <file name="centurygothicmo644x363.jpg" crc="210518810" ref="tablet>typography" seo="true"/>
+    <file name="tacobell1-crop-u15362.jpg" crc="499723288" ref="tablet>creative"/>
+    <file name="tacobell2-crop-u15371.jpg" crc="4120318815" ref="tablet>creative"/>
+    <file name="tacobell2644x363.jpg" crc="92395050" ref="tablet>creative" seo="true"/>
+    <file name="linkinparkmo1-crop-u15442.jpg" crc="4126431504" ref="tablet>creative"/>
+    <file name="linkinparkmo2-crop-u15451.jpg" crc="3789528257" ref="tablet>creative"/>
+    <file name="linkinparkmo1644x363.jpg" crc="135712558" ref="tablet>creative" seo="true"/>
+    <file name="consumerreportscover-crop-u15469.jpg" crc="4035246719" ref="tablet>creative"/>
+    <file name="consumerreportsspread-crop-u15487.jpg" crc="3974224460" ref="tablet>creative"/>
+    <file name="consumerreportsmo-crop-u15478.jpg" crc="440333618" ref="tablet>creative"/>
+    <file name="consumerreportsmo644x362.jpg" crc="4109904403" ref="tablet>creative" seo="true"/>
+    <file name="cooks_logo-crop-u15856.jpg" crc="4197349113" ref="tablet>branding"/>
+    <file name="cooks_idcoverback-crop-u15847.jpg" crc="4090198036" ref="tablet>branding"/>
+    <file name="cooks_id1-crop-u15793.jpg" crc="45404444" ref="tablet>branding"/>
+    <file name="cooks_id2-crop-u15802.jpg" crc="383774320" ref="tablet>branding"/>
+    <file name="cooks_id3-crop-u15811.jpg" crc="449763709" ref="tablet>branding"/>
+    <file name="cooks_id4-crop-u15820.jpg" crc="3879966201" ref="tablet>branding"/>
+    <file name="cooks_brochurecoverback-crop-u15784.jpg" crc="4094910063" ref="tablet>branding"/>
+    <file name="cooks_brochure1-crop-u15739.jpg" crc="431526193" ref="tablet>branding"/>
+    <file name="cooks_brochure2-crop-u15748.jpg" crc="195469192" ref="tablet>branding"/>
+    <file name="cooks_brochure3-crop-u15757.jpg" crc="380657528" ref="tablet>branding"/>
+    <file name="cooks_billboard-crop-u15730.jpg" crc="522807600" ref="tablet>branding"/>
+    <file name="cooks_webpagemo-crop-u15874.jpg" crc="410509830" ref="tablet>branding"/>
+    <file name="cooks_logo644x363.jpg" crc="306235665" ref="tablet>branding" seo="true"/>
+    <file name="cooks_idcoverback644x363.jpg" crc="455343260" ref="tablet>branding" seo="true"/>
+    <file name="cooks_id1644x258.jpg" crc="235513750" ref="tablet>branding" seo="true"/>
+    <file name="cooks_id2644x258.jpg" crc="293918906" ref="tablet>branding" seo="true"/>
+    <file name="cooks_id3644x258.jpg" crc="4252840466" ref="tablet>branding" seo="true"/>
+    <file name="cooks_id4644x258.jpg" crc="120480476" ref="tablet>branding" seo="true"/>
+    <file name="cooks_brochurecoverback644x363.jpg" crc="4225129950" ref="tablet>branding" seo="true"/>
+    <file name="cooks_brochure1644x237.jpg" crc="446060648" ref="tablet>branding" seo="true"/>
+    <file name="cooks_brochure2644x237.jpg" crc="92927087" ref="tablet>branding" seo="true"/>
+    <file name="cooks_brochure3644x237.jpg" crc="526457957" ref="tablet>branding" seo="true"/>
+    <file name="cooks_billboard644x363.jpg" crc="4209041203" ref="tablet>branding" seo="true"/>
+    <file name="cards1-crop-u15944.jpg" crc="507660059" ref="tablet>branding"/>
+    <file name="resume-crop-u15962.jpg" crc="3978598130" ref="tablet>branding"/>
+    <file name="cards2-crop-u15953.jpg" crc="4104397439" ref="tablet>branding"/>
+    <file name="cards1644x363.jpg" crc="66459562" ref="tablet>branding" seo="true"/>
+    <file name="resume644x363.jpg" crc="3831443433" ref="tablet>branding" seo="true"/>
+    <file name="cards2644x363.jpg" crc="358055545" ref="tablet>branding" seo="true"/>
+    <file name="bufootball_mo2-crop-u10428.jpg" crc="499523422" ref="sports"/>
+    <file name="calendar_cover300x490.png" crc="4170890771" ref="sports" seo="true"/>
+    <file name="calendar_jan300x490.png" crc="335909467" ref="sports" seo="true"/>
+    <file name="calendar_feb300x490.png" crc="388322950" ref="sports" seo="true"/>
+    <file name="calendar_mar300x490.png" crc="4293143971" ref="sports" seo="true"/>
+    <file name="calendar_april300x490.png" crc="197240963" ref="sports" seo="true"/>
+    <file name="calendar_may300x490.png" crc="3903823586" ref="sports" seo="true"/>
+    <file name="calendar_june300x490.png" crc="141676169" ref="sports" seo="true"/>
+    <file name="calendar_july300x490.png" crc="4121146455" ref="sports" seo="true"/>
+    <file name="calendar_aug300x490.png" crc="109257940" ref="sports" seo="true"/>
+    <file name="calendar_sept300x490.png" crc="522806162" ref="sports" seo="true"/>
+    <file name="calendar_oct300x490.png" crc="52361657" ref="sports" seo="true"/>
+    <file name="calendar_nov300x490.png" crc="59839925" ref="sports" seo="true"/>
+    <file name="calendar_dec300x490.png" crc="234616071" ref="sports" seo="true"/>
+    <file name="walterwhite1317x490.jpg" crc="459180914" ref="typography" seo="true"/>
+    <file name="centurygothic1306x490.jpg" crc="3943384866" ref="typography" seo="true"/>
+    <file name="sports_page5277x490.jpg" crc="3858944670" ref="pipe-dream" seo="true"/>
+    <file name="sports_page6277x490.jpg" crc="3998168565" ref="pipe-dream" seo="true"/>
+    <file name="sports_page7277x490.jpg" crc="4022407275" ref="pipe-dream" seo="true"/>
+    <file name="sports_mbb1277x490.jpg" crc="277682925" ref="pipe-dream" seo="true"/>
+    <file name="sports_mbb2555x490.jpg" crc="3984927912" ref="pipe-dream" seo="true"/>
+    <file name="sports_mbb3277x490.jpg" crc="421966538" ref="pipe-dream" seo="true"/>
+    <file name="pd_frontpage277x490.jpg" crc="291155747" ref="pipe-dream" seo="true"/>
+    <file name="pd_opinion277x490.jpg" crc="3794031148" ref="pipe-dream" seo="true"/>
+    <file name="pd_layout277x490.jpg" crc="421496597" ref="pipe-dream" seo="true"/>
+    <file name="tacobell1343x490.jpg" crc="4031466360" ref="creative" seo="true"/>
+    <file name="consumerreportscover383x490.jpg" crc="92793458" ref="creative" seo="true"/>
+    <file name="headshot_website-u17376-fr.jpg" crc="3882272460" ref="tablet>about"/>
+    <file name="info.svg" crc="428611656" ref="tablet>about:about"/>
+    <file name="info_poster_.png" crc="158646502" ref="tablet>about"/>
+    <file name="about.svg" crc="4074990421" ref="tablet>about:about"/>
+    <file name="about_poster_.png" crc="387798115" ref="tablet>about"/>
+    <file name="skills.svg" crc="3908953474" ref="tablet>about:about"/>
+    <file name="skills_poster_.png" crc="525278564" ref="tablet>about"/>
+    <file name="class.svg" crc="3944942533" ref="tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:freelance:sports:typography:pipe-dream:creative:branding"/>
+    <file name="class_poster_.png" crc="3903133680" ref="tablet>freelance"/>
+    <file name="pro.svg" crc="4167682731" ref="tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:freelance:sports:typography:pipe-dream:creative:branding"/>
+    <file name="pro_poster_.png" crc="4022063201" ref="tablet>freelance"/>
+    <file name="scoreboard1-crop-u17801.jpg" crc="3884181008" ref="tablet>sports"/>
+    <file name="leftfield-crop-u17792.jpg" crc="3950938995" ref="tablet>sports"/>
+    <file name="fullfield2-crop-u17783.jpg" crc="411255495" ref="tablet>sports"/>
+    <file name="scoreboard1644x362.jpg" crc="340145389" seo="true" ref="tablet>sports"/>
+    <file name="leftfield644x362.jpg" crc="477057810" seo="true" ref="tablet>sports"/>
+    <file name="fullfield2644x362.jpg" crc="4223823885" seo="true" ref="tablet>sports"/>
+    <file name="education.svg" crc="3987998372" ref="tablet>resume:resume"/>
+    <file name="education_poster_.png" crc="3808608379" ref="tablet>resume"/>
+    <file name="experience.svg" crc="186500526" ref="tablet>resume:resume"/>
+    <file name="experience_poster_.png" crc="3900270504" ref="tablet>resume"/>
+    <file name="toppsimage.jpg" crc="384059861" seo="true" ref="tablet>resume:resume"/>
+    <file name="g3_2.jpg" crc="3770867088" seo="true" ref="tablet>resume:resume"/>
+    <file name="topps.svg" crc="4258048751" ref="tablet>resume:resume"/>
+    <file name="topps_poster_.png" crc="3882600705" ref="tablet>resume"/>
+    <file name="g3.svg" crc="148279039" ref="tablet>resume:resume"/>
+    <file name="g3_poster_.png" crc="3766687770" ref="tablet>resume"/>
+    <file name="researchconnection.jpg" crc="4137081127" seo="true" ref="tablet>resume:resume"/>
+    <file name="bulib2.jpg" crc="21700835" seo="true" ref="tablet>resume:resume"/>
+    <file name="research.svg" crc="385653332" ref="tablet>resume:resume"/>
+    <file name="research_poster_.png" crc="413911903" ref="tablet>resume"/>
+    <file name="library.svg" crc="3861220963" ref="tablet>resume:resume"/>
+    <file name="library_poster_.png" crc="3969024693" ref="tablet>resume"/>
+    <file name="pipedream.jpg" crc="251791954" seo="true" ref="tablet>resume:resume"/>
+    <file name="bu.jpg" crc="4138271064" seo="true" ref="tablet>resume:resume"/>
+    <file name="pipedream.svg" crc="3822095858" ref="tablet>resume:resume"/>
+    <file name="pipedream_poster_.png" crc="146095957" ref="tablet>resume"/>
+    <file name="ta.svg" crc="3953180824" ref="tablet>resume:resume"/>
+    <file name="ta_poster_.png" crc="486462275" ref="tablet>resume"/>
+    <file name="software.svg" crc="3764078481" ref="tablet>resume:resume"/>
+    <file name="software_poster_.png" crc="4086217121" ref="tablet>resume"/>
+    <file name="pdf.svg" crc="362967942" ref="tablet>resume:resume"/>
+    <file name="pdf_poster_.png" crc="28836584" ref="tablet>resume"/>
+    <file name="scoreboard1-crop-u17352.jpg" crc="3884181008" ref="sports"/>
+    <file name="leftfield-crop-u17343.jpg" crc="4159384422" ref="sports"/>
+    <file name="fullfield2-crop-u17334.jpg" crc="411255495" ref="sports"/>
+    <file name="scoreboard1.jpg" crc="4038743371" seo="true" ref="sports"/>
+    <file name="leftfield.jpg" crc="3948268162" seo="true" ref="sports"/>
+    <file name="fullfield2.jpg" crc="4278936101" seo="true" ref="sports"/>
+    <file name="walterwhite22.jpg" crc="290091414" seo="true" ref="typography"/>
   </folder>
-  <file name="index.html" crc="348173261" mt="1432106613037" redirect="true"/>
-  <file name="about.html" crc="285041386" mt="1432137358579" redirect="true"/>
-  <file name="portfolio.html" crc="453957765" mt="1432102945518" redirect="true"/>
-  <file name="resume.html" crc="238360535" mt="1432137373770" redirect="true"/>
-  <file name="contact.html" crc="4014144194" mt="1431408124876" redirect="true"/>
-  <file name="freelance.html" crc="4004391424" mt="1431444033225" redirect="true"/>
-  <file name="sports.html" crc="104181746" mt="1432103211110" redirect="true"/>
-  <file name="typography.html" crc="441465404" mt="1432138297456" redirect="true"/>
-  <file name="branding.html" crc="145164989" mt="1432138608111" redirect="true"/>
-  <file name="pipe-dream.html" crc="3851312862" mt="1432138117466" redirect="true"/>
-  <file name="creative.html" crc="4055317406" mt="1432138352546" redirect="true"/>
+  <file name="index.html" crc="4167874737" mt="1437957485558" redirect="true" seo="true"/>
+  <file name="about.html" crc="439071145" mt="1437950645366" redirect="true" seo="true"/>
+  <file name="portfolio.html" crc="4184949253" mt="1437958460979" redirect="true" seo="true"/>
+  <file name="resume.html" crc="3800585352" mt="1437958390885" redirect="true" seo="true"/>
+  <file name="contact.html" crc="466142531" mt="1431408124876" redirect="true" seo="true"/>
+  <file name="freelance.html" crc="4264945152" mt="1437957488800" redirect="true" seo="true"/>
+  <file name="sports.html" crc="71102107" mt="1437957246845" redirect="true" seo="true"/>
+  <file name="typography.html" crc="3942845182" mt="1437957436112" redirect="true" seo="true"/>
+  <file name="branding.html" crc="3927993895" mt="1437957386499" redirect="true" seo="true"/>
+  <file name="pipe-dream.html" crc="4031476165" mt="1437957462513" redirect="true" seo="true"/>
+  <file name="creative.html" crc="4064125112" mt="1437957410538" redirect="true" seo="true"/>
 </manifest>
