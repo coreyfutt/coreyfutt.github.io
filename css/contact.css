@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000011;
-	background-color: #52647A;
+	color: #0000E3;
+	background-color: #D73AD4;
 }
 
 .html
@@ -235,9 +235,9 @@
 	width: 708px;
 	min-height: 150px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	margin-left: 126px;
 	margin-top: 40px;
 	position: relative;
@@ -270,9 +270,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 253px;
@@ -287,9 +287,9 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
@@ -304,9 +304,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
@@ -320,9 +320,9 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
@@ -337,9 +337,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
@@ -353,9 +353,9 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
@@ -370,9 +370,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
@@ -386,9 +386,9 @@
 	min-height: 25px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
@@ -408,9 +408,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;

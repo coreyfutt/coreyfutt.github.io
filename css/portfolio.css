@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
-	color: #00001D;
-	background-color: #B4A578;
+	color: #00001E;
+	background-color: #BDC68F;
 }
 
 .html
@@ -235,9 +235,9 @@
 	width: 916px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 22px;
@@ -252,9 +252,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
@@ -269,9 +269,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
@@ -306,9 +306,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -344,9 +344,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -382,9 +382,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -425,9 +425,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -462,9 +462,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -499,9 +499,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -541,8 +541,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/freelance_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../images/freelance_thumbnail-u3351-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u3351
+{
+	background-image: url("../images/freelance_thumbnail-u3351-fr_2x.jpg");
 }
 
 #u3356-4
@@ -551,9 +556,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -589,8 +594,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/bufootball_thumbnail.jpg") no-repeat left top;
+	background: transparent url("../images/bufootball_thumbnail-u3353-fr.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+.hidpi #u3353
+{
+	background-image: url("../images/bufootball_thumbnail-u3353-fr_2x.jpg");
 }
 
 #u3369-4
@@ -599,9 +609,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -637,8 +647,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/pipedream_thumbnail.jpg") no-repeat left top;
+	background: transparent url("../images/pipedream_thumbnail-u3355-fr.jpg") no-repeat left top;
 	background-size: contain;
+}
+
+.hidpi #u3355
+{
+	background-image: url("../images/pipedream_thumbnail-u3355-fr_2x.jpg");
 }
 
 #u3378-4
@@ -647,9 +662,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -674,9 +689,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -695,9 +710,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -712,9 +727,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -736,9 +751,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -752,9 +767,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -769,9 +784,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -786,9 +801,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -802,9 +817,9 @@
 	min-height: 77px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -819,9 +834,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -860,8 +875,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/walterwhite_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../images/walterwhite_thumbnail-u3401-fr.jpg") no-repeat center center;
 	background-size: contain;
+}
+
+.hidpi #u3401
+{
+	background-image: url("../images/walterwhite_thumbnail-u3401-fr_2x.jpg");
 }
 
 #u3404-4
@@ -870,9 +890,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -909,8 +929,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/creative_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../images/creative_thumbnail-u3402-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u3402
+{
+	background-image: url("../images/creative_thumbnail-u3402-fr_2x.jpg");
 }
 
 #u3403-4
@@ -919,9 +944,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -958,8 +983,13 @@
 	width: 292px;
 	height: 292px;
 	position: relative;
-	background: transparent url("../images/branding_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../images/branding_thumbnail-u3408-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u3408
+{
+	background-image: url("../images/branding_thumbnail-u3408-fr_2x.jpg");
 }
 
 #u3409-4
@@ -968,9 +998,9 @@
 	width: 292px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -1002,9 +1032,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1018,9 +1048,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1035,9 +1065,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1059,9 +1089,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1075,9 +1105,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1092,9 +1122,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1116,9 +1146,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1132,9 +1162,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1149,9 +1179,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;

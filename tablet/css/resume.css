@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #0000FE;
-	background-color: #B9F8CA;
+	color: #000016;
+	background-color: #3D9A1E;
 }
 
 @-ms-viewport
@@ -250,9 +250,9 @@
 	width: 499px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 135px;
@@ -267,9 +267,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 157px;
@@ -283,9 +283,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 238px;
@@ -307,9 +307,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 157px;
@@ -322,9 +322,9 @@
 	width: 499px;
 	min-height: 43px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 135px;
@@ -338,9 +338,9 @@
 	min-height: 28px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 156px;
@@ -359,9 +359,9 @@
 	min-height: 55px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 155px;
@@ -383,9 +383,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 158px;
@@ -399,9 +399,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 239px;
@@ -434,9 +434,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -472,9 +472,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -508,9 +508,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 1px;
@@ -546,9 +546,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -589,9 +589,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 1px;
@@ -627,9 +627,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -714,9 +714,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -729,9 +729,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -746,9 +746,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -762,9 +762,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -778,9 +778,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -793,9 +793,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -810,9 +810,9 @@
 	min-height: 91px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -826,9 +826,9 @@
 	min-height: 91px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -885,7 +885,7 @@
 #u17521_img
 {
 	margin-left: -52px;
-	margin-right: -9px;
+	margin-right: -8px;
 }
 
 #u17457
@@ -909,9 +909,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -924,9 +924,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -941,9 +941,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -957,9 +957,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -973,9 +973,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -988,9 +988,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -1007,8 +1007,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-align: left;
-	line-height: 18px;
 	letter-spacing: 0px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
@@ -1024,8 +1024,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-align: left;
-	line-height: 18px;
 	letter-spacing: 0px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
@@ -1107,9 +1107,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1122,9 +1122,9 @@
 	width: 328px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1145,9 +1145,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1161,9 +1161,9 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: left;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1184,9 +1184,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -1200,9 +1200,9 @@
 	width: 328px;
 	min-height: 52px;
 	background-color: transparent;
+	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
-	line-height: 26px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	font-style: normal;
@@ -1226,8 +1226,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-align: left;
-	line-height: 18px;
 	letter-spacing: 0px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
@@ -1248,8 +1248,8 @@
 	background-color: transparent;
 	color: #000000;
 	text-align: left;
-	line-height: 18px;
 	letter-spacing: 0px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
@@ -1273,9 +1273,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 157px;
@@ -1303,9 +1303,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1320,9 +1320,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1337,9 +1337,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1355,9 +1355,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1373,9 +1373,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1391,9 +1391,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1409,9 +1409,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1427,9 +1427,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1445,9 +1445,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1463,9 +1463,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1481,9 +1481,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1499,9 +1499,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1517,9 +1517,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1535,9 +1535,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1553,9 +1553,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1571,9 +1571,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1589,9 +1589,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1607,9 +1607,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1625,9 +1625,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1643,9 +1643,9 @@
 	min-height: 26px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1689,9 +1689,9 @@
 	min-height: 34px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 30px;
 	text-align: center;
 	font-size: 25px;
-	line-height: 30px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 157px;
@@ -1743,8 +1743,8 @@
 	background-color: transparent;
 	color: #0072BC;
 	text-align: center;
-	line-height: 18px;
 	letter-spacing: 1px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1814,8 +1814,8 @@
 	background-color: transparent;
 	color: #0072BC;
 	text-align: center;
-	line-height: 18px;
 	letter-spacing: 1px;
+	line-height: 18px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;

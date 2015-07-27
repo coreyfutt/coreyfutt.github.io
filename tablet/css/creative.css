@@ -1,7 +1,7 @@
 .version.creative /* version checker */
 {
-	color: #0000FA;
-	background-color: #3C2569;
+	color: #00001C;
+	background-color: #CF5A90;
 }
 
 @-ms-viewport
@@ -257,9 +257,9 @@
 	width: 690px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 39px;
@@ -308,9 +308,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -350,9 +350,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -380,9 +380,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: right;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -407,9 +407,9 @@
 	min-height: 37px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 155px;
@@ -431,9 +431,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -448,9 +448,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -487,9 +487,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -502,9 +502,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -517,9 +517,9 @@
 	min-height: 14px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -544,9 +544,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 243px;
@@ -567,9 +567,9 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -722,8 +722,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -740,8 +740,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -758,8 +758,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -776,8 +776,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 24px;
@@ -814,8 +814,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 0px 4px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 60px;
@@ -852,8 +852,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 4px 0px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 598px;
@@ -889,8 +889,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 634px;
@@ -966,9 +966,9 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1220,8 +1220,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1238,8 +1238,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1256,8 +1256,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1274,8 +1274,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1292,8 +1292,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1310,8 +1310,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1328,8 +1328,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 24px;
@@ -1366,8 +1366,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 0px 4px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 60px;
@@ -1404,8 +1404,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 4px 0px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 598px;
@@ -1441,8 +1441,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 634px;
@@ -1515,9 +1515,9 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: center;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1646,7 +1646,7 @@
 #u15472_img
 {
 	padding-left: 41px;
-	padding-right: 40px;
+	padding-right: 41px;
 }
 
 #u15490
@@ -1708,8 +1708,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1726,8 +1726,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1744,8 +1744,8 @@
 	padding: 12px;
 	color: #FFFFFF;
 	text-align: center;
-	line-height: 21px;
 	letter-spacing: 1px;
+	line-height: 21px;
 	font-size: 15px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -1762,8 +1762,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 24px;
@@ -1805,8 +1805,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 0px 4px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 60px;
@@ -1848,8 +1848,8 @@
 	filter: alpha(opacity=70);
 	border-radius: 4px 0px 0px 0px ;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 598px;
@@ -1890,8 +1890,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
 	filter: alpha(opacity=70);
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 678px;
 	left: 634px;
@@ -1997,9 +1997,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2038,9 +2038,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-top: 6px;
@@ -2067,9 +2067,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: right;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;

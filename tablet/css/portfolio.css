@@ -1,7 +1,7 @@
 .version.portfolio /* version checker */
 {
 	color: #000014;
-	background-color: #29C414;
+	background-color: #DA7831;
 }
 
 @-ms-viewport
@@ -250,9 +250,9 @@
 	width: 688px;
 	min-height: 49px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 41px;
@@ -267,9 +267,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: center;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 238px;
@@ -284,9 +284,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 238px;
@@ -321,9 +321,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -359,9 +359,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -396,9 +396,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -433,9 +433,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -476,9 +476,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -513,9 +513,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: center;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -555,8 +555,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/freelance_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../../images/freelance_thumbnail-u11349-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u11349
+{
+	background-image: url("../../images/freelance_thumbnail-u11349-fr_2x.jpg");
 }
 
 #u11348-4
@@ -565,9 +570,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -603,8 +608,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/bufootball_thumbnail.jpg") no-repeat left top;
+	background: transparent url("../../images/bufootball_thumbnail-u11352-fr.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+.hidpi #u11352
+{
+	background-image: url("../../images/bufootball_thumbnail-u11352-fr_2x.jpg");
 }
 
 #u11351-4
@@ -613,9 +623,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -640,9 +650,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -661,9 +671,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -678,9 +688,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -694,9 +704,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -711,9 +721,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -727,9 +737,9 @@
 	min-height: 77px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -762,8 +772,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/pipedream_thumbnail.jpg") no-repeat left top;
+	background: transparent url("../../images/pipedream_thumbnail-u11425-fr.jpg") no-repeat left top;
 	background-size: contain;
+}
+
+.hidpi #u11425
+{
+	background-image: url("../../images/pipedream_thumbnail-u11425-fr_2x.jpg");
 }
 
 #u11384-4
@@ -772,9 +787,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -810,8 +825,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/walterwhite_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../../images/walterwhite_thumbnail-u11431-fr.jpg") no-repeat center center;
 	background-size: contain;
+}
+
+.hidpi #u11431
+{
+	background-image: url("../../images/walterwhite_thumbnail-u11431-fr_2x.jpg");
 }
 
 #u11386-4
@@ -820,9 +840,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -854,9 +874,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -870,9 +890,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -894,9 +914,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -910,9 +930,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -927,9 +947,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -943,9 +963,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -985,8 +1005,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/creative_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../../images/creative_thumbnail-u11439-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u11439
+{
+	background-image: url("../../images/creative_thumbnail-u11439-fr_2x.jpg");
 }
 
 #u11408-4
@@ -995,9 +1020,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -1033,8 +1058,13 @@
 	width: 334px;
 	height: 334px;
 	position: relative;
-	background: transparent url("../../images/branding_thumbnail.jpg") no-repeat center center;
+	background: transparent url("../../images/branding_thumbnail-u11445-fr.jpg") no-repeat center center;
 	background-size: cover;
+}
+
+.hidpi #u11445
+{
+	background-image: url("../../images/branding_thumbnail-u11445-fr_2x.jpg");
 }
 
 #u11410-4
@@ -1043,9 +1073,9 @@
 	width: 334px;
 	min-height: 37px;
 	background-color: transparent;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -1077,9 +1107,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1093,9 +1123,9 @@
 	min-height: 90px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1117,9 +1147,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1133,9 +1163,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 18px;
 	text-align: left;
 	font-size: 15px;
-	line-height: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1157,9 +1187,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -1173,9 +1203,9 @@
 	min-height: 58px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;

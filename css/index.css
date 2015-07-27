@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #45FB4D;
+	color: #000014;
+	background-color: #FA8847;
 }
 
 .html
@@ -295,9 +295,9 @@
 	width: 708px;
 	min-height: 118px;
 	background-color: transparent;
+	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
-	line-height: 48px;
 	margin-left: 126px;
 	margin-top: 76px;
 	position: relative;
@@ -356,9 +356,9 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -371,9 +371,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-top: 7px;
@@ -402,9 +402,9 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: right;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -420,9 +420,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -460,9 +460,9 @@
 	min-height: 33px;
 	background-color: transparent;
 	color: #0072BC;
+	line-height: 36px;
 	text-align: left;
 	font-size: 30px;
-	line-height: 36px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -480,9 +480,9 @@
 	min-height: 100px;
 	background-color: transparent;
 	color: #000000;
+	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-top: 7px;
@@ -535,8 +535,8 @@
 	background-color: transparent;
 	color: #0072BC;
 	text-align: center;
-	line-height: 22px;
 	letter-spacing: 1px;
+	line-height: 22px;
 	font-size: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
@@ -595,8 +595,8 @@
 	background-color: transparent;
 	color: #0072BC;
 	text-align: center;
-	line-height: 22px;
 	letter-spacing: 1px;
+	line-height: 22px;
 	font-size: 18px;
 	font-family: lato, sans-serif;
 	font-weight: 400;
