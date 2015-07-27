@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001F;
-	background-color: #5D51F2;
+	color: #000011;
+	background-color: #52647A;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1039px;
+	min-height: 1095px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -239,7 +239,7 @@
 	font-size: 40px;
 	line-height: 48px;
 	margin-left: 126px;
-	margin-top: 100px;
+	margin-top: 40px;
 	position: relative;
 }
 
@@ -255,6 +255,31 @@
 	font-weight: 400;
 }
 
+#u18092
+{
+	z-index: 112;
+	margin-left: 455px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#u18088-4
+{
+	z-index: 108;
+	width: 454px;
+	min-height: 34px;
+	background-color: transparent;
+	color: #0072BC;
+	text-align: center;
+	font-size: 25px;
+	line-height: 30px;
+	font-family: lato, sans-serif;
+	font-weight: 300;
+	margin-left: 253px;
+	margin-top: 8px;
+	position: relative;
+}
+
 #u683-5
 {
 	z-index: 88;
@@ -268,7 +293,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
-	margin-top: 73px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -301,7 +326,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
-	margin-top: 20px;
+	margin-top: 31px;
 	position: relative;
 }
 
@@ -318,7 +343,6 @@
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
-	margin-top: 1px;
 	position: relative;
 }
 
@@ -335,7 +359,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
-	margin-top: 20px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -368,7 +392,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 300;
 	margin-left: 126px;
-	margin-top: 20px;
+	margin-top: 31px;
 	position: relative;
 }
 
@@ -390,7 +414,6 @@
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 334px;
-	margin-top: 1px;
 	position: relative;
 }
 
@@ -700,7 +723,7 @@
 {
 	z-index: 3;
 	min-height: 247px;
-	margin-top: 103px;
+	margin-top: 110px;
 }
 
 body

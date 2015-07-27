@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1437958505578" domain="www.coreyfutterman.com">
+<manifest alg="2" build="2015.0.1.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1437959469126" domain="www.coreyfutterman.com">
   <folder name="tablet">
     <folder name="css">
       <file name="master_home.css" crc="3933737402" ref="tablet>index"/>
@@ -11,7 +11,7 @@
       <file name="branding.css" crc="146691547" ref="tablet>branding"/>
       <file name="index.css" crc="213531318" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="427468245" ref="tablet>index"/>
-      <file name="contact.css" crc="514106633" ref="tablet>contact"/>
+      <file name="contact.css" crc="393739819" ref="tablet>contact"/>
       <file name="resume.css" crc="4273600714" ref="tablet>resume"/>
       <file name="about.css" crc="3773063341" ref="tablet>about"/>
       <file name="master_main.css" crc="4188771094" ref="tablet>freelance:tablet>typography:tablet>pipe-dream:tablet>portfolio:tablet>sports:tablet>creative:tablet>branding:tablet>contact:tablet>resume:tablet>about"/>
@@ -22,11 +22,11 @@
       <file name="iefonts_sports.css" crc="4218749228" ref="tablet>sports"/>
       <file name="iefonts_creative.css" crc="3930424991" ref="tablet>creative"/>
       <file name="iefonts_branding.css" crc="3950091148" ref="tablet>branding"/>
-      <file name="iefonts_contact.css" crc="392375996" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="3975110943" ref="tablet>contact"/>
       <file name="iefonts_resume.css" crc="4150960090" ref="tablet>resume"/>
       <file name="iefonts_about.css" crc="4198602089" ref="tablet>about"/>
     </folder>
-    <file name="index.html" crc="399028519" mt="1437957685010" redirect="true" seo="true"/>
+    <file name="index.html" crc="399028519" mt="1437959424888" redirect="true" seo="true"/>
     <file name="about.html" crc="4094460596" mt="1437951984110" redirect="true" seo="true"/>
     <file name="portfolio.html" crc="4115139609" mt="1437958460982" redirect="true" seo="true"/>
     <file name="freelance.html" crc="194451234" mt="1437957690322" redirect="true" seo="true"/>
@@ -36,16 +36,16 @@
     <file name="creative.html" crc="16002904" mt="1437957620670" redirect="true" seo="true"/>
     <file name="branding.html" crc="4146986468" mt="1437957594877" redirect="true" seo="true"/>
     <file name="resume.html" crc="99180241" mt="1437958460981" redirect="true" seo="true"/>
-    <file name="contact.html" crc="408091190" mt="1432106366399" redirect="true" seo="true"/>
+    <file name="contact.html" crc="3931433104" mt="1437959440534" redirect="true" seo="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4013602569"/>
     <file name="master_main.css" crc="3935182133" ref="contact:about:resume:portfolio:typography:freelance:sports:branding:pipe-dream:creative"/>
-    <file name="contact.css" crc="526209522" ref="contact"/>
-    <file name="iefonts_contact.css" crc="3921100993" ref="contact"/>
-    <file name="about.css" crc="4154218348" ref="about"/>
+    <file name="contact.css" crc="290612346" ref="contact"/>
+    <file name="iefonts_contact.css" crc="476250992" ref="contact"/>
+    <file name="about.css" crc="208414198" ref="about"/>
     <file name="iefonts_about.css" crc="75169736" ref="about"/>
-    <file name="resume.css" crc="496165107" ref="resume"/>
+    <file name="resume.css" crc="4202950435" ref="resume"/>
     <file name="iefonts_resume.css" crc="34853107" ref="resume"/>
     <file name="index.css" crc="54917965" ref="index"/>
     <file name="iefonts_index.css" crc="3932437572" ref="index"/>
@@ -75,7 +75,7 @@
     <file name="museutils.js" crc="334180058" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
     <file name="jquery.musemenu.js" crc="315128729" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
     <file name="jquery.watch.js" crc="293013060" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index:about:freelance:sports:typography:branding:portfolio:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="35732776" ref="index:about:freelance:sports:typography:branding:portfolio:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
     <file name="pie.js" crc="3827607177" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:resume:contact:freelance:sports:typography:branding:pipe-dream:creative:tablet>index:tablet>about:tablet>portfolio:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:tablet>resume:tablet>contact"/>
     <file name="webpro.js" crc="7309900" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
@@ -95,45 +95,45 @@
     <file name="home_photography.svg" crc="4026332962" ref="index:tablet>index"/>
     <file name="home_photography_poster_.png" crc="353898825" ref="tablet>index"/>
     <file name="about_drawing.svg" crc="4086138002" ref="about:tablet>about"/>
-    <file name="about_drawing_poster_.png" crc="4228924990" ref="tablet>about"/>
+    <file name="about_drawing_poster_.png" crc="75299116" ref="tablet>about:about"/>
     <file name="about_photography.svg" crc="3852919972" ref="about:tablet>about"/>
-    <file name="about_photography_poster_.png" crc="413397614" ref="tablet>about"/>
+    <file name="about_photography_poster_.png" crc="4043508782" ref="tablet>about:about"/>
     <file name="about_socialmedia.svg" crc="4101802674" ref="about:tablet>about"/>
-    <file name="about_socialmedia_poster_.png" crc="4085086299" ref="tablet>about"/>
+    <file name="about_socialmedia_poster_.png" crc="3784064747" ref="tablet>about:about"/>
     <file name="about_advertising2.svg" crc="118693668" ref="about:tablet>about"/>
-    <file name="about_advertising2_poster_.png" crc="3985970547" ref="tablet>about"/>
+    <file name="about_advertising2_poster_.png" crc="4159686333" ref="tablet>about:about"/>
     <file name="about_typography.svg" crc="463605559" ref="about:tablet>about"/>
-    <file name="about_typography_poster_.png" crc="3850708722" ref="tablet>about"/>
+    <file name="about_typography_poster_.png" crc="17937184" ref="tablet>about:about"/>
     <file name="about_logo.svg" crc="91669199" ref="about:tablet>about"/>
-    <file name="about_logo_poster_.png" crc="225420784" ref="tablet>about"/>
+    <file name="about_logo_poster_.png" crc="96148642" ref="tablet>about:about"/>
     <file name="about_tech.svg" crc="519759611" ref="about:tablet>about"/>
-    <file name="about_tech_poster_.png" crc="4092637439" ref="tablet>about"/>
+    <file name="about_tech_poster_.png" crc="373885283" ref="tablet>about:about"/>
     <file name="about_sports.svg" crc="454977922" ref="about:tablet>about"/>
-    <file name="about_sports_poster_.png" crc="472594559" ref="tablet>about"/>
+    <file name="about_sports_poster_.png" crc="4211945457" ref="tablet>about:about"/>
     <file name="about_fitness.svg" crc="3925586637" ref="about:tablet>about"/>
-    <file name="about_fitness_poster_.png" crc="246890051" ref="tablet>about"/>
+    <file name="about_fitness_poster_.png" crc="527654524" ref="tablet>about:about"/>
     <file name="softwareskills.svg" crc="248525347" ref="resume"/>
     <file name="softwareskills_poster_.png" crc="4114025885" ref="resume"/>
-    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about:tablet>index:tablet>about"/>
-    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about:tablet>index:tablet>about"/>
-    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about:tablet>index:tablet>about"/>
-    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about:tablet>index:tablet>about"/>
-    <file name="email_off.svg" crc="4112208604" ref="index:about:tablet>index:tablet>about"/>
-    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about:tablet>index:tablet>about"/>
-    <file name="email_on.svg" crc="3999865010" ref="index:about:tablet>index:tablet>about"/>
-    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about:tablet>index:tablet>about"/>
-    <file name="linkedin_off.svg" crc="86007529" ref="index:about:tablet>index:tablet>about"/>
-    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about:tablet>index:tablet>about"/>
-    <file name="linkedin_on.svg" crc="307131357" ref="index:about:tablet>index:tablet>about"/>
-    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about:tablet>index:tablet>about"/>
-    <file name="behance_off.svg" crc="140281064" ref="index:about:tablet>index:tablet>about"/>
-    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about:tablet>index:tablet>about"/>
-    <file name="behance_on.svg" crc="147265255" ref="index:about:tablet>index:tablet>about"/>
-    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about:tablet>index:tablet>about"/>
-    <file name="pinterest_off.svg" crc="341970550" ref="index:about:tablet>index:tablet>about"/>
-    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about:tablet>index:tablet>about"/>
-    <file name="pinterest_on.svg" crc="3797888433" ref="index:about:tablet>index:tablet>about"/>
-    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about:tablet>index:tablet>about"/>
+    <file name="caf_logowhite_off_final.svg" crc="400932738" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="caf_logowhite_off_final_poster_u2613.png" crc="166343688" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="caf_logonavy_on_final.svg" crc="433651044" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="caf_logonavy_on_final_poster_u2618.png" crc="4248477870" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="email_off.svg" crc="4112208604" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="email_off_poster_u2545.png" crc="367802872" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="email_on.svg" crc="3999865010" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="email_on_poster_u2551.png" crc="4290666183" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="linkedin_off.svg" crc="86007529" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="linkedin_off_poster_u2531.png" crc="4048059987" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="linkedin_on.svg" crc="307131357" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="linkedin_on_poster_u2537.png" crc="314398518" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="behance_off.svg" crc="140281064" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="behance_off_poster_u2504.png" crc="4146282162" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="behance_on.svg" crc="147265255" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="behance_on_poster_u2508.png" crc="4261030706" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="pinterest_off.svg" crc="341970550" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="pinterest_off_poster_u2517.png" crc="4071587429" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="pinterest_on.svg" crc="3797888433" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
+    <file name="pinterest_on_poster_u2523.png" crc="4075253130" ref="index:about:tablet>index:tablet>about:tablet>contact"/>
     <file name="headshot_website.jpg" crc="489956656" ref="about"/>
     <file name="arrow_off.svg" crc="458579613" ref="freelance:sports:typography:branding:pipe-dream:creative:tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding"/>
     <file name="arrow_off_poster_.png" crc="4255836493" ref="tablet>freelance"/>
@@ -538,11 +538,11 @@
     <file name="consumerreportscover383x490.jpg" crc="92793458" ref="creative" seo="true"/>
     <file name="headshot_website-u17376-fr.jpg" crc="3882272460" ref="tablet>about"/>
     <file name="info.svg" crc="428611656" ref="tablet>about:about"/>
-    <file name="info_poster_.png" crc="158646502" ref="tablet>about"/>
+    <file name="info_poster_.png" crc="158646502" ref="tablet>about:about"/>
     <file name="about.svg" crc="4074990421" ref="tablet>about:about"/>
-    <file name="about_poster_.png" crc="387798115" ref="tablet>about"/>
+    <file name="about_poster_.png" crc="387798115" ref="tablet>about:about"/>
     <file name="skills.svg" crc="3908953474" ref="tablet>about:about"/>
-    <file name="skills_poster_.png" crc="525278564" ref="tablet>about"/>
+    <file name="skills_poster_.png" crc="525278564" ref="tablet>about:about"/>
     <file name="class.svg" crc="3944942533" ref="tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:freelance:sports:typography:pipe-dream:creative:branding"/>
     <file name="class_poster_.png" crc="3903133680" ref="tablet>freelance"/>
     <file name="pro.svg" crc="4167682731" ref="tablet>freelance:tablet>sports:tablet>pipe-dream:tablet>typography:tablet>creative:tablet>branding:freelance:sports:typography:pipe-dream:creative:branding"/>
@@ -554,31 +554,31 @@
     <file name="leftfield644x362.jpg" crc="477057810" seo="true" ref="tablet>sports"/>
     <file name="fullfield2644x362.jpg" crc="4223823885" seo="true" ref="tablet>sports"/>
     <file name="education.svg" crc="3987998372" ref="tablet>resume:resume"/>
-    <file name="education_poster_.png" crc="3808608379" ref="tablet>resume"/>
+    <file name="education_poster_.png" crc="3808608379" ref="tablet>resume:resume"/>
     <file name="experience.svg" crc="186500526" ref="tablet>resume:resume"/>
-    <file name="experience_poster_.png" crc="3900270504" ref="tablet>resume"/>
+    <file name="experience_poster_.png" crc="3900270504" ref="tablet>resume:resume"/>
     <file name="toppsimage.jpg" crc="384059861" seo="true" ref="tablet>resume:resume"/>
     <file name="g3_2.jpg" crc="3770867088" seo="true" ref="tablet>resume:resume"/>
     <file name="topps.svg" crc="4258048751" ref="tablet>resume:resume"/>
-    <file name="topps_poster_.png" crc="3882600705" ref="tablet>resume"/>
+    <file name="topps_poster_.png" crc="417886490" ref="tablet>resume:resume"/>
     <file name="g3.svg" crc="148279039" ref="tablet>resume:resume"/>
-    <file name="g3_poster_.png" crc="3766687770" ref="tablet>resume"/>
+    <file name="g3_poster_.png" crc="4229316440" ref="tablet>resume:resume"/>
     <file name="researchconnection.jpg" crc="4137081127" seo="true" ref="tablet>resume:resume"/>
     <file name="bulib2.jpg" crc="21700835" seo="true" ref="tablet>resume:resume"/>
     <file name="research.svg" crc="385653332" ref="tablet>resume:resume"/>
-    <file name="research_poster_.png" crc="413911903" ref="tablet>resume"/>
+    <file name="research_poster_.png" crc="3973236178" ref="tablet>resume:resume"/>
     <file name="library.svg" crc="3861220963" ref="tablet>resume:resume"/>
-    <file name="library_poster_.png" crc="3969024693" ref="tablet>resume"/>
+    <file name="library_poster_.png" crc="3789915475" ref="tablet>resume:resume"/>
     <file name="pipedream.jpg" crc="251791954" seo="true" ref="tablet>resume:resume"/>
     <file name="bu.jpg" crc="4138271064" seo="true" ref="tablet>resume:resume"/>
     <file name="pipedream.svg" crc="3822095858" ref="tablet>resume:resume"/>
-    <file name="pipedream_poster_.png" crc="146095957" ref="tablet>resume"/>
+    <file name="pipedream_poster_.png" crc="533752799" ref="tablet>resume:resume"/>
     <file name="ta.svg" crc="3953180824" ref="tablet>resume:resume"/>
-    <file name="ta_poster_.png" crc="486462275" ref="tablet>resume"/>
+    <file name="ta_poster_.png" crc="446151874" ref="tablet>resume:resume"/>
     <file name="software.svg" crc="3764078481" ref="tablet>resume:resume"/>
-    <file name="software_poster_.png" crc="4086217121" ref="tablet>resume"/>
+    <file name="software_poster_.png" crc="4086217121" ref="tablet>resume:resume"/>
     <file name="pdf.svg" crc="362967942" ref="tablet>resume:resume"/>
-    <file name="pdf_poster_.png" crc="28836584" ref="tablet>resume"/>
+    <file name="pdf_poster_.png" crc="28836584" ref="tablet>resume:resume"/>
     <file name="scoreboard1-crop-u17352.jpg" crc="3884181008" ref="sports"/>
     <file name="leftfield-crop-u17343.jpg" crc="4159384422" ref="sports"/>
     <file name="fullfield2-crop-u17334.jpg" crc="411255495" ref="sports"/>
@@ -586,12 +586,14 @@
     <file name="leftfield.jpg" crc="3948268162" seo="true" ref="sports"/>
     <file name="fullfield2.jpg" crc="4278936101" seo="true" ref="sports"/>
     <file name="walterwhite22.jpg" crc="290091414" seo="true" ref="typography"/>
+    <file name="conacticon1.svg" crc="3950639262" ref="tablet>contact:contact"/>
+    <file name="conacticon1_poster_.png" crc="4156173478" ref="tablet>contact"/>
   </folder>
-  <file name="index.html" crc="4167874737" mt="1437957485558" redirect="true" seo="true"/>
-  <file name="about.html" crc="439071145" mt="1437950645366" redirect="true" seo="true"/>
+  <file name="index.html" crc="4167874737" mt="1437959353802" redirect="true" seo="true"/>
+  <file name="about.html" crc="439071145" mt="1437958945385" redirect="true" seo="true"/>
   <file name="portfolio.html" crc="4184949253" mt="1437958460979" redirect="true" seo="true"/>
-  <file name="resume.html" crc="3800585352" mt="1437958390885" redirect="true" seo="true"/>
-  <file name="contact.html" crc="466142531" mt="1431408124876" redirect="true" seo="true"/>
+  <file name="resume.html" crc="3800585352" mt="1437958968746" redirect="true" seo="true"/>
+  <file name="contact.html" crc="333721799" mt="1437959354828" redirect="true" seo="true"/>
   <file name="freelance.html" crc="4264945152" mt="1437957488800" redirect="true" seo="true"/>
   <file name="sports.html" crc="71102107" mt="1437957246845" redirect="true" seo="true"/>
   <file name="typography.html" crc="3942845182" mt="1437957436112" redirect="true" seo="true"/>

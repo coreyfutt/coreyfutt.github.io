@@ -1,7 +1,7 @@
 .version.resume /* version checker */
 {
-	color: #00001D;
-	background-color: #92E0F3;
+	color: #0000FA;
+	background-color: #83EF23;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 3292px;
+	min-height: 3253px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -236,7 +236,7 @@
 	font-family: lato, sans-serif;
 	font-weight: 400;
 	margin-left: 230px;
-	margin-top: 60px;
+	margin-top: 40px;
 	position: relative;
 }
 
@@ -2064,7 +2064,7 @@
 {
 	z-index: 3;
 	min-height: 247px;
-	margin-top: 79px;
+	margin-top: 60px;
 }
 
 body
